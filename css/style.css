@@ -95,6 +95,84 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 ======================================*/
  
 
+/* 1.4: Padding/Margin */
+.pt-120 { padding-top: 120px; }
+.pb-120 { padding-bottom: 120px; }
+.pt-90 { padding-top: 90px; }
+.pb-90 { padding-bottom: 90px; }
+.pt-80 { padding-top: 80px; }
+.pb-80 { padding-bottom: 80px; }
+.pt-70 { padding-top: 70px; }
+.pb-70 { padding-bottom: 70px; }
+.pt-60 { padding-top: 60px; }
+.pb-60 { padding-bottom: 60px; }
+.pt-65 { padding-top: 65px; }
+.pb-65 { padding-bottom: 65px; }
+.pt-55 { padding-top: 55px; }
+.pb-55 { padding-bottom: 55px; }
+.pt-50 { padding-top: 50px; }
+.pb-50 { padding-bottom: 50px; }
+.pt-30 { padding-top: 30px; }
+.pb-30 { padding-bottom: 30px; }
+
+.mt-60 { margin-top: 60px; }
+.mb-60 { margin-bottom: 60px; }
+.mt-55 { margin-top: 55px; }
+.mb-55 { margin-bottom: 55px; }
+.mt-50 { margin-top: 50px; }
+.mb-50 { margin-bottom: 50px; }
+.mt-30 { margin-top: 30px; }
+.mb-30 { margin-bottom: 30px; }
+.mt-10 { margin-top: 15px; }
+.mb-10 { margin-bottom: 15px; }
+
+/* media query*/
+
+@media (min-width: 360px)
+{
+    .banner-services
+    {
+        margin-top: -85px;
+        z-index: 1;
+        left: 7%;
+    }
+
+    .slider-1
+    {
+      margin-top: none;
+    }
+}
+
+@media (min-width: 768px)
+{
+    .banner-services
+    {
+        margin-top: -468px;
+        z-index: 1;
+        left: 7%;
+    }
+
+    .slider-1
+    {
+      margin-top: -23%;
+    }
+}
+/*end media query*/
+
+
+/*footer stylings*/
+
+.footer-widget-social .links li {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.footer-widget-social-links {
+    text-align: right;
+    margin-top: 5px;
+}
+/*End Footer Styling*/
+
 /*************************
 		Header 1
 *************************/
@@ -839,6 +917,9 @@ li:last-child.highlight { margin-bottom: 0px; }
 .feature-12 p { display: table; }
 /*feature 13*/
 .features13 { padding-top: 50px; padding-right: 25px; }
+.padding-img { padding-top: 50px; padding-right: 25px; }
+
+
 .features13 p { position: relative; z-index: 9; margin-top: 20px; margin-bottom: 20px; }
 .features13 b { position: absolute; z-index: 0; top: 83px; font-family: 'Lato', sans-serif;  right: 19px; font-size: 72px; color: #dde1eb; line-height: 72px; }
 .features13 ul { border-right: 6px solid #dde1eb; padding-right: 20px; }
@@ -2610,6 +2691,15 @@ ul.footer-instagram-images li { display: inline-block; }
 .footer-widget-social { text-align: right; margin-top: 5px; } 
 .footer-widget-social li  { display: inline-block;} 
 .footer-widget-social a i { display: inline-block; color: #fff; background: #00a9da; border-radius: 50%; width: 45px; height: 45px; text-align:center; line-height: 47px; font-size: 14px; -webkit-transition: all 0.3s ease-out 0s; -moz-transition: all 0.3s ease-out 0s; -ms-transition: all 0.3s ease-out 0s; -o-transition: all 0.3s ease-out 0s; transition: all 0.3s ease-out 0s;} 
+
+
+.footer-widget-my-links { background: #0f0f0f; padding: 20px 15px; }
+.footer-widget-my-links a { color: #fff; } 
+.footer-widget-my-links a:hover { color: #0386ac; } 
+.footer-widget-social-my-links { text-align: right; margin-top: 5px; } 
+.footer-widget-social-my-links li  { display: inline-block;margin-right: 5px;} 
+
+
 /*  Tooltip Styles */
 /* Base styles for the element that has a tooltip */
 .footer-widget-social [data-tooltip],

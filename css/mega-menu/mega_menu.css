@@ -102,8 +102,10 @@
   display: inline-block;
   float: left;
   width: 100%;
-  color: #ffffff;
-  font-size: 0.8125em;
+  /*color: #ffffff;*/
+  color: #323232;
+  /*font-size: 0.8125em;*/
+  font-size: 20px;
   /*padding: 0 20px 0 45px;*/
   line-height: 50px;
   -webkit-transition: background-color 200ms ease;

@@ -981,7 +981,8 @@ h3 { font-size: 22px; }
 .login-3 .login-with h3 { font-size: 17px; }
 
 /*home-6*/
-#animated-slider .slider-content p { display: none; }
+/*#animated-slider .slider-content p { display: none; }*/
+#animated-slider .slider-content p { display: block; }
 #animated-slider .slider-content h1 { font-size: 22px; }
 #animated-slider .carousel-indicators { bottom: 10px; }
 .custom-content-5 h4 { line-height: 33px; }
