@@ -78,6 +78,7 @@ label { font-size: 15px; font-weight: 400;color: #626262; }
 /***************************
 Page section margin padding 
 ****************************/
+.page-section-ptb-less { padding: 54px 0; }
 .page-section-ptb { padding: 80px 0; }
 .page-section-pt { padding: 80px 0 0; }
 .page-section-pb { padding: 0 0 80px; }
