@@ -267,5 +267,6 @@ slider -->
   End Two Column Section -->
 
  <?php
+  include 'common.php';
   include 'footer.php';
  ?>

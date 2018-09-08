@@ -1255,7 +1255,8 @@ a.blog-btn i {  margin-left: 10px; -webkit-transition: all 0.3s ease-out 0s; -mo
 /*testimonial 2*/
 .testimonial-2 .testimonial-avatar { float: left; margin-right: 30px; }
 .testimonial-2 .testimonial-info { display: table; }
-.testimonial-2 .testimonial-info p {  padding:10px 0 0 0; color: #fff; }
+/* .testimonial-2 .testimonial-info p {  padding:10px 0 0 0; color: #fff; } */
+.testimonial-2 .testimonial-info p {  padding:10px 8px 0 0; color: #fff; }
 .testimonial-2 .testimonial-info strong { font-size: 14px; }
 .testimonial-2 .testimonial-info span { color: #fff;  }
  /*owl-carousel-9*/
@@ -1599,6 +1600,7 @@ input.feature-toggle:checked ~ .feature-annotations span:nth-child(5) { -webkit-
 **************************************/
 .contact-box i { background: #eceff7; width: 80px; height: 80px; text-align: center; line-height: 80px; border-radius: 5px; font-size: 34px; color: #00a9da;/* margin-bottom: 20px;*/ }
 /*contact form*/
+.contact-form .section-field { position: relative; width: 31.3%; margin-right: 3%; float: left; }
 .contact-form .section-field { position: relative; width: 31.3%; margin-right: 3%; float: left; }
 .contact-form .section-field:nth-child(3) { margin-right: 0px; }
 .contact-form .section-field i { position: absolute; left: 0; color: #00a9da; display: inline-block; width: 45px; height: 45px; line-height: 45px; text-align: center; z-index: 99; }
@@ -2697,8 +2699,9 @@ ul.footer-instagram-images li { display: inline-block; }
 .footer-widget-my-links { background: #0f0f0f; padding: 20px 15px; }
 .footer-widget-my-links a { color: #fff; } 
 .footer-widget-my-links a:hover { color: #0386ac; } 
-.footer-widget-social-my-links { text-align: right; margin-top: 5px; } 
+.footer-widget-social-my-links { text-align: center; margin-top: 5px; } 
 .footer-widget-social-my-links li  { display: inline-block;margin-right: 5px;} 
+.footer-widget-social-my-links li  a { font-size: 17px;} 
 
 
 /*  Tooltip Styles */

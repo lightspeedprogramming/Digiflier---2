@@ -394,7 +394,7 @@ slider -->
               </ul>
 
               <a class="button mb-70 mt-60" href="#">
-                <span>Get started now</span>
+                <span>Read More</span>
                 <i class="fa fa-hand-o-right"></i>
               </a>
 
@@ -424,7 +424,7 @@ slider -->
               </ul>
 
               <a class="button mb-70 mt-60" href="#">
-                <span>Get started now</span>
+                <span>Read More</span>
                 <i class="fa fa-hand-o-right"></i>
               </a>
           </div>
@@ -447,7 +447,7 @@ slider -->
               </ul>
 
               <a class="button mb-70 mt-60" href="#">
-                <span>Get started now</span>
+                <span>Read More</span>
                 <i class="fa fa-hand-o-right"></i>
               </a>
           </div>
@@ -476,7 +476,7 @@ slider -->
               </ul>
 
               <a class="button mb-70 mt-60" href="#">
-                <span>Get started now</span>
+                <span>Read More</span>
                 <i class="fa fa-hand-o-right"></i>
               </a>
           </div>
@@ -501,7 +501,7 @@ slider -->
               </ul>
 
               <a class="button mb-70 mt-60" href="#">
-                <span>Get started now</span>
+                <span>Read More</span>
                 <i class="fa fa-hand-o-right"></i>
               </a>
           </div>
@@ -530,7 +530,7 @@ slider -->
               </ul>
 
               <a class="button mb-70 mt-60" href="#">
-                <span>Get started now</span>
+                <span>Read More</span>
                 <i class="fa fa-hand-o-right"></i>
               </a>
           </div>
@@ -553,7 +553,7 @@ slider -->
               </ul>
 
               <a class="button mb-70 mt-60" href="#">
-                <span>Get started now</span>
+                <span>Read More</span>
                 <i class="fa fa-hand-o-right"></i>
               </a>
           </div>
@@ -582,7 +582,7 @@ slider -->
               </ul>
 
               <a class="button mb-70 mt-60" href="#">
-                <span>Get started now</span>
+                <span>Read More</span>
                 <i class="fa fa-hand-o-right"></i>
               </a>
           </div>
@@ -632,5 +632,6 @@ counter -->
 
 
 <?php
+  include 'common.php';
   include 'footer.php';
 ?>

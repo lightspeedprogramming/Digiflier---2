@@ -382,15 +382,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <li><a href="contact-3.html">Contact 3</a></li>
                 </ul>
             </li>
-            <li class="seaech">
-              <div class="search-3">
-                      <a class="search-btn not_click" href="javascript:void(0);">Search Button</a>
-                        <div class="search-3-box not-click">
-                           <input type="text" class="not-click placeholder" placeholder="Search" value="" name="s">
-                         <i class="fa fa-search"></i>
-                     </div>
-                </div>
-            </li>
+           
             <li><a class="login" href="#"> Login</a>
               <div class="login-1 login-open text-left">
                 <form class="form-signin">  

@@ -68,17 +68,34 @@
   <div class="footer-widget-my-links mt-60">
    <div class="container"> 
     <div class="row">
-      <div class="col-lg-6 col-md-6">
+      <div class="col-lg-6 col-md-6 col-sm-12">
         <p class="text-white mt-15"> &copy;Copyright <a href="index.php"> XYZ</a> <span id="copyright"> <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script></span>  All Rights Reserved </p>
       </div>
-      <div class="col-lg-6 col-md-6">
-        <div class="footer-widget-social-my-links">
-         <ul class=""> 
-            <li><a href="refund-policy.php">Refund Policy</a></li>
-            <li><a href="privacy-policy.php">Privacy Policy</a></li>
-            <li><a href="terms-and-conditions.php">Terms &amp; Conditions</a></li>
-         </ul>
-       </div>
+      <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="row">
+          <div class="col-md-4 col-sm-12">
+            <div class="footer-widget-social-my-links ">
+               <ul class=""> 
+                  <li><a href="refund-policy.php">Refund Policy</a></li>
+               </ul>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="footer-widget-social-my-links">
+               <ul class=""> 
+                  <li><a href="privacy-policy.php">Privacy Policy</a></li>
+               </ul>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="footer-widget-social-my-links">
+               <ul class=""> 
+                  <li><a href="terms-and-conditions.php">Terms &amp; Conditions</a></li>
+               </ul>
+            </div>
+          </div>
+        </div>
+        
       </div>
     </div>    
    </div>
