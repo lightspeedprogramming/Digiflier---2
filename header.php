@@ -137,7 +137,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="grid-col-3">
                             <ul>
                               <li><a href="about-1.html">About 1</a></li>
-                              <li><a href="about-2.html">About 2</a></li>
+                              <li><a href="about.php">About 2</a></li>
                               <li><a href="about-3.html">About 3</a></li>
                               <li><a href="about-me.html">About me</a></li>
                               <li><a href="service-1.html">service 1 </a></li>

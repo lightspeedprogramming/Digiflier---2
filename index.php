@@ -633,7 +633,7 @@ counter -->
 <!--=================================
 custom-content  -->
 
-
+<!--
 <section class="custom-content-7 bg-14 page-section-ptb">
   <div class="container">
     <div class="row">
@@ -645,7 +645,7 @@ custom-content  -->
     </div>
   </div>
 </section>
- 
+-->
 
 <!--=================================
 custom-content -->
@@ -653,7 +653,7 @@ custom-content -->
 
 <!--=================================
  action-box -->
-
+<!--
 <section class="action-box">
   <div class="container">
     <div class="row">
@@ -674,7 +674,7 @@ custom-content -->
     </div>
   </div>
 </section>
-
+-->
 <!--=================================
  action-box -->
 
