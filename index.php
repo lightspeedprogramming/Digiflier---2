@@ -1,6 +1,6 @@
 <!-- Header -->
 <?php
-  $title = 'Xyz Softwares';
+  $title = 'Home || Xyz';
   include 'header.php';
 ?>
 <!-- Header -->
@@ -629,55 +629,6 @@ counter -->
 
 <!--=================================
 counter -->
-
-<!--=================================
-custom-content  -->
-
-
-<section class="custom-content-7 bg-14 page-section-ptb">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 col-md-12 text-center">
-        <h2 class="mb-30">Are You Ready to Succeed? Be ready with us!</h2>
-        <p class="mb-30">The Corps offers you unfathomable accessibility to build beautiful and customer-oriented websites. Unique designs, eye-catchy portfolio and innovative website building tools work seamlessly to boost your business online.</p>
-        <a class="button button-black" target="_blank" href="http://themeforest.net/item/the-corps-multipurpose-html5-template/15623522?ref=Potenzaglobalsolutions"><span> Purchase now </span></a>
-      </div>
-    </div>
-  </div>
-</section>
- 
-
-<!--=================================
-custom-content -->
-
-
-<!--=================================
- action-box -->
-
-<section class="action-box">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-8">
-        <h3 class="text-white">The Corps Unique & Clean HTML5 Multi-Purpose Template</h3>
-        <p class="text-white">We are a creative company, who works with passion and love. We provide the best services you need. </p>
-      </div>
-      <div class="col-lg-4 col-md-4 text-right action-box-button">
-         <a href="#" class="button button-white mt-15">
-            <span>More Demo</span>
-            <i class="fa fa-hand-o-right"></i>
-         </a>
-        <a target="_blank" href="http://themeforest.net/item/the-corps-multipurpose-html5-template/15623522?ref=Potenzaglobalsolutions" class="button button-black mt-15">
-            <span>Purchase Now</span>
-            <i class="fa fa-download"></i>
-         </a> 
-      </div>
-    </div>
-  </div>
-</section>
-
-<!--=================================
- action-box -->
-
 
 <?php
   include 'footer.php';
