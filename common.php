@@ -119,7 +119,9 @@
                       <textarea class="form-control" placeholder="Message*" rows="7" name="message"></textarea>                      
                     </div>
 
-                    <button id="submit" name="submit" type="submit" value="Send" class="button mt-15"><span> Send your message </span> <i class="fa fa-paper-plane"></i></button>
+                    <div class="col-md-12 text-center">
+                      <button id="submit" name="submit" type="submit" value="Send" class="button mt-15"><span> Send your message </span> <i class="fa fa-paper-plane"></i></button>
+                    </div>
                   </div>
                   
                   

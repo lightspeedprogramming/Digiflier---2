@@ -100,6 +100,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                    <!--grid column 3-->
                     <div class="grid-col-4">
                      <ul>
+                        <li><a href="price.php">Pricing</a></li>
                         <li><a href="home-1-default.html">Home 1 - Default <span class="label label-danger ml-10">Hot</span></a></li>
                         <li><a href="home-2-rain.html">Home 2 - Rain</a></li> 
                         <li><a href="home-3-corporate.html">Home 3 - Corporate</a></li>

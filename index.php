@@ -285,7 +285,7 @@ slider -->
        </div>
      </div>
      <div class="row">
-       <div class="col-lg-2 col-md-3 col-sm-6">
+       <div class="col-lg-2 col-md-12">
           <div class="team-4 text-center">
              <div class="team-image">
                 <img class="img-responsive center-block" src="images/team/08.jpg" alt="">
@@ -297,7 +297,7 @@ slider -->
              
           </div>
        </div>
-       <div class="col-lg-2 col-md-3 col-sm-6">
+       <div class="col-lg-2 col-md-12">
           <div class="team-4 text-center">
              <div class="team-image">
                 <img class="img-responsive center-block" src="images/team/09.jpg" alt="">
@@ -309,7 +309,7 @@ slider -->
              
           </div>
        </div>
-       <div class="col-lg-2 col-md-3 col-sm-6">
+       <div class="col-lg-2 col-md-12">
           <div class="team-4 text-center">
              <div class="team-image">
                 <img class="img-responsive center-block" src="images/team/10.jpg" alt="">
@@ -321,7 +321,7 @@ slider -->
              
           </div>
        </div>
-       <div class="col-lg-2 col-md-3 col-sm-6">
+       <div class="col-lg-2 col-md-12">
           <div class="team-4 text-center">
              <div class="team-image">
                 <img class="img-responsive center-block" src="images/team/11.jpg" alt="">
@@ -333,7 +333,7 @@ slider -->
              
           </div>
        </div>
-       <div class="col-lg-2 col-md-3 col-sm-6">
+       <div class="col-lg-2 col-md-12">
           <div class="team-4 text-center">
              <div class="team-image">
                 <img class="img-responsive center-block" src="images/team/11.jpg" alt="">
@@ -345,7 +345,7 @@ slider -->
              
           </div>
        </div>
-       <div class="col-lg-2 col-md-3 col-sm-6">
+       <div class="col-lg-2 col-md-12">
           <div class="team-4 text-center">
              <div class="team-image">
                 <img class="img-responsive center-block" src="images/team/11.jpg" alt="">

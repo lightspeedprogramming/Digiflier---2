@@ -181,6 +181,8 @@ a.button-small:hover:after { width: 100%; }
 .text-blue { color: #00a9da; }
 .text-white { color: #fff; }
 .text-black { color: #363636; }
+.text-red { color: #610f0e; }
+}
  
 /*************************
 		Input

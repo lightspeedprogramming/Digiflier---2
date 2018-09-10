@@ -157,8 +157,32 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
       margin-top: -23%;
     }
 }
+
+
+@media (max-width: 768px)
+    {
+        
+        .row .sm-device-padding
+        {
+            padding-top: 30px;
+        }
+    }
+
+
 /*end media query*/
 
+
+/*custom paragraph*/
+
+.my-parra p {
+    font-size: 17px;
+    font-weight: normal;
+    line-height: 24px;
+}
+
+.l-height-31 {
+  line-height: 31px;
+}
 
 /*footer stylings*/
 
@@ -805,10 +829,12 @@ li:last-child.highlight { margin-bottom: 0px; }
  .bg-4 { background: url(../images/bg/04.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
  .bg-5 { background: url(../images/bg/05.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; }
  .bg-6 { background: url(../images/bg/06.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
+ .bg-6-my { background: url(../images/slider/slider-06.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
  .bg-7 { background: url(../images/bg/07.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
  .bg-8 { background: url(../images/bg/08.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
  .bg-9 { background: url(../images/bg/09.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; }
  .bg-10 { background: url(../images/bg/11.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
+  .bg-my-10 { background-color: #00a9da;  }
   .bg-11 { background: url(../images/bg/12.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; }
   .bg-12 { background: url(../images/bg/15.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; }
   .bg-13 { background: url(../images/bg/16.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed;  }
@@ -913,6 +939,19 @@ li:last-child.highlight { margin-bottom: 0px; }
 .feature-11 .feature-11-info p { margin-bottom: 0px; }
 .feature-11:hover .feature-11-icon { border-color: #00a9da; }
 .feature-11:hover .feature-11-icon span { background: #00a9da; color: #fff; }
+
+.my-feature-11 .feature-11-icon { background: transparent; border:1px solid #eceff8; border-radius: 50%; display: block; height: 90px; margin: 0 auto; padding: 9px; text-align: center;
+  width: 90px;  -webkit-transition:all 0.3s ease-in-out; -ms-transition:all 0.3s ease-in-out; -o-transition:all 0.3s ease-in-out; -moz-transition:all 0.3s ease-in-out; transition:all 0.3s ease-in-out; }
+.my-feature-11 .feature-11-icon span { width: 70px; height: 70px; border-radius: 50%; color: #363636; font-size: 26px; text-align: center; line-height: 75px; background: #eceff8; display: inline-block; -webkit-transition:all 0.3s ease-in-out; -ms-transition:all 0.3s ease-in-out; -o-transition:all 0.3s ease-in-out; -moz-transition:all 0.3s ease-in-out; transition:all 0.3s ease-in-out; }
+.my-feature-11 .feature-11-info h4 {  position: relative; }
+.my-feature-11 .feature-11-info h4:before { position: absolute; content: ""; width: 70px; height: 2px; background: #00a9da; margin: 0 auto; left: 37%; bottom: 0; }
+.my-feature-11 .feature-11-info p { margin-bottom: 0px; }
+.my-feature-11:hover .feature-11-icon { border-color: #00a9da; }
+.my-feature-11:hover .feature-11-icon span { background: #00a9da; color: #fff; }
+
+.my-feature-11 {
+      padding: 35px 0;
+}
 /*feature 12*/
 .feature-12 span {font-size: 30px; color: #fff; margin-right: 20px; float: left; }
 .feature-12 p { display: table; }

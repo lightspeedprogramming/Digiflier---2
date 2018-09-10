@@ -74,21 +74,21 @@ key-features -->
         <div class="col-lg-4 col-md-4 col-sm-4">
           <div class="feature-10 text-center mb-30">
             <span aria-hidden="true" class="icon-layers"></span>
-            <h4 class="text-back pt-20 pb-10"><b>SOCIAL MEDIA STRATEGY DEVELOPMENT</b></h4>
+            <h4 class="text-back pt-40 pb-10"><b>SOCIAL MEDIA STRATEGY DEVELOPMENT</b></h4>
             <p>Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam,  sed quia nesciunt in accusamus necessitatibus modi adipisci officia</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-4">
           <div class="feature-10 text-center mb-30">
             <span aria-hidden="true" class="icon-picture"></span>
-            <h4 class="text-back pt-20 pb-10"><b>SOCIAL MEDIA ADVERTISING MANAGEMENT</b></h4>
+            <h4 class="text-back pt-40 pb-10"><b>SOCIAL MEDIA ADVERTISING MANAGEMENT</b></h4>
             <p>Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam,  sed quia nesciunt in accusamus necessitatibus modi adipisci officia</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-4">
           <div class="feature-10 text-center mb-30">
             <span aria-hidden="true" class="icon-heart"></span>
-            <h4 class="text-back pt-20 pb-10"><b>SOCIAL MEDIA CONTENT CREATION</b></h4>
+            <h4 class="text-back pt-40 pb-10"><b>SOCIAL MEDIA CONTENT CREATION</b></h4>
             <p>Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam,  sed quia nesciunt in accusamus necessitatibus modi adipisci officia</p>
           </div>
         </div>
@@ -146,7 +146,7 @@ Work Process  -->
                <span class="icon-note" aria-hidden="true"></span>
                <h3 class="text-blue">STRATEGY</h3>
               </div>
-              <h3 class="mt-30 text-blue">DEVELOPMENT</h3>
+              <h3 class="mt-30 text-red"><b>DEVELOPMENT</b></h3>
            </div>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-6">
@@ -156,7 +156,7 @@ Work Process  -->
                <span class="icon-pencil" aria-hidden="true"></span>
                <h3 class="text-blue">ADVERTISING</h3>
               </div>
-              <h3 class="mt-30 text-blue">MANAGEMENT</h3>
+              <h3 class="mt-30 text-red"><b>MANAGEMENT</b></h3>
            </div>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-6">
@@ -166,7 +166,7 @@ Work Process  -->
                <span class="icon-settings" aria-hidden="true"></span>
                <h3 class="text-blue">COMMUNITY </h3>
               </div>
-              <h3 class="mt-30 text-blue">MANAGEMENT</h3>
+              <h3 class="mt-30 text-red"><b>MANAGEMENT</b></h3>
            </div>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-6">
@@ -176,7 +176,7 @@ Work Process  -->
                <span class="icon-rocket" aria-hidden="true"></span>
                <h3 class="text-blue">MEASUREMENT</h3>
               </div>
-              <h3 class="mt-30 text-blue">REPORTING</h3>
+              <h3 class="mt-30 text-red"><b>REPORTING</b></h3>
            </div>
         </div> 
        </div> 

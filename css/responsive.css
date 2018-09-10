@@ -795,6 +795,7 @@ a.button.button i { font-size: 16px; padding: 11px; }
 .single-portfolio-post.post-2 .port-info { margin-top: 30px; }
 /*service*/
 .like-what img { display: none; }
+.like-what-my img { display: block; }
 .service-3 { margin: 0 auto;  width: 60%; } 
 .service-3 img { margin: 20px 0;}
 .service-3 .features13 { padding-top: 0px; }

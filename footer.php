@@ -262,6 +262,9 @@
 <!-- custom -->
 <script type="text/javascript" src="js/custom.js"></script>
 
+<!-- counter -->
+<script src="js/counter/jquery.countTo.js"></script>
+
  
 
 </body>
