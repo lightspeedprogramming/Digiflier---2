@@ -74,7 +74,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  
 <!--=================================
  header -->
-
+ <div class="row" style="height: 26px;">
+   <div class="col-md-12">
+     <div class="fixed-top" style="text-align:center;background:#288FEB;width:100%; position:fixed;max-height: 26px;">
+          <div class="container">
+          <p style="text-align:center; font-size:18px!important"><a style="color:#fff" href="tel:xxx-xxx-xxxx"><i class="fa fa-phone" style="color:white;"></i> x (xxx) xxx-xxx</a></p>
+          </div>
+      </div>
+   </div>
+ </div>
  <header id="header" class="header-6">
   <div class="menu">  
   <!-- menu start -->
@@ -192,7 +200,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div>
             </li>
-            <li><a href="javascript:void(0)">blog <i class="fa fa-angle-down fa-indicator"></i></a>
+            <li><a href="price.php">Price <i class="fa fa-angle-down fa-indicator"></i></a>
                 <!-- drop down multilevel  -->
                 <ul class="drop-down-multilevel">
                     <li><a href="javascript:void(0)">blog classic <i class="fa fa-angle-right fa-indicator"></i> </a>
@@ -375,16 +383,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div> 
             </li>
-            <li><a href="javascript:void(0)"> Contact <i class="fa fa-angle-down fa-indicator"></i></a>
-                 <!-- drop down multilevel  -->
-                <ul class="drop-down-multilevel right-menu">
-                    <li><a href="contact-1.html">Contact 1</a></li>
-                    <li><a href="contact-2.html">Contact 2</a></li>
-                    <li><a href="contact-3.html">Contact 3</a></li>
-                </ul>
-            </li>
            
-            <li><a class="login" href="#"> Login</a>
+           
+            <!--<li><a class="login" href="#"> Login</a>
               <div class="login-1 login-open text-left">
                 <form class="form-signin">  
                 <div class="form-group">     
@@ -415,7 +416,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a>
                   </div>
               </div>
-            </li>
+            </li>-->
         </ul>
        </div>
       </div>

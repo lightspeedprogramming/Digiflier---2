@@ -86,7 +86,7 @@ slider -->
   <div class="container">
     <div class="row">
        
-      <div class="col-lg-6 col-md-6">
+      <div class="col-lg-6 col-md-6 col-sm-6">
          <div class="who-we-are-left">
           <div class="owl-carousel-2">
           <div class="item"><img src="images/about/03.jpg" alt="">
@@ -99,14 +99,14 @@ slider -->
         </div>
       </div>
 
-      <div class="col-lg-6 col-md-6">
+      <div class="col-lg-6 col-md-6 col-sm-6">
         <div class="who-we-are-right">
           
               <div class="row">
                  <div class="col-lg-12 col-md-12">
                     <div class="feature-4">
                       <span class="icon-pencil" aria-hidden="true"></span>
-                        <h4>Web Designing</h4>
+                        <h4>OUR VISION</h4>
                         <p class="mt-20">Sit amet, consectetur adipisicing elit. Vero quod quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia...
                         Sit amet, consectetur adipisicing elit. Vero quod quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia...</p>
                         
@@ -117,7 +117,7 @@ slider -->
                  <div class="col-lg-12 col-md-12">
                     <div class="feature-4">
                         <span class="icon-game-controller" aria-hidden="true"></span>
-                        <h4>Apps & Game Development</h4>
+                        <h4>OUR MISSION</h4>
                         <p class="mt-20">Sit amet, consectetur adipisicing elit. Vero quod quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia...
                         Sit amet, consectetur adipisicing elit. Vero quod quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia...</p>
                         
@@ -128,7 +128,7 @@ slider -->
                  <div class="col-lg-12 col-md-12">
                     <div class="feature-4">
                         <span class="icon-rocket" aria-hidden="true"></span>
-                        <h4>Seo Analysis & Marketing</h4>
+                        <h4>OUR TEAM</h4>
                         <p class="mt-20">Sit amet, consectetur adipisicing elit. Vero quod quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia...
                         Sit amet, consectetur adipisicing elit. Vero quod quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia...</p>
                         
@@ -230,7 +230,7 @@ slider -->
         </div>
          <div class="row">
           
-          <div class="col-lg-6 col-md-6">
+          <div class="col-lg-6 col-md-6 col-sm-6">
              <div class="who-we-are-left">
               <div class="owl-carousel-2">
               <div class="item"><img src="images/about/03.jpg" alt="">
@@ -243,7 +243,7 @@ slider -->
             </div>
           </div>
 
-          <div class="col-lg-6 col-md-6">
+          <div class="col-lg-6 col-md-6 col-sm-6">
             <div class="who-we-are-right">
               <h3 class="text-blue mb-20">WHAT MAKES US UNIQUE</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span class="tooltip-content-2" data-placement="top" data-toggle="tooltip" data-original-title="Sed hendrerit enim non justo">Vero quod conseqt</span> quibusdam, enim expedita sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia libero accusantium esse hic, obcaecati, ullam, laboriosam!</p>

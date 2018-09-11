@@ -168,6 +168,48 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
         }
     }
 
+a.button-border-my span {
+    border: 0 none;
+    border-radius: 3px;
+    cursor: pointer;
+    display: inline-block;
+    padding: 11px 20px;
+    margin-right: 10px;
+    overflow: hidden;
+    position: relative;
+    background-color: #fff;
+    color: #00a9da;
+    font-size: 15px;
+    border: 1px solid #323232;
+}
+    .pricing-order .button-border-my {
+    float: none;
+    margin: 0 auto;
+    width: 125px;
+    padding: 8px 16px;
+}
+
+
+.contact-area {
+    padding: 24px 0 50px;
+}
+
+.contact-info .title {
+    font-size: 24px;
+    line-height: 28px;
+    margin: 0 0 14px;
+}
+
+.cf-msg {
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.cf-input-box {
+    margin: 0 0 20px;
+}
+
 
 /*end media query*/
 
@@ -493,7 +535,7 @@ body.top-search-open #header .logo, body.top-search-open #header .topbar-left, b
 .header-6 .search-3 { padding: 23px 0; margin: 0 3px; }
 .header-6 .search-3.search-3-open .search-3-box { top: 64px !important; }
 .header-6 .mega-menu .menu-links > li:last-child { margin-left: 15px; }
-.header-6 .mega-menu .menu-links > li:last-child > a { line-height: 20px; background: #00a9da; color: #fff; text-transform: uppercase; padding: 2px 12px; font-size: 12px; border-radius: 3px; margin-top: 21px;   }
+/*.header-6 .mega-menu .menu-links > li:last-child > a { line-height: 20px; background: #00a9da; color: #fff; text-transform: uppercase; padding: 2px 12px; font-size: 12px; border-radius: 3px; margin-top: 21px;   }*/
 .header-6 .mega-menu .drop-down-multilevel.right-menu { right: 100px; }
 .header-6 .mega-menu.desktopTopFixed .menu-list-items { background: #fff; }
 .header-6 .mega-menu.desktopTopFixed .search-3 { display: none; }
@@ -3001,4 +3043,14 @@ ul.footer-instagram-images li { display: inline-block; }
 @media (max-width: 1199px) {
 .wide-layout .move-carousel, .boxed-layout .move-carousel { height:100vh; top:0; padding:0px 0px 0px 0px; transform:none; }
 .move-carousel .owl-carousel { position:relative; top:50%; padding:0px 0px 0px 35px; transform:translateY(-50%); -webkit-transform:translateY(-50%); -o-transform:translateY(-50%); -ms-transform:translateY(-50%); -moz-transform:translateY(-50%); }
+}
+
+
+
+@media (max-width: 414px)
+{
+  .row .sm-device-margin
+  {
+    margin-top: 20px;
+  }
 }

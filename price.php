@@ -51,7 +51,7 @@ slider -->
       <div class="col-lg-4 col-md-4 col-sm-4">
        <div class="pricing-table text-center">
         <div class="pricing-title">
-           <h2>Standard</h2>
+           <h2>Basic</h2>
            <span>Starting at</span>
          <div class="pricing-prize">
            <h2 class="text-blue">360.00 $</h2>
@@ -77,13 +77,13 @@ slider -->
        </div>
      </div>
     </div>
-    <div class="col-lg-4 col-md-4 col-sm-4">
+    <div class="col-lg-4 col-md-4 col-sm-4 sm-device-margin">
        <div class="pricing-table active text-center">
         <div class="pricing-ribbon">
           <img src="images/ribbon.png" alt="">
         </div>
         <div class="pricing-title">
-           <h2 class="text-white text-bg">Medium</h2>
+           <h2 class="text-white text-bg">Standard</h2>
            <span>Starting at</span>
          <div class="pricing-prize">
            <h2 class="text-white">700.00 $</h2>
@@ -112,7 +112,7 @@ slider -->
     <div class="col-lg-4 col-md-4 col-sm-4">
        <div class="pricing-table text-center">
         <div class="pricing-title">
-           <h2>Premium</h2>
+           <h2>Proffesional</h2>
            <span>Starting at</span>
          <div class="pricing-prize">
            <h2 class="text-blue">1299.00 $</h2>
@@ -167,7 +167,7 @@ slider -->
         <div class="pricing-title">
            <h3>Features</h3>
            <!--<span>Starting at</span>-->
-         <div class="pricing-prize" style="padding: 27px 0;">
+         <div class="pricing-prize" style="padding: 48px 0;">
            <h2 class="text-blue" style="text-transform: capitalize;">Price</h2>
            <!--<span>Per month</span>-->
          </div>  
@@ -188,7 +188,7 @@ slider -->
            <li>Articles Written/Submitted</li>
            <li>Social Bookmarks</li>
            <li>Profile Link Building</li>
-           <li>Call us for more info :</li>
+           <li style="padding: 50px 0;">Call us for more info :</li>
            <li>Link Building Activities</li>
            <li>Title, Description, Keyword</li>
            <li></li>
@@ -201,7 +201,7 @@ slider -->
     <div class="col-lg-3 col-md-3 col-sm-3">
        <div class="pricing-table text-center">
         <div class="pricing-title">
-           <h3>Premium</h3>
+           <h3>Basic</h3>
            <span>Starting at</span>
          <div class="pricing-prize">
            <h2 class="text-blue">360.00 $</h2>
@@ -230,6 +230,8 @@ slider -->
               </div>
            </li>
            <li>Monthly</li>
+           <li>up to 5 pages</li>
+           <li></li>
          </ul>
        </div>
        
@@ -242,7 +244,7 @@ slider -->
           <img src="images/ribbon-2.png" alt="">
         </div>
         <div class="pricing-title">
-           <h3 class="text-white text-bg">Medium</h3>
+           <h3 class="text-white text-bg">Standard</h3>
            <div class="pricing-bg">
             <span>Starting at</span>
             <div class="pricing-prize">
@@ -269,10 +271,12 @@ slider -->
            <li>10</li>
            <li>
               <div class="pricing-order">
-                <a class="button-border" href="contact-us.php"><span>Order Now!</span></a>
+                <a class="button-border-my" href="contact-us.php"><span>Order Now!</span></a>
               </div>
            </li>
            <li>Monthly</li>
+           <li>up to 10 pages</li>
+           <li></li>
          </ul>
        </div>
        
@@ -282,7 +286,7 @@ slider -->
     <div class="col-lg-3 col-md-3 col-sm-3">
        <div class="pricing-table pricing-table-border text-center">
         <div class="pricing-title">
-           <h3>Ultimate</h3>
+           <h3>Proffessional</h3>
            <span>Starting at</span>
          <div class="pricing-prize">
            <h2 class="text-blue">1299.00 $</h2>
@@ -311,6 +315,8 @@ slider -->
               </div>
            </li>
            <li>Monthly</li>
+           <li>up to 20 pages</li>
+           <li></li>
          </ul>
        </div>
      </div>

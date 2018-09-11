@@ -46,11 +46,19 @@ about- -->
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">Social Media Marketing</h1>
        
-       <p class="text-justify"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores esse molestiae tempore hic, sint harum beatae quam incidunt dolorum et nostrum itaque, saepe? Dolores deserunt porro cumque vitae est saepe. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos voluptate dolore quidem obcaecati officia itaque maiores praesentium, voluptatem sed minima eius magni, perspiciatis molestias animi ratione ab, omnis delectus, voluptates. Lorem ipsum dolor sit amet, consectetur deleniti vel?</p>
+       <p class="text-justify"> Social media itself is a catch-all term for districts that may give completely fantastic social exercises. Facebook strikingly is an unmitigated individual to individual correspondence site that thinks about sharing updates, photos, joining events and an arrangement of various activities. </p>
+
+       <P class="text-justify">
+         Social media marketing is a form of online internet marketing that provides services like creating and sharing content on social media networks in order to achieve your marketing and branding goals. Social media marketing includes activities like posting text or editing and photos updates, videos, and other document files that drives visitor’s involvement, as well as paid social media advertising.
+       </P>
+
+      <P>
+        We’ve designed this guide to assist you with an introduction to social media marketing and some initial social media marketing tips and training to develop your online business's social presence. 
+      </P>
      </div>
     </div>
     <div class="col-lg-6 col-md-6">
-       <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/bg/14.png" alt="">
     </div>
   </div>
 
@@ -75,21 +83,21 @@ key-features -->
           <div class="feature-10 text-center mb-30">
             <span aria-hidden="true" class="icon-layers"></span>
             <h4 class="text-back pt-40 pb-10"><b>SOCIAL MEDIA STRATEGY DEVELOPMENT</b></h4>
-            <p>Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam,  sed quia nesciunt in accusamus necessitatibus modi adipisci officia</p>
+            <p>We give an extent of high-regard online social media consultancy benefits through which we help you with concluding accurate results from their online social media works out. </p>
           </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-4">
           <div class="feature-10 text-center mb-30">
             <span aria-hidden="true" class="icon-picture"></span>
             <h4 class="text-back pt-40 pb-10"><b>SOCIAL MEDIA ADVERTISING MANAGEMENT</b></h4>
-            <p>Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam,  sed quia nesciunt in accusamus necessitatibus modi adipisci officia</p>
+            <p>Our social media advertising organizations are exhibited to brighten improvement. By advertising through web-based systems administration, 100% of our clients have gotten awesome results. </p>
           </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-4">
           <div class="feature-10 text-center mb-30">
             <span aria-hidden="true" class="icon-heart"></span>
             <h4 class="text-back pt-40 pb-10"><b>SOCIAL MEDIA CONTENT CREATION</b></h4>
-            <p>Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam,  sed quia nesciunt in accusamus necessitatibus modi adipisci officia</p>
+            <p>We give an extent of social media creating and showing organizations on help you direct or by suggestion publicize your commitments through online life. </p>
           </div>
         </div>
      </div>
@@ -98,14 +106,14 @@ key-features -->
 <!--=================================
 key-features -->
 
-  <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+  <!--<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
 
 
   <div class="row">
     
 
     <div class="col-lg-6 col-md-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2 pt-55">
       <h1 class="mb-15 text-blue">What is Social Media Marketing?</h1>
        
        <p class="text-justify"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores esse molestiae tempore hic, sint harum beatae quam incidunt dolorum et nostrum itaque, saepe? Dolores deserunt porro cumque vitae est saepe. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos voluptate dolore quidem obcaecati officia itaque maiores praesentium, voluptatem sed minima eius magni, perspiciatis molestias animi ratione ab, omnis delectus, voluptates. Lorem ipsum dolor sit amet, consectetur deleniti vel?</p>
@@ -115,12 +123,12 @@ key-features -->
     </div>
 
      <div class="col-lg-6 col-md-6">
-       <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/bg/14.png" alt="">
      </div>
    
   </div> 
 
- </div>
+ </div>-->
 </section>
  
 <!--=================================
@@ -134,7 +142,7 @@ Work Process  -->
      <div class="row">
        <div class="col-lg-12 col-md-12">
          <div class="section-title-2 text-center">
-          <h2 class="text-blue">Work Process</h2>
+          <h2 class="text-blue">Our Process</h2>
           <div class="title-line"></div>
         </div>
        </div> 
@@ -191,7 +199,7 @@ Work Process -->
 
 <!--=================================
  like what -->
-  
+ <!-- 
 <section class="bg-10 like-what bg-opacity-black-70 page-section-ptb">
   <div class="container">
     <div class="row">
@@ -205,7 +213,7 @@ Work Process -->
     </div>
   </div>
  </div>
-</section>
+</section>-->
 
 <!--=================================
  like what  -->
@@ -213,7 +221,7 @@ Work Process -->
 
 <!--=================================
 about- -->
-
+<!--
 <section class="about white-bg page-section-ptb">
  <div class="container">
   <div class="row">
@@ -250,14 +258,14 @@ about- -->
      </div>
     </div>
     <div class="col-lg-5 col-md-6">
-       <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/bg/14.png" alt="">
     </div>
   </div>
 
   
 
  </div>
-</section>
+</section>-->
  
 <!--=================================
 about- -->

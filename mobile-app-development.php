@@ -62,11 +62,11 @@ about- -->
   <div class="row">
     <div class="col-lg-6 col-md-6">
      <div class="custom-content-2 pt-70">
-      <h1 class="mb-15">Mobile App Developemnt</h1>
+      <h1 class="mb-15 text-blue">Mobile App Developemnt</h1>
        
-       <p class="text-justify"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores esse molestiae tempore hic, sint harum beatae quam incidunt dolorum et nostrum itaque, saepe? Dolores deserunt porro cumque vitae est saepe. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos voluptate dolore quidem obcaecati officia itaque maiores praesentium, voluptatem sed minima eius magni, perspiciatis molestias animi ratione ab, omnis delectus, voluptates. Lorem ipsum dolor sit amet, consectetur deleniti vel?</p>
+       <p class="text-justify">We provide the best quality mobile app development services to ensure your comfort zone, with our service you can easily reach your market that also ensures your sales as well as enhance business growth.</p>
 
-       <p class="mt-10 text-justify">Precision design, responsive ready, full shortcodes design, perfect portfolio, unique blog layout and many many options for you so grab The Corps as soon as possible because it might change your way of presentation with its look & feature.</p>
+       <p class="mt-10 text-justify">Our best mobile application developers are creative and proficient to achieve your client's requests also as your business needs. With advanced and smart devices and innovation, our mobile applications developers can develop attractive mobile applications for our customer's needs.</p>
        
      </div>
     </div>
@@ -85,12 +85,16 @@ about- -->
 
     <div class="col-lg-6 col-md-6">
      <div class="custom-content-2 pt-70">
-      <h1 class="mb-15">What Set Us Apart From Competitive Indian Mobile App Developers?</h1>
+      <h1 class="mb-15 text-blue">We provide following services.</h1>
        
-       <p class="text-justify"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores esse molestiae tempore hic, sint harum beatae quam incidunt dolorum et nostrum itaque, saepe? Dolores deserunt porro cumque vitae est saepe. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos voluptate dolore quidem obcaecati officia itaque maiores praesentium, voluptatem sed minima eius magni, perspiciatis molestias animi ratione ab, omnis delectus, voluptates. Lorem ipsum dolor sit amet, consectetur deleniti vel?</p>
+       <ul class="who-we-are-about mt-20 mb-20">
+                <li><i class="fa fa-check-square-o"></i> Android App Development Services</li>
+                <li><i class="fa fa-check-square-o"></i>iPhone App Development Services</li>
+                <li><i class="fa fa-check-square-o"></i> Windows App Development Services</li>
+                <li><i class="fa fa-check-square-o"></i>Ionic App Development Services</li>
+                <li><i class="fa fa-check-square-o"></i>Hybrid App Development services</li>
+        </ul> 
 
-       <p class="mt-10 text-justify">Precision design, responsive ready, full shortcodes design, perfect portfolio, unique blog layout and many many options for you so grab The Corps as soon as possible because it might change your way of presentation with its look & feature.</p>
-       
      </div>
     </div>
 
@@ -105,12 +109,15 @@ about- -->
 
           <div class="col-lg-6 col-md-6">
             <div class="who-we-are-right">
-              <h3 class="text-blue mb-20">WHY DO YOU CHOOSE US?</h3>
+              <h1 class="text-blue mb-20">WHY DO YOU CHOOSE US?</h1>
               
               <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fa fa-check-square-o"></i> Nulla vehicula nisl cum soluta nobis est eligendi optio cumque </li>
-                <li><i class="fa fa-check-square-o"></i> nihil impeditnon enim fermentum veniamDuis nec aliquet massa</li>
-                <li><i class="fa fa-check-square-o"></i> sed dapibus mauris. Nulla vehicula nisl cum soluta nobis est eligendi.</li>
+                <li><i class="fa fa-check-square-o"></i>Experienced members of organizations</li>
+                <li><i class="fa fa-check-square-o"></i> Complete learning of platform and mobile innovations. </li>
+                <li><i class="fa fa-check-square-o"></i> Best-quality application development process.</li>
+                <li><i class="fa fa-check-square-o"></i> Time-bound distribution and profitable services.</li>
+                <li><i class="fa fa-check-square-o"></i> Reputed and Recognized for growing best mobile applications.</li>
+                <li><i class="fa fa-check-square-o"></i> Provide dynamic services to the different platform.</li>
               </ul> 
               
             </div>

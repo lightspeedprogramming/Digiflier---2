@@ -46,22 +46,20 @@ about- -->
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">Mobile App Designing</h1>
        
-       <p class="text-justify"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores esse molestiae tempore hic, sint harum beatae quam incidunt dolorum et nostrum itaque, saepe? Dolores deserunt porro cumque vitae est saepe. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos voluptate dolore quidem obcaecati officia itaque maiores praesentium, voluptatem sed minima eius magni, perspiciatis molestias animi ratione ab, omnis delectus, voluptates. Lorem ipsum dolor sit amet, consectetur deleniti vel?</p>
-
-       
+       <p class="text-justify"> With a concentrated extent of utilizations winning inside the market, eye-getting styles and perceived UI are fundamental to design customers towards your mobile applications. It is out and out acknowledged in light of the way that the most basic half for convenient applications as totally startling qualities of mobiles applications in the market. </p>
 
        <div class="who-we-are-right">
-              <h3 class="text-blue mb-20">Go Digital Marks offers mobile app designing with rich features like:</h3>
+              <h3 class="text-blue mb-20">XYZ offers portable application planning with rich highlights like: </h3>
               
               <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fa fa-check-square-o"></i> Nulla vehicula nisl cum soluta nobis est eligendi optio cumque </li>
-                <li><i class="fa fa-check-square-o"></i> nihil impeditnon enim fermentum veniamDuis nec aliquet massa</li>
-                <li><i class="fa fa-check-square-o"></i> sed dapibus mauris. Nulla vehicula nisl cum soluta nobis est eligendi.</li>
+                <li><i class="fa fa-check-square-o"></i> Attractive designs for applications  </li>
+                <li><i class="fa fa-check-square-o"></i> Attractive effect on application users </li>
+                <li><i class="fa fa-check-square-o"></i> Innovative UI integrity</li>
               </ul> 
               
         </div>
 
-        <p class="mt-10 text-justify">Precision design, responsive ready, full shortcodes design, perfect portfolio, unique blog layout and many many options for you so grab The Corps as soon as possible because it might change your way of presentation with its look & feature.</p>
+        <p class="mt-10 text-justify">Devices we use at XZY incorporate HTML, HTML5, and CSS3, Photoshop, Adobe and different latest devices accessible in the market. Planning for mobile applications is the hardest errand it needs gadgets similarity with their screen sizes, goals, designs and elective points of view. We can obtain each one of those conditions organizing User-Interface for smartphones and tablets. </p>
        
      </div>
     </div>
@@ -77,16 +75,19 @@ about- -->
   <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
 
     <div class="row">
-          
-
+         
           <div class="col-lg-6 col-md-6">
             <div class="who-we-are-right">
               <h3 class="text-blue mb-20">WHY CHOOSE US?</h3>
               
               <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fa fa-check-square-o"></i> Nulla vehicula nisl cum soluta nobis est eligendi optio cumque </li>
-                <li><i class="fa fa-check-square-o"></i> nihil impeditnon enim fermentum veniamDuis nec aliquet massa</li>
-                <li><i class="fa fa-check-square-o"></i> sed dapibus mauris. Nulla vehicula nisl cum soluta nobis est eligendi.</li>
+                <li><i class="fa fa-check-square-o"></i>Effective diligent work with proficient mastery</li>
+                <li><i class="fa fa-check-square-o"></i> Involvement in mobile UI designing for in excess of many applications </li>
+                <li><i class="fa fa-check-square-o"></i> Android understanding to seek designing process </li>
+                <li><i class="fa fa-check-square-o"></i>Topic and symbol outline different details </li>
+                <li><i class="fa fa-check-square-o"></i> Imaginative outlines.</li>
+                <li><i class="fa fa-check-square-o"></i> Perfect with all Smartphone, and tablets. </li>
+                <li><i class="fa fa-check-square-o"></i> Minimum cost with best quality work ensured.</li>
               </ul> 
               
             </div>

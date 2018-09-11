@@ -76,21 +76,21 @@
           <div class="col-md-4 col-sm-12">
             <div class="footer-widget-social-my-links ">
                <ul class=""> 
-                  <li><a href="refund-policy.php">Refund Policy</a></li>
+                  <li><a href="refund.php">Refund Policy</a></li>
                </ul>
             </div>
           </div>
           <div class="col-md-4">
             <div class="footer-widget-social-my-links">
                <ul class=""> 
-                  <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                  <li><a href="privacy.php">Privacy Policy</a></li>
                </ul>
             </div>
           </div>
           <div class="col-md-4">
             <div class="footer-widget-social-my-links">
                <ul class=""> 
-                  <li><a href="terms-and-conditions.php">Terms &amp; Conditions</a></li>
+                  <li><a href="t&c.php">Terms &amp; Conditions</a></li>
                </ul>
             </div>
           </div>

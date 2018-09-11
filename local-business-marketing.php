@@ -40,15 +40,15 @@ about- -->
  <div class="container">
  
   <div class="row">
-    <div class="col-lg-6 col-md-6">
+    <div class="col-lg-6 col-md-6 col-sm-6">
      <div class="custom-content-2 pt-70">
       <h2 class="mb-15 text-blue">Local Business Marketing</h2>
        
        <p class="text-justify"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores esse molestiae tempore hic, sint harum beatae quam incidunt dolorum et nostrum itaque, saepe? Dolores deserunt porro cumque vitae est saepe. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos voluptate dolore quidem obcaecati officia itaque maiores praesentium, voluptatem sed minima eius magni, perspiciatis molestias animi ratione ab, omnis delectus, voluptates. Lorem ipsum dolor sit amet, consectetur deleniti vel?</p>
      </div>
     </div>
-    <div class="col-lg-6 col-md-6">
-       <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6">
+       <img class="img-responsive" src="images/bg/14.png" alt="">
     </div>
   </div> 
 </div>
@@ -57,89 +57,59 @@ about- -->
 <!--=================================
  Process -->
 
-<section class="team-4-main white-bg page-section-ptb">
+<section class="key-features-2 white-bg page-section-pt">
   <div class="container">
-   <div class="row">
-     <div class="section-title-2 text-center">
-        <h1 class="text-blue">SERVICE PROCESS</h1>
-        <div class="title-line"></div>
-        
-       </div>
-     </div>
 
-
-        <div class="row justify-content-center">
-          <div class="col-lg-2 col-md-12">
-            <div class="team-4 text-center">
-               <div class="team-image">
-                  <img class="img-responsive center-block" src="images/team/10.jpg" alt="">
-               </div>
-               <div class="team-name">
-                 <h5 class="">WEBSITE OPTIMIZATION</h5>
-               </div>
-               
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-12">
-            <div class="team-4 text-center">
-               <div class="team-image">
-                  <img class="img-responsive center-block" src="images/team/11.jpg" alt="">
-               </div>
-               <div class="team-name">
-                 <h5>BUSINESS LISTINGS</h5>
-                 
-               </div>
-               
-            </div>
-          </div>
-          <div class="col-lg-2 col-md-12">
-            <div class="team-4 text-center">
-               <div class="team-image">
-                  <img class="img-responsive center-block" src="images/team/11.jpg" alt="">
-               </div>
-               <div class="team-name">
-                 <h5>CITATION BUILDING</h5>
-                 
-               </div>
-               
-            </div>
-          </div>
-       <div class="col-lg-2 col-md-12">
-          <div class="team-4 text-center">
-             <div class="team-image">
-                <img class="img-responsive center-block" src="images/team/11.jpg" alt="">
-             </div>
-             <div class="team-name">
-               <h5>REVIEWS & RATINGS</h5>
-               
-             </div>
-             
-          </div>
-       </div>
-
-       <div class="col-lg-2 col-md-12">
-          <div class="team-4 text-center">
-             <div class="team-image">
-                <img class="img-responsive center-block" src="images/team/09.jpg" alt="">
-             </div>
-             <div class="team-name">
-               <h5>PPC & CALL TRACKING</h5>
-               
-             </div>
-             
-          </div>
-       </div>
-    </div>
-
-     <!--<div class="row">
-
-      <div class="col-sm-10 col col-sm-offset-2">
-        
+      <div class="row">
+        <div class="section-title-2 text-center">
+          <h1 class="text-blue">SERVICE PROCESS</h1>
+          <div class="title-line"></div>
+        </div>
       </div>
-       
-     </div>-->
-   </div>
- </section>
+
+      <div class="row">
+        <div class="col-lg-10 col-lg-offset-2">
+          <div class="row justify-content-center no-gutters">
+              <div class="col-lg-2 col-md-6 col-sm-6 col-12">
+                <div class="feature-10 text-center mb-30">
+                  <span aria-hidden="true" class="icon-layers"></span>
+                  <h6 class="text-back pt-20 pb-10">WEBSITE<br><br>OPTIMIZATION</h6>
+                  
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-6 col-sm-6 col-12">
+                <div class="feature-10 text-center mb-30">
+                  <span aria-hidden="true" class="icon-picture"></span>
+                  <h6 class="text-back pt-20 pb-10">BUSINESS <br><br>LISTINGS</h6>
+                  
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-6 col-sm-6 col-12">
+                <div class="feature-10 text-center mb-30">
+                  <span aria-hidden="true" class="icon-heart"></span>
+                  <h6 class="text-back pt-20 pb-10">CITATION<br><br>BUILDING</h6>
+                  
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-6 col-sm-6 col-12">
+                <div class="feature-10 text-center">
+                  <span aria-hidden="true" class="icon-mouse"></span>
+                  <h6 class="text-back pt-20 pb-10">REVIEWS & <br><br>RATINGS</h6>
+                  
+                </div>
+              </div> 
+              <div class="col-lg-2 col-md-6 col-sm-12 col-12">
+                <div class="feature-10 text-center">
+                  <span aria-hidden="true" class="icon-flag"></span>
+                  <h6 class="text-back pt-20 pb-10">PPC & <br><br>CALL TRACKING</h6>
+                  
+                </div>
+              </div>
+          </div>
+        </div>
+      </div>
+ </div>
+</section>
 
 <!--=================================
  Process  -->
@@ -152,7 +122,7 @@ about- -->
   
   <div class="row">
     <div class="col-lg-12 col-md-12 text-center">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2 pt-55">
       <h2 class="mb-15 text-blue">OUR LOCAL MARKETING SERVICES</h2>
        
      </div>
@@ -161,26 +131,26 @@ about- -->
   </div>
 
   <div class="row">
-    <div class="col-lg-6 col-md-6">
+    <div class="col-lg-6 col-md-6 col-sm-6">
      <div class="custom-content-2 pt-70">
       <h3 class="mb-15 text-blue">LOCAL SEARCH ENGINE OPTIMIZATION</h3>
        
        <p class="text-justify"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores esse molestiae tempore hic, sint harum beatae quam incidunt dolorum et nostrum itaque, saepe? Dolores deserunt porro cumque vitae est saepe. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos voluptate dolore quidem obcaecati officia itaque maiores praesentium, voluptatem sed minima eius magni, perspiciatis molestias animi ratione ab, omnis delectus, voluptates. Lorem ipsum dolor sit amet, consectetur deleniti vel?</p>
      </div>
     </div>
-    <div class="col-lg-6 col-md-6">
-       <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6">
+       <img class="img-responsive" src="images/bg/14.png" alt="">
     </div>
   </div>
   <hr style="height:20px;width:100%;display:block;clear:both;border:0 none;">
 
   <div class="row">
     
-    <div class="col-lg-6 col-md-6">
-       <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6">
+       <img class="img-responsive" src="images/bg/14.png" alt="">
     </div>
 
-    <div class="col-lg-6 col-md-6">
+    <div class="col-lg-6 col-md-6 col-sm-6">
      <div class="custom-content-2 pt-70">
       <h3 class="mb-15 text-blue">LOCAL BUSINESS DIRECTORY LISTINGS</h3>
        
@@ -193,15 +163,15 @@ about- -->
 
   <div class="row">
     
-    <div class="col-lg-6 col-md-6">
+    <div class="col-lg-6 col-md-6 col-sm-6">
      <div class="custom-content-2 pt-70">
       <h3 class="mb-15 text-blue">LOCAL PPC</h3>
       <p class="text-justify"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores esse molestiae tempore hic, sint harum beatae quam incidunt dolorum et nostrum itaque, saepe? Dolores deserunt porro cumque vitae est saepe. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos voluptate dolore quidem obcaecati officia itaque maiores praesentium, voluptatem sed minima eius magni, perspiciatis molestias animi ratione ab, omnis delectus, voluptates. Lorem ipsum dolor sit amet, consectetur deleniti vel?</p>
      </div>
     </div>
 
-    <div class="col-lg-6 col-md-6">
-       <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6">
+       <img class="img-responsive" src="images/bg/14.png" alt="">
     </div>
 
 
