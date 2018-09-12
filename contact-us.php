@@ -3,61 +3,151 @@
   include 'header.php';
 ?>
 
-<!--=================================
-slider- -->
 
-  <section id="animated-slider" class="carousel slide" data-ride="carousel"  style="height: 400px">
-     
-        <!-- Carousel inner -->
-        <div class="carousel-inner">
-          <!--/ Carousel item end -->
-          <div class="item active">
-            <img class="img-responsive" src="images/slider/slider-10.jpg" alt="slider">  
-            <div class="slider-content">
-              <div class="container">
-              <div class="row">
-                <div class="col-md-12 text-center">
-                 <div class="slider-1">
-                    <!--<span class="animated7">Big Dreams, Big ideas </span>-->
-                    <h1 class="animated8 text-white">Contact Us</h1>
-                    
-                 </div>
-                </div>
-              </div>
-            </div>
-            </div>
-          </div>
-        </div>
-  </section>
- 
-<!--=================================
-slider -->
+<section class="inner-intro bg-2 ">
+  <div class="container">
+     <div class="row text-center intro-title">
+            <h1 class="text-blue">Contact Us</h1>
+            
+            <ul class="page-breadcrumb">
+              <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
+              
+              <li><span>Contact Us</span> </li>
+           </ul>
+     </div>
+  </div>
+</section>
 
 <!--=================================
  contact-->
 
-<section class="contact-5 bg-7 bg-opacity-black-70 page-section-ptb">
+<section class="contact-5-my page-section-ptb ">
    <div class="container">
      <div class="row">
-       <div class="col-lg-4 col-md-4 col-sm-4">
+                     <div class="col-lg-12 col-md-12">
+                       <div class="section-title-2 text-center" style="margin-bottom: 10px">
+                        <h2 class="text-black"><strong>Get In Touch</strong></h2>
+                        <div class="title-line"></div>
+                        </div>
+                     </div> 
+          </div>
+
+     <div class="row">
+       <!--<div class="col-lg-6 col-md-6 col-sm-12 text-center">
          <div class="get-in-touch">
-           <h2 class="text-white">Get in Touch</h2>
+           <h2 class="text-black"><strong>Get in Touch</strong></h2>
            
          </div>
-         <div class="contact-add pt-55">
+         <div class="contact-add pt-30 text-center">
            <i class="fa fa-map-marker"></i>
-           <p class="text-white">xxxxxxxxxxxxxxxxxxxxxxx</p>
+           <p class="text-black"><a href="#">xxxxxxx</a></p>
          </div>
          <div class="contact-add">
            <i class="fa fa-phone"></i>
-           <p class="text-white"><a href="tel: +x-xxx-xxx-xxxx" style="color: #fff;">+x-xxx-xxx-xxxx</a></p>
+           <p><a href="tel: +x-xxx-xxx-xxxx" style="color: #323232;">+x-xxx-xxx-xxxx</a></p>
          </div>
          <div class="contact-add">
            <i class="fa fa-envelope-o"></i>
-           <p class="text-white">contact@xyz.com</p>
+           <p class="text-black">contact@xyz.com</p>
          </div>
+       </div>-->
+
+       <div class="col-lg-6 col-md-6 mt-70">
+
+           <div class="contact-box mb-20 text-left clearfix text-center">
+              <!--<i class="fa fa-map-marker"></i>-->
+              <div class="info ">
+                <h4><strong>Address</strong></h4>
+                <p>xxxxxxxxxxxxxxxxx </p>
+              </div>
+           </div>
+             <div class="contact-box mb-20 text-left clearfix text-center">
+              <!--<i class="fa fa-phone"></i>-->
+              <div class="info mt-55">
+                <h4><strong>Phone</strong></h4>
+                <p><a href="tel: +x-xxx-xxx-xxxx" style="color: #323232;">+x-xxx-xxx-xxxx</a></p>
+              </div>
+           </div>
+           <div class="contact-box mb-20 text-left clearfix text-center">
+              <!--<i class="fa fa-envelope-o"></i>-->
+              <div class="info mt-55">
+                <h4><strong>Email</strong></h4>
+                <p class="text-black">contact@xyz.com</p>
+              </div>
+           </div>
        </div>
-       <div class="col-lg-8 col-md-8 col-sm-8">
+       
+       <div class="col-lg-6 col-md-6 mt-70">
+                   
+                   <!-- <div class="row">
+                     <div class="col-lg-12 col-md-12">
+                       <div class="section-title-2 text-center" style="margin-bottom: 10px">
+                        <h2 class="text-black"><strong>Contact Us</strong></h2>
+                        <div class="title-line"></div>
+                        </div>
+                     </div> 
+                    </div> -->
+    
+               <div id="formmessage">Success/Error Message Goes Here</div>
+                 <!-- <form class="form-verticle" id="contactform" role="form" method="post" action="mailsend.php">
+                 <div class="contact-form">
+                   <div class="section-field">
+                    <i class="fa fa-user"></i>
+                    <input id="name" type="text" placeholder="Name*"  name="name">
+                   </div> 
+                   <div class="section-field">
+                      <i class="fa fa-envelope-o"></i>
+                      <input type="email" placeholder="Email*" name="email">
+                    </div>
+                   <div class="section-field">
+                      <i class="fa fa-phone"></i>
+                      <input type="text" placeholder="Phone*" name="phone">
+                    </div>
+                   <div class="section-field textarea mb-20">
+                     <i class="fa fa-pencil"></i>
+                     <textarea class="input-message" placeholder="Message*" rows="7" name="message"></textarea>
+                    </div>
+                    <input type="hidden" name="action" value="sendEmail"/>
+                      <button id="submit" name="submit" type="submit" value="Send" class="button mt-15"><span> Send your message </span> <i class="fa fa-paper-plane"></i></button>
+                   </div> 
+                 </form> -->
+
+                 <form id="contactform-my" role="form" method="post" action="mailsend.php">
+                  <div class="form-row contact-5">
+                    <div class="form-group col-md-6 col-sm-6 contact-form">
+                      
+                      <input type="text" class="form-control" id="name" placeholder="Name *">
+                    </div>
+                    <div class="form-group col-md-6 col-sm-6 contact-form">
+                      
+                      <input type="text" class="form-control" id="number" placeholder="Phone *">
+                    </div>
+
+                    <div class="form-group col-md-12 contact-form">
+                      
+                      <input type="email" class="form-control" id="email" placeholder="Email *">
+                    </div>
+
+                    <div class="form-group col-md-12 contact-form">
+                      <textarea class="form-control" placeholder="Address*" rows="7" name="address"></textarea>                      
+                    </div>
+
+                    <div class="form-group col-md-12 contact-form">
+                      <textarea class="form-control" placeholder="Message*" rows="7" name="message"></textarea>                      
+                    </div>
+
+                    <div class="col-md-12 text-center">
+                      <button id="submit" name="submit" type="submit" value="Send" class="button mt-15"><span> Send your message </span> <i class="fa fa-paper-plane"></i></button>
+                    </div>
+                  </div>
+                  
+                  
+                </form>
+
+                <div id="ajaxloader" style="display:none"><img class="center-block mt-30 mb-30" src="images/ajax-loader-white.gif" alt=""></div>
+           </div>
+
+       <!--<div class="col-lg-8 col-md-8 col-sm-8">
         <h2 class="text-white">Contact Us</h2>
            
            <div id="formmessage">Success/Error Message Goes Here</div>
@@ -84,7 +174,7 @@ slider -->
                </div> 
              </form>
             <div id="ajaxloader" style="display:none"><img class="center-block mt-30 mb-30" src="images/ajax-loader-white.gif" alt=""></div>
-       </div>
+       </div>-->
      </div>
    </div>
 </section>

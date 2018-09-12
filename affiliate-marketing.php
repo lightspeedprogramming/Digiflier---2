@@ -3,35 +3,20 @@
   include 'header.php';
 ?>
 
-<!--=================================
-slider- -->
 
-  <section id="animated-slider" class="carousel slide" data-ride="carousel"  style="height: 400px">
-     
-        <!-- Carousel inner -->
-        <div class="carousel-inner">
-          <!--/ Carousel item end -->
-          <div class="item active">
-            <img class="img-responsive" src="images/slider/slider-10.jpg" alt="slider">  
-            <div class="slider-content">
-              <div class="container">
-              <div class="row">
-                <div class="col-md-12 text-center">
-                 <div class="slider-1">
-                    <!--<span class="animated7">Big Dreams, Big ideas </span>-->
-                    <h1 class="animated8 text-white">Affiliate Marketing Services</h1>
-                    
-                 </div>
-                </div>
-              </div>
-            </div>
-            </div>
-          </div>
-        </div>
-  </section>
- 
-<!--=================================
-slider -->
+<section class="inner-intro bg-2 ">
+  <div class="container">
+     <div class="row text-center intro-title">
+            <h1 class="text-blue">Affiliate Marketing Services</h1>
+            
+            <ul class="page-breadcrumb">
+              <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
+              
+              <li><span>Affiliate Marketing Services</span> </li>
+           </ul>
+     </div>
+  </div>
+</section>
 
 
 
@@ -46,7 +31,7 @@ about- -->
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">Affiliate Marketing Services</h1>
        
-       <p class="text-justify"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores esse molestiae tempore hic, sint harum beatae quam incidunt dolorum et nostrum itaque, saepe? Dolores deserunt porro cumque vitae est saepe. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos voluptate dolore quidem obcaecati officia itaque maiores praesentium, voluptatem sed minima eius magni, perspiciatis molestias animi ratione ab, omnis delectus, voluptates. Lorem ipsum dolor sit amet, consectetur deleniti vel?</p>
+       <p class="text-justify"> It is the system for winning a commission by propelling elective people's thing. You can discover a thing you wish, publicize it to others, and win a bit of the advantage for each arrangement that you basically amass. It could be a monetarily shrewd infers that of mixing set up displaying frameworks with advancement for business improvement. </p>
      </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-6">
@@ -65,7 +50,7 @@ about- -->
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">HOW DOES AFFILIATE MARKETING WORK?</h1>
        
-       <p class="text-justify"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores esse molestiae tempore hic, sint harum beatae quam incidunt dolorum et nostrum itaque, saepe? Dolores deserunt porro cumque vitae est saepe. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos voluptate dolore quidem obcaecati officia itaque maiores praesentium, voluptatem sed minima eius magni, perspiciatis molestias animi ratione ab, omnis delectus, voluptates. Lorem ipsum dolor sit amet, consectetur deleniti vel?</p>
+       <p class="text-justify"> Affiliate marketing is generally designed out as a referral program that offers commissions people who with advance for a possible purchaser or results in your site. Typically point to as allow publicizing branch web program, it's one among the main cost-profitable and productive suggests that to drive online salary. Relate branch publicizing is on a very basic level a business office salaried supported their execution. Influencing accomplice to relate offering undertaking can enable you to point your thought on different parts of your business. </p>
      </div>
     </div>
   </div>
@@ -77,15 +62,17 @@ about- -->
     <div class="col-lg-6 col-md-6 col-sm-6">
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">WHAT WE DO</h1>
-       
      
 
        <div class="who-we-are-right">
               
               <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fa fa-check-square-o"></i> Nulla vehicula nisl cum soluta nobis est eligendi optio cumque </li>
-                <li><i class="fa fa-check-square-o"></i> nihil impeditnon enim fermentum veniamDuis nec aliquet massa</li>
-                <li><i class="fa fa-check-square-o"></i> sed dapibus mauris. Nulla vehicula nisl cum soluta nobis est eligendi.</li>
+                <li><i class="fa fa-check-square-o"></i>Help select the right part organizes that meet your goals </li>
+                <li><i class="fa fa-check-square-o"></i> Set up the accomplice program on the picked frameworks </li>
+                <li><i class="fa fa-check-square-o"></i> Promote your part program and study the auxiliary application and data trade new accomplices </li>
+                <li><i class="fa fa-check-square-o"></i> Monthly, week after week relate correspondence  </li>
+                <li><i class="fa fa-check-square-o"></i> Set up data manages for partners</li>
+                <li><i class="fa fa-check-square-o"></i> Periodic expounds on the execution of the partner advancing channel.</li>
               </ul> 
               
             </div>

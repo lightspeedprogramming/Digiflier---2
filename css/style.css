@@ -147,16 +147,55 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 {
     .banner-services
     {
-        margin-top: -468px;
+        margin-top: -268px;
         z-index: 1;
         left: 7%;
     }
 
     .slider-1
     {
-      margin-top: -23%;
+      margin-top: -20%;
     }
 }
+
+@media (min-width: 1024px)
+{
+    .banner-services
+    {
+        margin-top: -325px;
+        z-index: 1;
+        left: 7%;
+    }
+
+    .slider-1
+    {
+      margin-top: -17%;
+    }
+
+    .slider-1 p
+      {
+        font-size: 18px;
+        color: #000000;
+      }
+}
+
+
+@media (min-width: 1025px)
+{
+    .banner-services
+    {
+        margin-top: -410px;
+        z-index: 1;
+        left: 7%;
+    }
+
+    .slider-1
+    {
+      margin-top: -18%;
+    }
+}
+
+
 
 
 @media (max-width: 768px)
@@ -166,7 +205,28 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
         {
             padding-top: 30px;
         }
-    }
+
+    .slider-1 p
+      {
+        font-size: 19px;
+        color: #000000;
+      }
+  }
+
+
+@media (max-width: 414px)
+  {
+    .slider-1 h2
+      {
+        font-size: 15px;
+      }
+
+      .slider-1 p
+      {
+        font-size: 14px;
+        color: #000000;
+      }
+  }
 
 a.button-border-my span {
     border: 0 none;
@@ -187,6 +247,10 @@ a.button-border-my span {
     margin: 0 auto;
     width: 125px;
     padding: 8px 16px;
+}
+
+.pricing-table .pricing-list ul li i {
+  margin-right: 15px;
 }
 
 
@@ -558,6 +622,45 @@ body.top-search-open #header .logo, body.top-search-open #header .topbar-left, b
 .header-6 .login-with a.google-plus:hover { background: #dd4b39; border: 1px solid #dd4b39; color: #fff; }
 
 /*************************
+    my Header 6
+ *************************/
+.my-header-6 { padding: 20px 0 20px; position: absolute; width: 100%; }
+.my-header-6 .mega-menu > section.menu-list-items { padding: 10px 0px; }
+.my-header-6 .menu-list-items .container-fluid { padding: 0px 60px; }
+.my-header-6 .mega-menu .menu-links > li > a { color: #323232;} 
+.my-header-6 .mega-menu .menu-links > li.active a { color: #00a9da; }
+.my-header-6 .mega-menu .menu-links > li.active .drop-down a { color: #323232; }
+.my-header-6 .mega-menu .menu-links > li.active .drop-down a:hover { color: #00a9da; }
+.my-header-6 .mega-menu .menu-links > li.active .drop-down-multilevel a { color: #555555; }
+.my-header-6 .mega-menu .menu-links > li.active .drop-down-multilevel a:hover { color: #00a9da; } 
+.my-header-6 .mega-menu .menu-links > li.search { margin: 0 5px; } 
+.my-header-6 .search-3 { padding: 23px 0; margin: 0 3px; }
+.my-header-6 .search-3.search-3-open .search-3-box { top: 64px !important; }
+.my-header-6 .mega-menu .menu-links > li:last-child { margin-left: 15px; }
+/*.header-6 .mega-menu .menu-links > li:last-child > a { line-height: 20px; background: #00a9da; color: #fff; text-transform: uppercase; padding: 2px 12px; font-size: 12px; border-radius: 3px; margin-top: 21px;   }*/
+.my-header-6 .mega-menu .drop-down-multilevel.right-menu { right: 100px; }
+.my-header-6 .mega-menu.desktopTopFixed .menu-list-items { background: #fff; }
+.my-header-6 .mega-menu.desktopTopFixed .search-3 { display: none; }
+.my-header-6 .mega-menu.desktopTopFixed .menu-links > li:last-child { display: none; }
+.my-header-6 .mega-menu.desktopTopFixed > section.menu-list-items { padding: 0px; box-shadow: 0 1px 6px rgba(0, 0, 0, 0.03); }
+.my-header-6 .mega-menu.desktopTopFixed .menu-list-items .menu-logo > li > a img { margin: 16px 0px; }
+.my-header-6 .mega-menu.desktopTopFixed .drop-down-multilevel.right-menu { right: 12px; }
+.my-header-6 .login-1 { right: 0px; }
+.my-header-6 .login-1:before { border-bottom-color: #ECEFF7; }
+.my-header-6 .login-1 a { font-size: 15px; color: #626262; margin-left: 0px; display: inline-block; margin-top: 12px; }
+.my-header-6 .login-1 a:hover { color: #00a9da; }
+.my-header-6 .login-with span { float: none; color: #626262; padding-top: 5px;  }
+.my-header-6 .login-with a { background: transparent; border-radius: 50%; display: inline-block; height: 30px; line-height: 29px; margin-top: 0; text-align: center; width: 30px; }
+.my-header-6 .login-with a:hover { color: #fff; }
+.my-header-6 .login-with a.fb {  border: 1px solid #3b5998; }
+.my-header-6 .login-with a.fb:hover { background: #3b5998; border: 1px solid #3b5998; color: #fff; }
+.my-header-6 .login-with a.twitter {  border: 1px solid #55acee; }
+.my-header-6 .login-with a.twitter:hover { background: #55acee; border: 1px solid #55acee; color: #fff; }
+.my-header-6 .login-with a.google-plus {  border: 1px solid #dd4b39; }
+.my-header-6 .login-with a.google-plus:hover { background: #dd4b39; border: 1px solid #dd4b39; color: #fff; }
+
+
+/*************************
      Header 7
  *************************/
 .header-7 { padding: 30px 40px; z-index: 999; position: absolute; width: 100%; }
@@ -867,6 +970,7 @@ li:last-child.highlight { margin-bottom: 0px; }
 
  .bg-1 { background: url(../images/bg/01.jpg); background-attachment: fixed; background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; }
  .bg-2 { background: url(../images/bg/02.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
+ .bg-2-my { background: url(../images/bg/1.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
  .bg-3 { background: url(../images/bg/03.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
  .bg-4 { background: url(../images/bg/04.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
  .bg-5 { background: url(../images/bg/05.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; }
@@ -1732,6 +1836,12 @@ input.feature-toggle:checked ~ .feature-annotations span:nth-child(5) { -webkit-
 .contact-5 .contact-form input:focus { background: rgba(0, 0, 0, 1); box-shadow: none; border:none;  }
 .contact-5 .contact-form textarea:focus { background: rgba(0, 0, 0, 1); box-shadow: none; border:0px solid; }
 
+
+.contact-5-my .contact-add i { float: left; color: #00a9da; margin-right: 15px; line-height: 29px; font-size: 30px}
+.contact-5-my .contact-add p { display: table; margin-top: 30px }
+.contact-5-my .contact-form i { z-index: 99; }
+.contact-5-my .contact-form input { background: #EEC; border:none; color: #323232; }
+.contact-5-my .contact-form textarea { background: #EEC; border:none; color: #323232; display: block; }
 /*************************************
     		social
 **************************************/
@@ -3047,7 +3157,7 @@ ul.footer-instagram-images li { display: inline-block; }
 
 
 
-@media (max-width: 414px)
+@media (max-width: 768px)
 {
   .row .sm-device-margin
   {

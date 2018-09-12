@@ -8,11 +8,6 @@
 slider- -->
 
   <section id="animated-slider" class="carousel slide" data-ride="carousel">
-      <!-- Indicators -->
-        <ol class="carousel-indicators">
-          <li data-target="#animated-slider" data-slide-to="0" class="active"></li>
-          <li data-target="#animated-slider" data-slide-to="1"></li>
-        </ol>
         <!-- Carousel inner -->
         <div class="carousel-inner">
           <!--/ Carousel item end -->
@@ -24,8 +19,8 @@ slider- -->
                 <div class="col-md-12 text-center">
                  <div class="slider-1">
                     <!--<span class="animated7">Big Dreams, Big ideas </span>-->
-                    <h1 class="animated8 text-white">Creative Business template </h1>
-                    <p class="animated8">Template is designed for all types of businesses such as Corporate, Business, Portfolio, Creative, Blog, Agency and many more… </p>
+                    <h2 class=" text-black"><strong>WE CREATE MOBILE APPS THAT ARE VISUALLY STUNNING</strong></h2>
+                    <p>Our Mobile Application Development process begin with fluid customers journey in my mind</p>
                     <!--<a href="#" class="button animated8"> <span> Read More </span></a>
                     <a target="_blank" href="http://themeforest.net/item/the-corps-multipurpose-html5-template/15623522?ref=Potenzaglobalsolutions" class="button button-black animated8"><span> Purchase Now </span> </a>-->
                  </div>
@@ -65,7 +60,7 @@ slider -->
 <section class="special-feature banner-services page-section-ptb">
    <div class="container">
      <div class="row">
-      <div class="col-md-3 col-md-2 col-sm-6">
+      <div class="col-md-2 col-sm-6">
         <div class="feature text-center">
           <div class="feature-content">
           <i class="fa fa-paint-brush"></i>
@@ -77,7 +72,7 @@ slider -->
           <span class="border"></span>
         </div>
       </div>
-      <div class="col-md-3 col-md-2 col-sm-6">
+      <div class="col-md-2 col-sm-6">
         <div class="feature text-center">
           <div class="feature-content">
           <i class="fa fa-arrows"></i>
@@ -89,7 +84,7 @@ slider -->
           <span class="border"></span>
         </div>
       </div>
-      <div class="col-md-3 col-md-2 col-sm-6">
+      <div class="col-md-2 col-sm-6">
         <div class="feature text-center">
           <div class="feature-content">
           <i class="fa fa-heart"></i>
@@ -101,7 +96,7 @@ slider -->
           <span class="border"></span>
         </div>
       </div>
-      <div class="col-md-3 col-md-2 col-sm-6">
+      <div class="col-md-2 col-sm-6">
         <div class="feature text-center">
           <div class="feature-content">
           <i class="fa fa-code"></i>
@@ -113,7 +108,7 @@ slider -->
           <span class="border"></span>
         </div>
       </div>
-      <div class="col-md-3 col-md-2 col-sm-6">
+      <div class="col-md-2 col-sm-6">
         <div class="feature text-center">
           <div class="feature-content">
           <i class="fa fa-code"></i>
@@ -125,7 +120,7 @@ slider -->
           <span class="border"></span>
         </div>
       </div>
-      <div class="col-md-3 col-md-2 col-sm-6">
+      <div class="col-md-2 col-sm-6">
         <div class="feature text-center">
           <div class="feature-content">
           <i class="fa fa-code"></i>
@@ -141,7 +136,7 @@ slider -->
       <!-- Second Row -->
 
      <div class="row mt-30">
-      <div class="col-md-3 col-md-2 col-sm-6">
+      <div class="col-md-2 col-sm-6">
         <div class="feature text-center">
           <div class="feature-content">
           <i class="fa fa-paint-brush"></i>
@@ -153,7 +148,7 @@ slider -->
           <span class="border"></span>
         </div>
       </div>
-      <div class="col-md-3 col-md-2 col-sm-6">
+      <div class="col-md-2 col-sm-6">
         <div class="feature text-center">
           <div class="feature-content">
           <i class="fa fa-arrows"></i>
@@ -165,7 +160,7 @@ slider -->
           <span class="border"></span>
         </div>
       </div>
-      <div class="col-md-3 col-md-2 col-sm-6">
+      <div class="col-md-2 col-sm-6">
         <div class="feature text-center">
           <div class="feature-content">
           <i class="fa fa-heart"></i>
@@ -177,7 +172,7 @@ slider -->
           <span class="border"></span>
         </div>
       </div>
-      <div class="col-md-3 col-md-2 col-sm-6">
+      <div class="col-md-2 col-sm-6">
         <div class="feature text-center">
           <div class="feature-content">
           <i class="fa fa-code"></i>
@@ -189,7 +184,7 @@ slider -->
           <span class="border"></span>
         </div>
       </div>
-      <div class="col-md-3 col-md-2 col-sm-6">
+      <div class="col-md-2 col-sm-6">
         <div class="feature text-center">
           <div class="feature-content">
           <i class="fa fa-code"></i>
@@ -201,7 +196,7 @@ slider -->
           <span class="border"></span>
         </div>
       </div>
-      <div class="col-md-3 col-md-2 col-sm-6">
+      <div class="col-md-2 col-sm-6">
         <div class="feature text-center">
           <div class="feature-content">
           <i class="fa fa-code"></i>
@@ -228,27 +223,28 @@ slider -->
     <div class="row">
        <div class="col-lg-12 col-md-12">
         <div class="section-title-1 text-center">
-          <h1 class="text-blue">BE MORE FRIENDLY WITH OUR NEWLY DESIGNED SOFTWARES</h1>
+          <h1 class="text-blue">WE BUILD THE MOST POWERFUL CROSS-PLATFORMT MOBILE APPs OR WEB APPs</h1>
           <div class="title-line"></div>
-          <p>Det finnes mange ulike varianter av Lorem Ipsum.Det finnes mange ulike varianter av Lorem Ipsum</p>
+          <p>We are the making various platform for the development of software application with a specific goal to facilitate the customer's objective to this present reality.</p>
         </div>
       </div>
     </div>
      <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-6">
         <div class="who-we-are-right">
-          <h3 class="text-blue mb-20">WE LET YOU</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span class="tooltip-content-2" data-placement="top" data-toggle="tooltip" data-original-title="Sed hendrerit enim non justo">Vero quod conseqt</span> quibusdam, enim expedita sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia libero accusantium esse hic, obcaecati, ullam, laboriosam!</p>
-          <p>Lorem ipsum dolor sit amet, <span class="tooltip-content-2" data-placement="top" data-toggle="tooltip" data-original-title="Sed hendrerit enim non justo">consectetur adipisicing </span>elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam.</p>
+          <h3 class="text-blue mb-20">WE OFFER YOU </h3>
+          <p>Specializations and courses in mobile application or software development address the path towards making application, softwares, including progression tools and developments, programming languages i.e. Python, C, Java, and programming system and testing. </p>
 
-          <h5 class="text-blue mb-20">¿Dónde puedo conseguirlo?</h5>
+          <p>We offer surprising execution and motivating force all around with our thing bundle things and associations while not drop out quality. Our instructors get dynamic approach all through the thing bundle change lifecycle. We have the certifiable introduction and progress limit with boss particular authorities.</p>
 
+          <h5 class="text-blue mb-20">We at XYZ let you with the best organizations that are : </h5>
           <ul class="who-we-are-about mt-20 mb-20">
-            <li><i class="fa fa-check-square-o"></i> Nulla vehicula nisl cum soluta nobis est eligendi optio cumque </li>
-            <li><i class="fa fa-check-square-o"></i> nihil impeditnon enim fermentum veniamDuis nec aliquet massa</li>
-            <li><i class="fa fa-check-square-o"></i> sed dapibus mauris. Nulla vehicula nisl cum soluta nobis est eligendi.</li>
+            <li><i class="fa fa-check-square-o"></i> Video Chats </li>
+            <li><i class="fa fa-check-square-o"></i> Data representation programming </li>
+            <li><i class="fa fa-check-square-o"></i> Programming testing </li>
+            <li><i class="fa fa-check-square-o"></i> Internet-based life applications  </li>
+            <li><i class="fa fa-check-square-o"></i> UI/UX designing and layout </li>
           </ul> 
-          <p>Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam, enim expedita sed quia nesciunt incidunt accusamus necessitatibus.</p>
         </div>
       </div>  
       <div class="col-lg-6 col-md-6 col-sm-6">

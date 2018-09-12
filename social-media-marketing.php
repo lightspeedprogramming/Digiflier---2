@@ -4,34 +4,24 @@
 ?>
 
 <!--=================================
-slider- -->
+ inner-intro-->
 
-  <section id="animated-slider" class="carousel slide" data-ride="carousel"  style="height: 400px">
-     
-        <!-- Carousel inner -->
-        <div class="carousel-inner">
-          <!--/ Carousel item end -->
-          <div class="item active">
-            <img class="img-responsive" src="images/slider/slider-10.jpg" alt="slider">  
-            <div class="slider-content">
-              <div class="container">
-              <div class="row">
-                <div class="col-md-12 text-center">
-                 <div class="slider-1">
-                    <!--<span class="animated7">Big Dreams, Big ideas </span>-->
-                    <h1 class="animated8 text-white">Social Media Marketing</h1>
-                    
-                 </div>
-                </div>
-              </div>
-            </div>
-            </div>
-          </div>
-        </div>
-  </section>
- 
+<section class="inner-intro bg-2 ">
+  <div class="container">
+     <div class="row text-center intro-title">
+            <h1 class="text-blue">Social Media Marketing</h1>
+            
+            <ul class="page-breadcrumb">
+              <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
+              
+              <li><span>Social Media Marketing</span> </li>
+           </ul>
+     </div>
+  </div>
+</section>
+
 <!--=================================
-slider -->
+ inner-intro-->
 
 
 
@@ -42,7 +32,7 @@ about- -->
 <section class="about white-bg page-section-ptb">
  <div class="container">
   <div class="row">
-    <div class="col-lg-6 col-md-6">
+    <div class="col-lg-6 col-md-6 col-sm-6">
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">Social Media Marketing</h1>
        
@@ -57,7 +47,7 @@ about- -->
       </P>
      </div>
     </div>
-    <div class="col-lg-6 col-md-6">
+    <div class="col-lg-6 col-md-6 col-sm-6">
        <img class="img-responsive" src="images/bg/14.png" alt="">
     </div>
   </div>

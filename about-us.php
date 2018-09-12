@@ -70,8 +70,11 @@ slider -->
     </div>
      <div class="row">
       <div class="col-lg-12 col-md-12 text-center">
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span class="tooltip-content-2" data-placement="top" data-toggle="tooltip" data-original-title="Sed hendrerit enim non justo">Vero quod conseqt</span> quibusdam, enim expedita sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia libero accusantium esse  sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia libero accusantium esse  sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia libero accusantium esse hic, obcaecati, ullam, laboriosam!</p>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores esse molestiae tempore hic, sint harum beatae quam incidunt dolorum et nostrum itaque, saepe? Dolores deserunt porro cumque vitae est saepe. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos voluptate dolore quidem obcaecati officia itaque maiores praesentium, voluptatem sed minima eius magni, perspiciatis molestias animi ratione ab, omnis delectus, voluptates. Lorem ipsum dolor sit amet, consectetur deleniti vel?</p>
+          <p class="text-justify">We are XYZ, a mobile apps and software development benefits firm situated in the global area, and we spend significant time in building end-to-end programming arrangements.We exceed expectations in conveying cloud arrangement and relocation administrations, expansive scale projects development, front line mobile applications, and designing in responsive web page and websites. </p>
+
+          <P class="text-justify">
+            At XYZ, we give great mobile application development services at uncommonly sensible rates. We give capable services which are upheld by defining moment, quality and, sensational customer mind and significantly more. Our association can give some additional organizations. We make dynamic and capable locales as indicated by the necessities of our clients. Our mobile app developers and web app developers are both experienced and talented in the moved application development and moreover strategies to pass on world-class answer for our customers.
+          </P>
         </div>
      </div> 
   </div>
@@ -107,8 +110,7 @@ slider -->
                     <div class="feature-4">
                       <span class="icon-pencil" aria-hidden="true"></span>
                         <h4>OUR VISION</h4>
-                        <p class="mt-20">Sit amet, consectetur adipisicing elit. Vero quod quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia...
-                        Sit amet, consectetur adipisicing elit. Vero quod quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia...</p>
+                        <p class="mt-20">To interface people and organizations from around the globe into a network that would work just right along regardless of area and staff. We tend to furnish our customers with the devices they need to advertise development and structure of their business in a changing financial environment. </p>
                         
                     </div>
                  </div>
@@ -118,8 +120,7 @@ slider -->
                     <div class="feature-4">
                         <span class="icon-game-controller" aria-hidden="true"></span>
                         <h4>OUR MISSION</h4>
-                        <p class="mt-20">Sit amet, consectetur adipisicing elit. Vero quod quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia...
-                        Sit amet, consectetur adipisicing elit. Vero quod quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia...</p>
+                        <p class="mt-20">Easiness, it's our coordinating light and the key regard we swing to while framing all that we do. We assume that the best courses of action are frequently the slightest complex - and we've made it our primary objective to give fundamental ways to deal with you to all the more probable interface with your supporters. </p>
                         
                     </div>
                  </div>
@@ -129,8 +130,7 @@ slider -->
                     <div class="feature-4">
                         <span class="icon-rocket" aria-hidden="true"></span>
                         <h4>OUR TEAM</h4>
-                        <p class="mt-20">Sit amet, consectetur adipisicing elit. Vero quod quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia...
-                        Sit amet, consectetur adipisicing elit. Vero quod quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia...</p>
+                        <p class="mt-20">Our drive has the vision to have any sort of impact by interfacing ideal people at an ideal time in the most attracting way. We acknowledge with this approach an incredible arrangement can be refined and developed for humankind in alternate points of view. </p>
                         
                     </div>
                  </div>
@@ -158,8 +158,7 @@ slider -->
         <div class="section-title-1 text-center">
           <h1 class="text-blue">How We Do</h1>
           <div class="title-line"></div>
-          <p>Sit amet, consectetur adipisicing elit. Vero quod quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia...
-          Sit amet, consectetur adipisicing elit. Vero quod quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia</p>
+          <p>Before starting a mobile application developments projects, it is essential to get a handle on the framework attracted with a convincing site change fight. XYZ considers customers who require a concentrated, full-advantage way to deal with oversee web look device publicizing. </p>
         </div>
       </div>
     </div>
@@ -172,7 +171,7 @@ slider -->
              </div>
             <div class="feature-11-info">
               <h4 class="pb-20">Keyword Research</h4>
-              <p>Adipisicing elit. Vero quod conseqt quibusdam, enim expedita sed quia nesciunt incidunt accusamus</p>
+              <p>Keyword research reveals to you the demand in the web search engine in relationship with the aggregate number of words it contains. </p>
             </div>  
          </div>
       </div>
@@ -183,7 +182,7 @@ slider -->
              </div>
             <div class="feature-11-info">
               <h4 class="pb-20">Onsite Optimization</h4>
-              <p>Adipisicing elit. Vero quod conseqt quibusdam, enim expedita sed quia nesciunt incidunt accusamus</p>
+              <p>It focuses to all estimates that can be taken especially inside the web or mobile application website recollecting about the target to redesign its position. </p>
             </div>  
          </div>
       </div>
@@ -194,7 +193,7 @@ slider -->
              </div>
             <div class="feature-11-info">
               <h4 class="pb-20">Link Building</h4>
-              <p>Adipisicing elit. Vero quod conseqt quibusdam, enim expedita sed quia nesciunt incidunt accusamus</p>
+              <p>In the field of mobile application development, outsider referencing focuses at growing the number and nature of inbound interfaces with a page. </p>
             </div>  
          </div>
       </div>
@@ -205,7 +204,7 @@ slider -->
              </div>
             <div class="feature-11-info">
               <h4 class="pb-20">Reporting Analysis</h4>
-              <p>Adipisicing elit. Vero quod conseqt quibusdam, enim expedita sed quia nesciunt incidunt accusamus</p>
+              <p>Our XYZ contemplate includes a few elements like a substance, interfacing structure, online web based life partners, and its trust over the web.</p>
             </div>  
          </div>
       </div>
@@ -224,7 +223,7 @@ slider -->
             <div class="section-title-1 text-center">
               <h1 class="text-blue">TAKE YOUR BUSINESS TO THE NEXT LEVEL</h1>
               <div class="title-line"></div>
-              <p>Det finnes mange ulike varianter av Lorem Ipsum.Det finnes mange ulike varianter av Lorem Ipsum Det finnes mange ulike varianter av Lorem Ipsum.Det finnes mange ulike varianter av Lorem Ipsum</p>
+              <p>XYZ can build the web searcher rank and website page movement of any association. XYZ is successfully addressing the issues of associations with complex clients in forceful enterprises. </p>
             </div>
           </div>
         </div>
@@ -246,17 +245,15 @@ slider -->
           <div class="col-lg-6 col-md-6 col-sm-6">
             <div class="who-we-are-right">
               <h3 class="text-blue mb-20">WHAT MAKES US UNIQUE</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <span class="tooltip-content-2" data-placement="top" data-toggle="tooltip" data-original-title="Sed hendrerit enim non justo">Vero quod conseqt</span> quibusdam, enim expedita sed quia nesciunt incidunt accusamus necessitatibus modi adipisci officia libero accusantium esse hic, obcaecati, ullam, laboriosam!</p>
-              <p>Lorem ipsum dolor sit amet, <span class="tooltip-content-2" data-placement="top" data-toggle="tooltip" data-original-title="Sed hendrerit enim non justo">consectetur adipisicing </span>elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam.</p>
+              <p>We also give social media services and in addition we offer a broad assortment of organizations, for instance, mobile application development including web application, PPC, website audits, online application, and online internet marketing also. </p>
 
-              <h5 class="text-blue mb-20">¿Dónde puedo conseguirlo?</h5>
+              
 
               <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fa fa-check-square-o"></i> Nulla vehicula nisl cum soluta nobis est eligendi optio cumque </li>
-                <li><i class="fa fa-check-square-o"></i> nihil impeditnon enim fermentum veniamDuis nec aliquet massa</li>
-                <li><i class="fa fa-check-square-o"></i> sed dapibus mauris. Nulla vehicula nisl cum soluta nobis est eligendi.</li>
+                <li><i class="fa fa-check-square-o"></i> We absolutely take after Google site administrator rules. </li>
+                <li><i class="fa fa-check-square-o"></i> 50% of our clients come through referrals. </li>
+                <li><i class="fa fa-check-square-o"></i> Xyz is an IT association offering complete mobile or web application development services.</li>
               </ul> 
-              <p>Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam, enim expedita sed quia nesciunt incidunt accusamus necessitatibus.</p>
             </div>
           </div>
          </div>

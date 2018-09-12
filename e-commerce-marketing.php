@@ -4,34 +4,24 @@
 ?>
 
 <!--=================================
-slider- -->
+ inner-intro-->
 
-  <section id="animated-slider" class="carousel slide" data-ride="carousel"  style="height: 400px">
-     
-        <!-- Carousel inner -->
-        <div class="carousel-inner">
-          <!--/ Carousel item end -->
-          <div class="item active">
-            <img class="img-responsive" src="images/slider/slider-10.jpg" alt="slider">  
-            <div class="slider-content">
-              <div class="container">
-              <div class="row">
-                <div class="col-md-12 text-center">
-                 <div class="slider-1">
-                    <!--<span class="animated7">Big Dreams, Big ideas </span>-->
-                    <h1 class="animated8 text-white">E-Commerce Marketing</h1>
-                    
-                 </div>
-                </div>
-              </div>
-            </div>
-            </div>
-          </div>
-        </div>
-  </section>
- 
+<section class="inner-intro bg-2 ">
+  <div class="container">
+     <div class="row text-center intro-title">
+            <h1 class="text-blue">E-Commerce Marketing</h1>
+            
+            <ul class="page-breadcrumb">
+              <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
+              
+              <li><span>E-Commerce Marketing</span> </li>
+           </ul>
+     </div>
+  </div>
+</section>
+
 <!--=================================
-slider -->
+ inner-intro-->
 
 
 

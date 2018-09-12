@@ -4,52 +4,24 @@
 ?>
 
 <!--=================================
-slider- -->
+ inner-intro-->
 
-  <section id="animated-slider" class="carousel slide" data-ride="carousel"  style="height: 400px">
-     
-        <!-- Carousel inner -->
-        <div class="carousel-inner">
-          <!--/ Carousel item end -->
-          <div class="item active">
-            <img class="img-responsive" src="images/slider/slider-10.jpg" alt="slider">  
-            <div class="slider-content">
-              <div class="container">
-              <div class="row">
-                <div class="col-md-12 text-center">
-                 <div class="slider-1">
-                    <!--<span class="animated7">Big Dreams, Big ideas </span>-->
-                    <h1 class="animated8 text-white">Mobile App Development</h1>
-                    
-                 </div>
-                </div>
-              </div>
-            </div>
-            </div>
-          </div>
-          <!--<div class="item">
-            <img class="img-responsive" src="images/slider/slider-10.jpg" alt="slider">  
-            <div class="slider-content">
-              <div class="container">
-              <div class="row">
-                <div class="col-md-12 text-center">
-                 <div class="slider-2">
-                    <h1 class="animated7 text-white">We are Digital Creative agency</h1>
-                    <p class="animated7">Unique designs, eye-catchy portfolio and innovative website. </p>
-                    <a href="#" class="button animated8"> <span> Read More </span></a>
-                    <a target="_blank" href="http://themeforest.net/item/the-corps-multipurpose-html5-template/15623522?ref=Potenzaglobalsolutions" class="button button-black animated8"><span> Purchase Now </span> </a>
-                 </div>
-                </div>
-              </div>
-            </div>
-            </div>
-          </div>-->
-          <!--/ Carousel item end -->
-        </div>
-  </section>
- 
+<section class="inner-intro bg-2-my">
+  <div class="container">
+     <div class="row text-center intro-title">
+            <h1 class="text-blue">Mobile App Development</h1>
+            
+            <ul class="page-breadcrumb">
+              <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
+              
+              <li><span>Mobile App Development</span> </li>
+           </ul>
+     </div>
+  </div>
+</section>
+
 <!--=================================
-slider -->
+ inner-intro-->
 
 
 
@@ -60,8 +32,8 @@ about- -->
 <section class="about white-bg page-section-ptb">
  <div class="container">
   <div class="row">
-    <div class="col-lg-6 col-md-6">
-     <div class="custom-content-2 pt-70">
+    <div class="col-lg-6 col-md-6 col-sm-6">
+     <div class="custom-content-2 ">
       <h1 class="mb-15 text-blue">Mobile App Developemnt</h1>
        
        <p class="text-justify">We provide the best quality mobile app development services to ensure your comfort zone, with our service you can easily reach your market that also ensures your sales as well as enhance business growth.</p>
@@ -70,8 +42,8 @@ about- -->
        
      </div>
     </div>
-    <div class="col-lg-6 col-md-6">
-       <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+       <img class="img-responsive" src="images/img-1.jpg" alt="">
     </div>
   </div>
 
@@ -79,13 +51,13 @@ about- -->
 
   <div class="row">
     
-    <div class="col-lg-6 col-md-6">
-       <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6">
+       <img class="img-responsive" src="images/2.jpg" alt="">
     </div>
 
-    <div class="col-lg-6 col-md-6">
-     <div class="custom-content-2 pt-70">
-      <h1 class="mb-15 text-blue">We provide following services.</h1>
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+     <div class="custom-content-2">
+      <h1 class="mb-15 text-blue">We provide following services</h1>
        
        <ul class="who-we-are-about mt-20 mb-20">
                 <li><i class="fa fa-check-square-o"></i> Android App Development Services</li>
@@ -107,7 +79,7 @@ about- -->
     <div class="row">
           
 
-          <div class="col-lg-6 col-md-6">
+          <div class="col-lg-6 col-md-6 col-sm-6">
             <div class="who-we-are-right">
               <h1 class="text-blue mb-20">WHY DO YOU CHOOSE US?</h1>
               
@@ -123,8 +95,8 @@ about- -->
             </div>
           </div>
 
-           <div class="col-lg-6 col-md-6">
-             <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+           <div class="col-lg-6 col-md-6 col-sm-6">
+             <img class="img-responsive" src="images/3.jpg" alt="">
           </div>
 
     </div>

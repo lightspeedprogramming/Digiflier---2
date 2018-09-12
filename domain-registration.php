@@ -1,37 +1,27 @@
 <?php
-  $title = 'Domain Registration|| Xyz';
+  $title = 'Domain Registration || Xyz';
   include 'header.php';
 ?>
 
 <!--=================================
-slider- -->
+ inner-intro-->
 
-  <section id="animated-slider" class="carousel slide" data-ride="carousel"  style="height: 400px">
-     
-        <!-- Carousel inner -->
-        <div class="carousel-inner">
-          <!--/ Carousel item end -->
-          <div class="item active">
-            <img class="img-responsive" src="images/slider/slider-10.jpg" alt="slider">  
-            <div class="slider-content">
-              <div class="container">
-              <div class="row">
-                <div class="col-md-12 text-center">
-                 <div class="slider-1">
-                    <!--<span class="animated7">Big Dreams, Big ideas </span>-->
-                    <h1 class="animated8 text-white">Domain Registration</h1>
-                    
-                 </div>
-                </div>
-              </div>
-            </div>
-            </div>
-          </div>
-        </div>
-  </section>
- 
+<section class="inner-intro bg-2-my">
+  <div class="container">
+     <div class="row text-center intro-title">
+            <h1 class="text-blue">Domain Registration</h1>
+            
+            <ul class="page-breadcrumb">
+              <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
+              
+              <li><span>Domain Registration</span> </li>
+           </ul>
+     </div>
+  </div>
+</section>
+
 <!--=================================
-slider -->
+ inner-intro-->
 
 
 
@@ -42,7 +32,7 @@ about- -->
 <section class="about white-bg page-section-ptb">
  <div class="container">
   <div class="row">
-    <div class="col-lg-6 col-md-6">
+    <div class="col-lg-6 col-md-6 col-sm-6">
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">DOMAIN REGISTRATION</h1>
        
@@ -54,37 +44,40 @@ about- -->
        
      </div>
     </div>
-    <div class="col-lg-6 col-md-6">
-       <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+       <img class="img-responsive" src="images/17.jpg" alt="">
     </div>
   </div>
-
+ <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
   <div class="row">
-    <div class="col-lg-6 col-md-6">
+    
+    <div class="col-lg-6 col-md-6 col-sm-6">
+       <img class="img-responsive" src="images/18.jpg" alt="">
+    </div>
+
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">Each domain registration incorporates the following domain tools: </h1>
        
-      <h3 class="text-blue mt-30 mb-15">URL Forwarding  </h3>
+      <h4 class="text-blue mt-30 mb-15">URL Forwarding  </h4>
 
        <p class="text-justify"> Redirect traffic from one domain to another</p>
 
-      <h3 class="text-blue mb-15">Email Forwarding</h3>
+      <h4 class="text-blue mb-15">Email Forwarding</h4>
        
         <p class="mt-10 text-justify">Automatically forward messages to other valid email addresses.</p>
 
-      <h3 class="text-blue mb-15">DNS Management</h3>
+      <h4 class="text-blue mb-15">DNS Management</h4>
        
         <p class="mt-10 text-justify">Hold total control over your DNS records. </p>
 
-      <h3 class="text-blue mb-15">Exchange Lock</h3>
+      <h4 class="text-blue mb-15">Exchange Lock</h4>
        
         <p class="mt-10 text-justify">Protect your domain from unapproved domain transfer</p>
        
      </div>
     </div>
-    <div class="col-lg-6 col-md-6">
-       <img class="img-responsive right-block" src="images/bg/14.png" alt="">
-    </div>
+
   </div>
 
   <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
@@ -96,7 +89,7 @@ about- -->
     <div class="row">
           
 
-          <div class="col-lg-6 col-md-6">
+          <div class="col-lg-6 col-md-6 col-sm-6">
             <div class="who-we-are-right">
 
               <h1 class="mb-15 text-blue">Domain name registration process</h1>
@@ -114,8 +107,8 @@ about- -->
             </div>
           </div>
 
-           <div class="col-lg-6 col-md-6">
-             <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+           <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+             <img class="img-responsive" src="images/20.png" alt="">
           </div>
 
     </div>

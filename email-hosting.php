@@ -4,34 +4,24 @@
 ?>
 
 <!--=================================
-slider- -->
+ inner-intro-->
 
-  <section id="animated-slider" class="carousel slide" data-ride="carousel"  style="height: 400px">
-     
-        <!-- Carousel inner -->
-        <div class="carousel-inner">
-          <!--/ Carousel item end -->
-          <div class="item active">
-            <img class="img-responsive" src="images/slider/slider-10.jpg" alt="slider">  
-            <div class="slider-content">
-              <div class="container">
-              <div class="row">
-                <div class="col-md-12 text-center">
-                 <div class="slider-1">
-                    <!--<span class="animated7">Big Dreams, Big ideas </span>-->
-                    <h1 class="animated8 text-white">Email Hosting</h1>
-                    
-                 </div>
-                </div>
-              </div>
-            </div>
-            </div>
-          </div>
-        </div>
-  </section>
- 
+<section class="inner-intro bg-2 ">
+  <div class="container">
+     <div class="row text-center intro-title">
+            <h1 class="text-blue">Email Hosting</h1>
+            
+            <ul class="page-breadcrumb">
+              <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
+              
+              <li><span>Email Hosting</span> </li>
+           </ul>
+     </div>
+  </div>
+</section>
+
 <!--=================================
-slider -->
+ inner-intro-->
 
 
 
@@ -53,15 +43,15 @@ about- -->
   </div>
 
   <div class="row">
-    <div class="col-lg-6 col-md-6">
+    <div class="col-lg-6 col-md-6 col-sm-6">
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">YOUR EMAIL, OUR COMPANY</h1>
        
        <p class="text-justify"> Many organizations, business, associations keep running on the mail servers. The principle aphorism of email facilitating is that it interfaces the team members, clients, providers and dealers by means of correspondence channel. Affirmed email hosting assumes a crucial part when both approaching and active messages are conveyed by a different shared or committed mail server. We will dependably help you. </p>
      </div>
     </div>
-    <div class="col-lg-6 col-md-6">
-       <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6">
+       <img class="img-responsive" src="images/bg/14.png" alt="">
     </div>
   </div>
 
@@ -69,11 +59,11 @@ about- -->
   <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
 
   <div class="row">
-     <div class="col-lg-6 col-md-6">
-       <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+     <div class="col-lg-6 col-md-6 col-sm-6">
+       <img class="img-responsive" src="images/bg/14.png" alt="">
      </div>
 
-    <div class="col-lg-6 col-md-6">
+    <div class="col-lg-6 col-md-6 col-sm-6">
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">WE CAN KEEP A SECRET</h1>
        
@@ -86,15 +76,15 @@ about- -->
   <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
 
   <div class="row">
-    <div class="col-lg-6 col-md-6">
+    <div class="col-lg-6 col-md-6 col-sm-6">
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">STORAGE? NO PROBLEM</h1>
        
        <p class="text-justify"> There is nothing to stress we give expansive capacity region to your information accumulations. Our designs change from 20 GB storage for each clients which give you to sufficiently much stockpiling zone to gather and keep your information that your everything wish effectively.</p>
      </div>
     </div>
-    <div class="col-lg-6 col-md-6">
-       <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6">
+       <img class="img-responsive" src="images/bg/14.png" alt="">
     </div>
   </div>
 
@@ -103,7 +93,7 @@ about- -->
   <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
 
   <div class="row">
-    <div class="col-lg-6 col-md-6">
+    <div class="col-lg-6 col-md-6 col-sm-6">
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">ON THE WEB OR ON THE GO</h1>
        
@@ -121,8 +111,8 @@ about- -->
 
      </div>
     </div>
-    <div class="col-lg-6 col-md-6">
-       <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6">
+       <img class="img-responsive " src="images/bg/14.png" alt="">
     </div>
   </div>
 

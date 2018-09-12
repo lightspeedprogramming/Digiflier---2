@@ -29,7 +29,7 @@
                          <img src="images/team/01.jpg" alt="">
                        </div>  
                        <div class="testimonial-info clearfix">
-                        <p>I would like to express my thanks and appreciation to you for understanding the subject matter and for your excellent writing. Good job and well done. I look forward to working with you in our next project. Nam nec tellus a odio tincidunt auctor a ornare odio</p>
+                        <p>XYZ allows for fast development, we provide quick response services. This allowed us to add new features and highly recommend technologies and quickly iterate based on customer feedback.</p>
                         <strong class="mt-20">Emily Bernard</strong>
                       </div>
                      </div>
@@ -38,7 +38,7 @@
                          <img src="images/team/02.jpg" alt="">
                        </div>  
                        <div class="testimonial-info clearfix">
-                        <p>We are very pleased with your service and the professional way all our queries and problems have been handled. I certainly would not hesitate to recommend your organisation to other people I come into contact with. Proin gravida nibh vel velit auctor aliquet. lorem quis bibendum auctor, nisi elit consequat ipsum</p>
+                        <p>Great work and customer-focused services. We are amazed by the performance of mobile app that XYZ has provided. They took care of the finest little details and delivered high-quality, business-oriented mobile application for our business.</p>
                         <strong class="mt-20">Harrold Cooper </strong>
                       </div>
                      </div>
@@ -47,8 +47,17 @@
                          <img src="images/team/03.jpg" alt="">
                        </div>  
                        <div class="testimonial-info clearfix">
-                        <p>Our old site was very information-heavy; The Corps helped to capture and simplify the message we wanted to get across. It’s now more precise, easy to use and looks great! Dolor sit amet, consectetur conseqt quibusdam, enim expedita sed quia nesciunt incidunt accusamus </p>
+                        <p>We designed and developed various mobile app development platforms and quickly response by XYZ as the best mobile application for our needs. With XYZ, we were able to get our apps to market quickly and easily train new developers on the platform as we grow.</p>
                         <strong class="mt-20">Bella Swan</strong>
+                      </div>
+                     </div>
+                     <div class="item">
+                       <div class="testimonial-avatar">
+                         <img src="images/team/03.jpg" alt="">
+                       </div>  
+                       <div class="testimonial-info clearfix">
+                        <p>We deploy only one code for developing the mobile application of what platform is used for windows, blackberry and Android. With XYZ, we can update and improve our mobile apps easily with a single team. </p>
+                        <strong class="mt-20">Monica Gellar</strong>
                       </div>
                      </div>
                     </div>  

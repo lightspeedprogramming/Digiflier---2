@@ -4,34 +4,24 @@
 ?>
 
 <!--=================================
-slider- -->
+ inner-intro-->
 
-  <section id="animated-slider" class="carousel slide" data-ride="carousel"  style="height: 400px">
-     
-        <!-- Carousel inner -->
-        <div class="carousel-inner">
-          <!--/ Carousel item end -->
-          <div class="item active">
-            <img class="img-responsive" src="images/slider/slider-10.jpg" alt="slider">  
-            <div class="slider-content">
-              <div class="container">
-              <div class="row">
-                <div class="col-md-12 text-center">
-                 <div class="slider-1">
-                    <!--<span class="animated7">Big Dreams, Big ideas </span>-->
-                    <h1 class="animated8 text-white">Mobile App Designing</h1>
-                    
-                 </div>
-                </div>
-              </div>
-            </div>
-            </div>
-          </div>
-        </div>
-  </section>
- 
+<section class="inner-intro bg-2-my">
+  <div class="container">
+     <div class="row text-center intro-title">
+            <h1 class="text-blue">Mobile App Designing</h1>
+            
+            <ul class="page-breadcrumb">
+              <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
+              
+              <li><span>Mobile App Designing</span> </li>
+           </ul>
+     </div>
+  </div>
+</section>
+
 <!--=================================
-slider -->
+ inner-intro-->
 
 
 
@@ -42,14 +32,14 @@ about- -->
 <section class="about white-bg page-section-ptb">
  <div class="container">
   <div class="row">
-    <div class="col-lg-6 col-md-6">
-     <div class="custom-content-2 pt-70">
+    <div class="col-lg-6 col-md-6 col-sm-6">
+     <div class="custom-content-2">
       <h1 class="mb-15 text-blue">Mobile App Designing</h1>
        
        <p class="text-justify"> With a concentrated extent of utilizations winning inside the market, eye-getting styles and perceived UI are fundamental to design customers towards your mobile applications. It is out and out acknowledged in light of the way that the most basic half for convenient applications as totally startling qualities of mobiles applications in the market. </p>
 
        <div class="who-we-are-right">
-              <h3 class="text-blue mb-20">XYZ offers portable application planning with rich highlights like: </h3>
+              <h5 class="text-blue mb-20"><b>XYZ offers portable application planning with rich highlights like: </b></h5>
               
               <ul class="who-we-are-about mt-20 mb-20">
                 <li><i class="fa fa-check-square-o"></i> Attractive designs for applications  </li>
@@ -63,8 +53,8 @@ about- -->
        
      </div>
     </div>
-    <div class="col-lg-6 col-md-6">
-       <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+       <img class="img-responsive" src="images/4.jpg" alt="">
     </div>
   </div>
 
@@ -76,7 +66,7 @@ about- -->
 
     <div class="row">
          
-          <div class="col-lg-6 col-md-6">
+          <div class="col-lg-6 col-md-6 col-sm-6">
             <div class="who-we-are-right">
               <h3 class="text-blue mb-20">WHY CHOOSE US?</h3>
               
@@ -93,8 +83,8 @@ about- -->
             </div>
           </div>
 
-           <div class="col-lg-6 col-md-6">
-             <img class="img-responsive right-block" src="images/bg/14.png" alt="">
+           <div class="col-lg-6 col-md-6 col-sm-6">
+             <img class="img-responsive" src="images/3.jpg" alt="">
           </div>
 
     </div>

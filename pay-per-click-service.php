@@ -4,34 +4,24 @@
 ?>
 
 <!--=================================
-slider- -->
+ inner-intro-->
 
-  <section id="animated-slider" class="carousel slide" data-ride="carousel"  style="height: 400px">
-     
-        <!-- Carousel inner -->
-        <div class="carousel-inner">
-          <!--/ Carousel item end -->
-          <div class="item active">
-            <img class="img-responsive" src="images/slider/slider-10.jpg" alt="slider">  
-            <div class="slider-content">
-              <div class="container">
-              <div class="row">
-                <div class="col-md-12 text-center">
-                 <div class="slider-1">
-                    <!--<span class="animated7">Big Dreams, Big ideas </span>-->
-                    <h1 class="animated8 text-white">Pay-Per-Click</h1>
-                    
-                 </div>
-                </div>
-              </div>
-            </div>
-            </div>
-          </div>
-        </div>
-  </section>
- 
+<section class="inner-intro bg-2 ">
+  <div class="container">
+     <div class="row text-center intro-title">
+            <h1 class="text-blue">Pay-Per-Click</h1>
+            
+            <ul class="page-breadcrumb">
+              <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
+              
+              <li><span>Pay-Per-Click</span> </li>
+           </ul>
+     </div>
+  </div>
+</section>
+
 <!--=================================
-slider -->
+ inner-intro-->
 
 
 <section class="about white-bg page-section-ptb">
@@ -41,7 +31,11 @@ slider -->
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">Pay Per Click Service</h1>
        
-       <p class="text-justify"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores esse molestiae tempore hic, sint harum beatae quam incidunt dolorum et nostrum itaque, saepe? Dolores deserunt porro cumque vitae est saepe. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos voluptate dolore quidem obcaecati officia itaque maiores praesentium, voluptatem sed minima eius magni, perspiciatis molestias animi ratione ab, omnis delectus, voluptates. Lorem ipsum dolor sit amet, consectetur deleniti vel?</p>
+       <p class="text-justify"> PPC remains for pay-per-click. It is a model in which promoters will just pay as indicated by the quantity of notices clicked. It is a strategy for obtaining visits to your site, rather than attempting to acquire those visits normally. It allows advertisers to offer for an ad web searcher when some individual looks for on a main motto that is related to their online business marketing. </p>
+
+       <p>
+         PPC promoting allows you to pay for top positions on mobile development and appear on significant accomplice locales. Pay-per-click promoting passes on activity and requests offers numerous ways to deal with supplement existing mobile development frameworks by testing watchwords, plans of activity, and business focus verticals, and it empowers you to develop your general Internet advertising strategy, and any mobile applications design furnished with realities, not suppositions. 
+       </p>
      </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-6">
@@ -56,7 +50,11 @@ slider -->
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">PPC MANAGEMENT</h1>
        
-       <p class="text-justify"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores esse molestiae tempore hic, sint harum beatae quam incidunt dolorum et nostrum itaque, saepe? Dolores deserunt porro cumque vitae est saepe. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos voluptate dolore quidem obcaecati officia itaque maiores praesentium, voluptatem sed minima eius magni, perspiciatis molestias animi ratione ab, omnis delectus, voluptates. Lorem ipsum dolor sit amet, consectetur deleniti vel?</p>
+       <p class="text-justify"> With our PPC advertising ability, we can help take your records to the following level. We change philosophy and declaring specially designed to your necessities</p>
+
+       <p>
+         We give the assistance and heading you require to allow your goal, be it growing rate of return, extending leads, or driving brand care. 
+       </p>
      </div>
 
      
@@ -86,8 +84,8 @@ slider -->
        <div class="col-lg-4 col-md-4">
           <div class="feature-4">
             <span class="icon-pencil" aria-hidden="true"></span>
-              <h4>PPC Audits</h4>
-              <p class="mt-20">Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia...</p>
+              <h4>FACEBOOK ADS </h4>
+              <p class="mt-20">Facebook is that internet based life platform where many items or things appears through the Facebook advertising, where the clients can buy that can spread a message to wide zone through their interchanges.</p>
               <!--<ul class="feature-4-sec mt-30">
                <li><i class="fa fa-angle-right"></i> Web Template(interface) design</li>
                <li><i class="fa fa-angle-right"></i> Static website design </li>
@@ -101,14 +99,14 @@ slider -->
           <div class="feature-4">
               <span class="icon-game-controller" aria-hidden="true"></span>
               <h4>Social Advertising</h4>
-              <p class="mt-20">Consectetur adipisicing elit. Vero quod conseqt quibusdam, enim expedita  incidunt accusamus necessitatibus modi adipisci officia...</p>
+              <p class="mt-20">XYZ give the paid online networking advertising on the web that is focus on the customers require through the social showcasing. </p>
           </div>
        </div>
        <div class="col-lg-4 col-md-4">
           <div class="feature-4">
               <span class="icon-rocket" aria-hidden="true"></span>
               <h4>Google AdWords</h4>
-              <p class="mt-20">Sit amet, consectetur adipisicing elit. Vero quod quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia...</p>
+              <p class="mt-20">At XYZ, We contracting the designers of our organization they give you the upside of a full-time AdWords proficient without the extra cost of expansion another all day laborer. </p>
           </div>
        </div>
      </div>
@@ -118,21 +116,21 @@ slider -->
           <div class="feature-4">
             <span class="icon-pencil" aria-hidden="true"></span>
               <h4>Bing Advertising</h4>
-              <p class="mt-20">Dolor sit amet, consectetur adipisicing elit. Vero quod conseqt quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia...</p>
+              <p class="mt-20">As advertising associations, which give the organization bargains the many clients who are searcher, XYZ pay per click give advantages of our clients. </p>
           </div>
        </div>
        <div class="col-lg-4 col-md-4">
           <div class="feature-4">
               <span class="icon-game-controller" aria-hidden="true"></span>
               <h4>Display Advertising</h4>
-              <p class="mt-20">Consectetur adipisicing elit. Vero quod conseqt quibusdam, enim expedita  incidunt accusamus necessitatibus modi adipisci officia...</p>
+              <p class="mt-20">We show all advertising items on our site through the display advertising which connect the client’s interest for your product or services.</p>
           </div>
        </div>
        <div class="col-lg-4 col-md-4">
           <div class="feature-4">
               <span class="icon-rocket" aria-hidden="true"></span>
-              <h4>Remarketing & Retargeting</h4>
-              <p class="mt-20">Sit amet, consectetur adipisicing elit. Vero quod quibusdam, enim expedita sed nesciunt incidunt accusamus necessitatibus modi adipisci officia...</p>
+              <h4>Remarketing</h4>
+              <p class="mt-20">XYZ gives finish remarketing services including mobile application or online application and services. Our certified or experienced ensures that business spends based on cash that the clients well on the way to change over, as opposed to tossing at the divider and trusting it sticks. </p>
           </div>
        </div>
      </div>
@@ -145,7 +143,7 @@ slider -->
 <!-- ===============================
   Brief process of our pay per click campaign:-->
 
-  <section class="about white-bg page-section-ptb">
+  <!--<section class="about white-bg page-section-ptb">
  <div class="container">
 
   <div class="row">
@@ -173,14 +171,14 @@ slider -->
 
  
  </div>
-</section>
+</section>-->
 
   <!-- ===============================
   End Brief process of our pay per click campaign:-->
 
 <!--=================================
  like what -->
-  
+ <!-- 
 <section class="bg-my-10 page-section-ptb">
   <div class="container">
     <div class="row">
@@ -195,7 +193,7 @@ slider -->
   </div>
  </div>
 </section>
-
+-->
 <!--=================================
  like what  -->
  

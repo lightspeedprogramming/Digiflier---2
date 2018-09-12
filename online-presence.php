@@ -3,35 +3,19 @@
   include 'header.php';
 ?>
 
-<!--=================================
-slider- -->
-
-  <section id="animated-slider" class="carousel slide" data-ride="carousel"  style="height: 400px">
-     
-        <!-- Carousel inner -->
-        <div class="carousel-inner">
-          <!--/ Carousel item end -->
-          <div class="item active">
-            <img class="img-responsive" src="images/slider/slider-10.jpg" alt="slider">  
-            <div class="slider-content">
-              <div class="container">
-              <div class="row">
-                <div class="col-md-12 text-center">
-                 <div class="slider-1">
-                    <!--<span class="animated7">Big Dreams, Big ideas </span>-->
-                    <h1 class="animated8 text-white">Online Presence Analysis</h1>
-                    
-                 </div>
-                </div>
-              </div>
-            </div>
-            </div>
-          </div>
-        </div>
-  </section>
- 
-<!--=================================
-slider -->
+<section class="inner-intro bg-2 ">
+  <div class="container">
+     <div class="row text-center intro-title">
+            <h1 class="text-blue">Online Presence Analysis</h1>
+            
+            <ul class="page-breadcrumb">
+              <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
+              
+              <li><span>Online Presence Analysis</span> </li>
+           </ul>
+     </div>
+  </div>
+</section>
 
 <!--=================================
 about- -->
@@ -44,7 +28,11 @@ about- -->
      <div class="custom-content-2 pt-70">
       <h2 class="mb-15 text-blue">Online Presence Analysis</h2>
        
-       <p class="text-justify"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores esse molestiae tempore hic, sint harum beatae quam incidunt dolorum et nostrum itaque, saepe? Dolores deserunt porro cumque vitae est saepe. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos voluptate dolore quidem obcaecati officia itaque maiores praesentium, voluptatem sed minima eius magni, perspiciatis molestias animi ratione ab, omnis delectus, voluptates. Lorem ipsum dolor sit amet, consectetur deleniti vel?</p>
+       <p class="text-justify"> Online Presence Analysis builds up that how your business is performing over the web. We'll examine your site style, helpfulness, and substance. We'll analyze your optimal catchphrase and zones in association with your rivals concerning your restriction.</p>
+
+       <p class="text-justify">
+         We will separate your online nearness in average detail with the objective that you'll prepare to pinpoint your characteristics and inadequacies. 
+       </p>
      </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-6">
@@ -71,7 +59,15 @@ about- -->
      <div class="custom-content-2 pt-70">
       <h3 class="mb-15 text-blue">KEY PART OF ONLINE MARKETING STRATEGY</h3>
        
-       <p class="text-justify"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti vero, animi suscipit id facere officia. Aspernatur, quo, quos nisi dolorum aperiam fugiat deserunt velit rerum laudantium cum magnam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores esse molestiae tempore hic, sint harum beatae quam incidunt dolorum et nostrum itaque, saepe? Dolores deserunt porro cumque vitae est saepe. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos voluptate dolore quidem obcaecati officia itaque maiores praesentium, voluptatem sed minima eius magni, perspiciatis molestias animi ratione ab, omnis delectus, voluptates. Lorem ipsum dolor sit amet, consectetur deleniti vel?</p>
+       <p class="text-justify">Any business, little or far reaching, ought to have online nearness widening as a bit of their online marketing business. Through a working on the web closeness, you'll increase detectable quality your picture's photo. This allows you to achieve desire on potential guests who still ask concerning your thing and organizations. </p>
+
+       <P class="text-justify">
+         Remembering the true objective to take a gander at where your picture stays with its online closeness in your business, we give what we have a tendency to pick a web Presence Analysis. 
+       </P>
+
+       <P class="text-justify">
+         This examination will help in affirming that how well your business is seen among potential guests when appeared differently in relation to your genuine rivals. 
+       </P>
      </div>
     </div>
 
@@ -84,11 +80,17 @@ about- -->
      <div class="custom-content-2 pt-70">
       <h3 class="mb-15 text-blue">WHAT DOES AN ONLINE PRESENCE ANALYSIS INCLUDE?</h3>
        
-       
        <ul class="who-we-are-about mt-20 mb-20">
-        <li><i class="fa fa-check-square-o"></i> Nulla vehicula nisl cum soluta nobis est eligendi optio cumque </li>
-        <li><i class="fa fa-check-square-o"></i> nihil impeditnon enim fermentum veniamDuis nec aliquet massa</li>
-        <li><i class="fa fa-check-square-o"></i> sed dapibus mauris. Nulla vehicula nisl cum soluta nobis est eligendi.</li>
+        <li><i class="fa fa-check-square-o"></i> On-page and Off-page investigation </li>
+        <li><i class="fa fa-check-square-o"></i> Competition examination </li>
+        <li><i class="fa fa-check-square-o"></i> Content revealing </li>
+        <li><i class="fa fa-check-square-o"></i> Social Media nearness  </li>
+        <li><i class="fa fa-check-square-o"></i> Design and usefulness of your site </li>
+        <li><i class="fa fa-check-square-o"></i> Competitor investigation </li>
+        <li><i class="fa fa-check-square-o"></i> Web-movement investigation and expanding activity</li>
+        <li><i class="fa fa-check-square-o"></i> Ideas to acquire business</li>
+
+        </ul>
 
      </div>
     </div>
@@ -111,9 +113,10 @@ about- -->
       <h3 class="mb-15 text-blue">YOUR ONLINE PRESENCE EVALUATION CONSISTS OF</h3>
       
       <ul class="who-we-are-about mt-20 mb-20">
-        <li><i class="fa fa-check-square-o"></i> Nulla vehicula nisl cum soluta nobis est eligendi optio cumque </li>
-        <li><i class="fa fa-check-square-o"></i> nihil impeditnon enim fermentum veniamDuis nec aliquet massa</li>
-        <li><i class="fa fa-check-square-o"></i> sed dapibus mauris. Nulla vehicula nisl cum soluta nobis est eligendi.</li>
+        <li><i class="fa fa-check-square-o"></i> A video review of our restrictive </li>
+        <li><i class="fa fa-check-square-o"></i> A point by point once-over of our revelations, proposals, and resources </li>
+        <li><i class="fa fa-check-square-o"></i> A 40-minute phone meeting</li>
+        <li><i class="fa fa-check-square-o"></i> Free email follow-up to ensure results</li>
       </ul> 
 
      </div>
@@ -128,7 +131,7 @@ about- -->
 <!--=================================
  like what -->
   
-<section class="bg-my-10 page-section-ptb">
+<!--<section class="bg-my-10 page-section-ptb">
   <div class="container">
     <div class="row">
        <div class="col-lg-12 col-md-12 col-sm-12 text-center">
@@ -141,7 +144,7 @@ about- -->
     </div>
   </div>
  </div>
-</section>
+</section>-->
 
 <!--=================================
  like what  -->

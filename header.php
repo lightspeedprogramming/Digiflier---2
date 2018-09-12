@@ -83,7 +83,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
    </div>
  </div>
- <header id="header" class="header-6">
+ <header id="header" class="my-header-6">
   <div class="menu">  
   <!-- menu start -->
    <nav id="menu-1" class="mega-menu">
