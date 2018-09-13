@@ -6,7 +6,7 @@
 <!--=================================
  inner-intro-->
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Email Hosting</h1>
@@ -42,16 +42,16 @@ about- -->
     </div>
   </div>
 
-  <div class="row">
+  <div class="row pt-70">
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2 ">
       <h1 class="mb-15 text-blue">YOUR EMAIL, OUR COMPANY</h1>
        
        <p class="text-justify"> Many organizations, business, associations keep running on the mail servers. The principle aphorism of email facilitating is that it interfaces the team members, clients, providers and dealers by means of correspondence channel. Affirmed email hosting assumes a crucial part when both approaching and active messages are conveyed by a different shared or committed mail server. We will dependably help you. </p>
      </div>
     </div>
-    <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+       <img class="img-responsive" src="images/email-marketing.png" alt="">
     </div>
   </div>
 
@@ -60,10 +60,10 @@ about- -->
 
   <div class="row">
      <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/secure-email-services.jpg" alt="">
      </div>
 
-    <div class="col-lg-6 col-md-6 col-sm-6">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">WE CAN KEEP A SECRET</h1>
        
@@ -84,7 +84,7 @@ about- -->
      </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/Storage-bloat.jpg" alt="">
     </div>
   </div>
 
@@ -94,7 +94,7 @@ about- -->
 
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2 ">
       <h1 class="mb-15 text-blue">ON THE WEB OR ON THE GO</h1>
        
        <p class="text-justify"> Keep your inbox in a set paying little mind to wherever you're with the capacity of email hosting. Regardless of whether you're on a smartphone, or on your work area, we've game plans which will work the system you work for wherever. </p>
@@ -112,7 +112,7 @@ about- -->
      </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive " src="images/bg/14.png" alt="">
+       <img class="img-responsive " src="images/email.jpg" alt="">
     </div>
   </div>
 

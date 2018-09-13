@@ -248,16 +248,7 @@ slider -->
         </div>
       </div>  
       <div class="col-lg-6 col-md-6 col-sm-6">
-         <div class="who-we-are-left">
-          <div class="owl-carousel-2">
-          <div class="item"><img src="images/about/03.jpg" alt="">
-          </div>
-          <div class="item"><img src="images/about/04.jpg" alt="">
-          </div>
-          <div class="item"><img src="images/about/05.jpg" alt="">
-          </div>
-         </div>
-        </div>
+         <img class="img-responsive" src="images/mobile-application-development.png" alt="">
       </div>
      </div>
      <br/><br/>
@@ -282,7 +273,7 @@ slider -->
        <div class="col-lg-2 col-md-12">
           <div class="team-4 text-center">
              <div class="team-image">
-                <img class="img-responsive center-block" src="images/team/08.jpg" alt="">
+                <img class="img-responsive center-block" src="images/icon/business-meeting.png" alt="">
              </div>
              <div class="team-name">
                <h5>Discuss</h5>
@@ -294,7 +285,7 @@ slider -->
        <div class="col-lg-2 col-md-12">
           <div class="team-4 text-center">
              <div class="team-image">
-                <img class="img-responsive center-block" src="images/team/09.jpg" alt="">
+                <img class="img-responsive center-block" src="images/icon/business-plan.png" alt="">
              </div>
              <div class="team-name">
                <h5>Plan</h5>
@@ -306,7 +297,7 @@ slider -->
        <div class="col-lg-2 col-md-12">
           <div class="team-4 text-center">
              <div class="team-image">
-                <img class="img-responsive center-block" src="images/team/10.jpg" alt="">
+                <img class="img-responsive center-block" src="images/icon/workspace.png" alt="">
              </div>
              <div class="team-name">
                <h5>Design & Dev</h5>
@@ -390,13 +381,13 @@ slider -->
              <h3 class="text-blue">WEBSITE DEVELOPMENT</h3>
               <p>XYZ is top-most Website Development Company in India. We make and build up the best appealing and inventive site pages utilizing the different tools and advancements i.e. jQuery, Bootstrap, Nodejs and many more for a responsive website development supporting the mobile and tablets. </p>
               <b>01</b>
-              <ul>
+              <!-- <ul>
                 <li>Web Template(interface) design </li>
                 <li>Static website design</li>
                 <li>Custom web design</li>
-              </ul>
+              </ul> -->
 
-              <a class="button mb-70 mt-60" href="website-development.php">
+              <a class="button mt-30" href="website-development.php">
                 <span>Read More</span>
                 <i class="fa fa-hand-o-right"></i>
               </a>
@@ -405,7 +396,7 @@ slider -->
 
        </div>
        <div class="col-lg-6 col-md-6 col-sm-6 padding-img">
-         <img class="img-responsive" src="images/about/09.jpg" alt=""> 
+         <img class="img-responsive" src="images/web-design-mumbai.png" alt=""> 
        </div>
     </div>
 
@@ -413,7 +404,7 @@ slider -->
     <!-- ============================================ -->
     <div class="row">
      <div class="col-lg-6 col-md-6 col-sm-6 padding-img">
-         <img class="img-responsive" src="images/about/10.jpg" alt=""> 
+         <img class="img-responsive" src="images/Website-Planning.png" alt=""> 
        </div>
        <div class="col-lg-6 col-md-6 col-sm-6">
           <div class="features13 left text-left"> 
@@ -423,13 +414,13 @@ slider -->
                 On the off chance that you choose to make and host your site with .com domain name online store, you can get a custom space, email locations, and web hosting all packaged into one membership.
               </p>
               <b>02</b>
-              <ul>
+              <!-- <ul>
                 <li>iPhone iOs Apps Development </li>
                 <li>Android Apps Development </li>
                 <li>Blackberry Apps Development</li>
-              </ul>
+              </ul> -->
 
-              <a class="button mb-70 mt-60" href="website-hosting.php">
+              <a class="button mt-30" href="website-hosting.php">
                 <span>Read More</span>
                 <i class="fa fa-hand-o-right"></i>
               </a>
@@ -452,14 +443,14 @@ slider -->
               <b>03</b>
               
 
-              <a class="button mb-70 mt-60" href="domain-registration.php">
+              <a class="button mb-30" href="domain-registration.php">
                 <span>Read More</span>
                 <i class="fa fa-hand-o-right"></i>
               </a>
           </div>
        </div>
        <div class="col-lg-6 col-md-6 col-sm-6 padding-img">
-         <img class="img-responsive" src="images/about/11.jpg" alt=""> 
+         <img class="img-responsive" src="images/How-to-Register-a-Domain-Name.png" alt=""> 
        </div>
     </div>
 
@@ -468,7 +459,7 @@ slider -->
     <!-- ============================================ -->
     <div class="row">
      <div class="col-lg-6 col-md-6 col-sm-6 padding-img">
-         <img class="img-responsive" src="images/about/12.jpg" alt=""> 
+         <img class="img-responsive" src="images/image1-4.jpg" alt=""> 
        </div>
        <div class="col-lg-6 col-md-6 col-sm-6">
           <div class="features13 left text-left"> 
@@ -482,7 +473,7 @@ slider -->
               <b>04</b>
               
 
-              <a class="button mb-70 mt-60" href="mobile-app-development.php">
+              <a class="button mb-30" href="mobile-app-development.php">
                 <span>Read More</span>
                 <i class="fa fa-hand-o-right"></i>
               </a>
@@ -506,14 +497,14 @@ slider -->
               </P>
               <b>05</b>
               
-              <a class="button mb-70 mt-60" href="mobile-app-hosting.php">
+              <a class="button mb-30" href="mobile-app-hosting.php">
                 <span>Read More</span>
                 <i class="fa fa-hand-o-right"></i>
               </a>
           </div>
        </div>
        <div class="col-lg-6 col-md-6 col-sm-6 padding-img">
-         <img class="img-responsive" src="images/about/09.jpg" alt=""> 
+         <img class="img-responsive" src="images/full_f5070365f7.jpg" alt=""> 
        </div>
     </div>
 
@@ -522,7 +513,7 @@ slider -->
     <!-- ============================================ -->
     <div class="row">
      <div class="col-lg-6 col-md-6 col-sm-6 padding-img">
-         <img class="img-responsive" src="images/about/10.jpg" alt=""> 
+         <img class="img-responsive" src="images/2017-Email-Tips-600x300.jpg" alt=""> 
        </div>
        <div class="col-lg-6 col-md-6 col-sm-6">
           <div class="features13 left text-left"> 
@@ -534,7 +525,7 @@ slider -->
               </p>
               <b>06</b>
 
-              <a class="button mb-70 mt-60" href="email-marketing-servers.php">
+              <a class="button mb-30" href="email-marketing-servers.php">
                 <span>Read More</span>
                 <i class="fa fa-hand-o-right"></i>
               </a>
@@ -552,14 +543,14 @@ slider -->
               <p>An Email hosting service is web-based hosting services that work email servers. Email hosting services, as a rule, offers premium email rather than notice upheld free email or free webmail. Email hosting services in this manner vary from run of the mill end-client email suppliers, for example, webmail locales.  Hosting suppliers can deal with a client's own particular domain name, including any email confirmation plot that the area proprietor wishes to implement so as to pass on the implying that using a particular area name distinguishes and qualifies email senders. </p>
               <b>07</b>
 
-              <a class="button mb-70 mt-60" href="email-hosting.php">
+              <a class="button mb-30" href="email-hosting.php">
                 <span>Read More</span>
                 <i class="fa fa-hand-o-right"></i>
               </a>
           </div>
        </div>
        <div class="col-lg-6 col-md-6 col-sm-6 padding-img">
-         <img class="img-responsive" src="images/about/11.jpg" alt=""> 
+         <img class="img-responsive" src="images/Add-on-Features.png" alt=""> 
        </div>
     </div>
 
@@ -568,7 +559,7 @@ slider -->
     <!-- ============================================ -->
     <div class="row">
      <div class="col-lg-6 col-md-6 col-sm-6 padding-img">
-         <img class="img-responsive" src="images/about/12.jpg" alt=""> 
+         <img class="img-responsive" src="images/web-design-and-development-600x300.png" alt=""> 
        </div>
        <div class="col-lg-6 col-md-6 col-sm-6">
           <div class="features13 left "> 
@@ -580,7 +571,7 @@ slider -->
               </P>
               <b>08</b>
               
-              <a class="button mb-70 mt-60" href="website-migration.php">
+              <a class="button mb-30" href="website-migration.php">
                 <span>Read More</span>
                 <i class="fa fa-hand-o-right"></i>
               </a>

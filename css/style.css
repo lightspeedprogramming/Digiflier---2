@@ -972,10 +972,11 @@ li:last-child.highlight { margin-bottom: 0px; }
  .bg-2 { background: url(../images/bg/02.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
  .bg-2-my { background: url(../images/bg/1.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
  .bg-3 { background: url(../images/bg/03.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
+ .bg-3-my { background: url(../images/bg/02.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
  .bg-4 { background: url(../images/bg/04.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
  .bg-5 { background: url(../images/bg/05.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; }
  .bg-6 { background: url(../images/bg/06.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
- .bg-6-my { background: url(../images/slider/slider-06.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
+ .bg-6-my { background-clip: initial; background-color: #000000; background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
  .bg-7 { background: url(../images/bg/07.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
  .bg-8 { background: url(../images/bg/08.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
  .bg-9 { background: url(../images/bg/09.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; }
@@ -1023,12 +1024,19 @@ li:last-child.highlight { margin-bottom: 0px; }
 .feature-3-info p { margin-bottom: 0px; }
 /*feature 4*/
 .feature-4 span { float: left; margin-right: 19px; font-size: 34px; color: #00a9da; }
+.feature-4 img {
+    float: left;
+    margin-right: 19px;
+    font-size: 34px;
+}
 .feature-4 h4 { display: block; }
 .feature-4 p { margin-left: 18px; padding-left: 36px; border-left:1px solid #eceff7; }
 .feature-4-sec li { font-size: 14px; color: #626262; margin-bottom: 10px; }
 .feature-4-sec i { color: #626262; font-size: 16px; margin-left: 17px; padding-right: 28px; padding-top: 4px; }
 /*feature 5*/
 .feature5 span { font-size: 30px; color: #00a9da; font-weight: normal; margin-bottom: 20px; display: block; }
+
+.feature5 img { margin-bottom: 20px; display: block; }
 .feature5 h4 { position: relative; padding-bottom: 15px; }
 .feature5 h4:before { position: absolute; bottom: 0px; content: ""; width: 70px; height: 2px; background: #00a9da; }
 .feature5 p { font-weight: normal; }
@@ -1075,9 +1083,12 @@ li:last-child.highlight { margin-bottom: 0px; }
 .feature-9:hover .feature-9-icon { right: 52%; }
 /*feature 10*/
 .feature-10 span { font-size: 33px; }
+.feature-10 img { margin-bottom: 20px; }
 .feature-10 p { font-size: 13px; margin-bottom: 0px; }
 /*feature 11*/
  .feature-11 .feature-11-icon { background: transparent; border:1px solid #eceff8; border-radius: 50%; display: block; height: 90px; margin: 0 auto; padding: 9px; text-align: center;
+  width: 90px;  -webkit-transition:all 0.3s ease-in-out; -ms-transition:all 0.3s ease-in-out; -o-transition:all 0.3s ease-in-out; -moz-transition:all 0.3s ease-in-out; transition:all 0.3s ease-in-out; }
+  .feature-11-my .feature-11-icon { background: transparent;  border-radius: 50%; display: block; height: 90px; margin: 0 auto; padding: 9px; text-align: center;
   width: 90px;  -webkit-transition:all 0.3s ease-in-out; -ms-transition:all 0.3s ease-in-out; -o-transition:all 0.3s ease-in-out; -moz-transition:all 0.3s ease-in-out; transition:all 0.3s ease-in-out; }
 .feature-11 .feature-11-icon span { width: 70px; height: 70px; border-radius: 50%; color: #363636; font-size: 26px; text-align: center; line-height: 75px; background: #eceff8; display: inline-block; -webkit-transition:all 0.3s ease-in-out; -ms-transition:all 0.3s ease-in-out; -o-transition:all 0.3s ease-in-out; -moz-transition:all 0.3s ease-in-out; transition:all 0.3s ease-in-out; }
 .feature-11 .feature-11-info h4 {  position: relative; }
@@ -1096,6 +1107,10 @@ li:last-child.highlight { margin-bottom: 0px; }
 .my-feature-11:hover .feature-11-icon span { background: #00a9da; color: #fff; }
 
 .my-feature-11 {
+      padding: 35px 0;
+}
+
+.feature-11-my {
       padding: 35px 0;
 }
 /*feature 12*/
@@ -2168,7 +2183,7 @@ rippleDrop {  100% {
  .owl-carousel-11 .owl-nav i:hover { color: #00a9da; }
 
  /*team-4*/
- .team-4 .team-image img { border-radius: 50%; margin-bottom: 20px; } 
+ .team-4 .team-image img { /*border-radius: 50%;*/ margin-bottom: 20px; } 
  .team-4 .team-name h5 { color: #00a9da; font-size: 18px; text-transform: uppercase; font-weight: 400; margin-top: 30px; display: block; }
  .team-4 .team-name span { color: #626262; font-size: 14px; }
  .team-4 .team-social { margin-top: 15px; }

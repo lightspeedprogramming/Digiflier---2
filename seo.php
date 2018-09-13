@@ -3,7 +3,7 @@
   include 'header.php';
 ?>
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Search Engine Optimization</h1>
@@ -18,7 +18,7 @@
 </section>
 <!--=================================
 About -->
-<section class="about white-bg pt-10 pb-60">
+<section class="about white-bg page-section-ptb">
  <div class="container">
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-6">
@@ -50,7 +50,7 @@ About -->
      </div>
     </div>
     <div class="col-lg-6 col-md-6  col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/h3-image-2.png" alt="">
     </div>
   </div>
  </div>
@@ -118,47 +118,47 @@ About -->
  <section class="awesome-features bg-2 bg-opacity-white-90 white-bg page-section-pt">
    <div class="container">
      <div class="row">
-       <div class="col-lg-4 col-md-3">
+       <div class="col-lg-4 col-md-5 col-sm-12">
           <div class="feature-mob">
-            <div class="mob-scroll"> <span class="feature-mob-scroll" style="background-image: url('images/feature/06.jpg');"></span></div>
+             <span class="feature-mob-scroll" style="background-image: url('images/onpage-seo-2-2.png');background-size: cover;background-position: center center !important; "></span>
           </div>
        </div>
-       <div class="col-lg-8 col-md-8 col-sm-12">
+       <div class="col-lg-8 col-md-7 col-sm-12 center-align">
          
          <h3 class="text-blue"> TAKE YOUR BUSINESS TO THE NEXT LEVEL</h3>
          <div class="row"> 
            <div class="col-lg-6 col-md-6 col-sm-6">
              <div class="feature5 mt-30 mb-30">
-              <span class="icon-screen-desktop" aria-hidden="true"></span>
+              <img src="images/icon/call-center.png" >
               <h4>Technical Optimization</h4>
               <p>Technical SEO fixes the fundamentals of what makes a responsive website in the eyes of the search engines & users. </p>
-              <a href="#">Read More <i class="fa fa-hand-o-right"></i></a>
+              <!-- <a href="#">Read More <i class="fa fa-hand-o-right"></i></a> -->
            </div>
           </div>
           <div class="col-lg-6 col-md-6 col-sm-6">
              <div class="feature5 mt-30 mb-30">
-              <span class="icon-earphones" aria-hidden="true"></span>
+              <img src="images/icon/content.png" >
               <h4>Content Optimization</h4>
               <p>Content SEO better uses existing content & develops new highly engaging and link-worthy text, graphics and data.</p>
-              <a href="#">Read More <i class="fa fa-hand-o-right"></i></a>
+              
            </div>
           </div>
          </div>
          <div class="row"> 
            <div class="col-lg-6 col-md-6 col-sm-6">
              <div class="feature5 mt-30 mb-30">
-              <span class="icon-equalizer" aria-hidden="true"></span>
+              <img src="images/icon/man.png" >
               <h4>Link-Profile Optimization</h4>
               <p>Link-profile optimization is also known as link development, uses best quality content to develop or design high quality links.</p>
-              <a href="#">Read More <i class="fa fa-hand-o-right"></i></a>
+             
            </div>
           </div>
           <div class="col-lg-6 col-md-6 col-sm-6">
              <div class="feature5 mt-30 mb-30">
-              <span class="icon-rocket" aria-hidden="true"></span>
+              <img src="images/icon/analytics.png" >
               <h4>Conversion Optimization</h4>
               <p>Once there is strong traffic, then comes the time to optimize for conversions. After all, we want traffic that converts.</p>
-              <a href="#">Read More <i class="fa fa-hand-o-right"></i></a>
+              
            </div>
           </div>
          </div>
@@ -186,9 +186,9 @@ About -->
     </div>
     <div class="row">
       <div class="col-lg-4 col-md-4 col-sm-4">
-         <div class="my-feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-paper-clip" aria-hidden="true"></span>
+              <img src="images/icon/ranking.png">
              </div>
             <div class="feature-11-info">
               <h4 class="mb-20 pb-20">RANKING IMPORTANCE</h4>
@@ -197,9 +197,9 @@ About -->
          </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-4">
-         <div class="my-feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-rocket" aria-hidden="true"></span>
+              <img src="images/icon/brainstorming.png">
              </div>
             <div class="feature-11-info">
               <h4 class="mb-20 pb-20">EFFECTIVE STRATEGY</h4>
@@ -208,9 +208,9 @@ About -->
          </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-4">
-         <div class="my-feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-picture" aria-hidden="true"></span>
+              <img src="images/icon/visitor.png">
              </div>
             <div class="feature-11-info">
               <h4 class="mb-20 pb-20">BRING VISITORS</h4>

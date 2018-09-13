@@ -3,7 +3,7 @@
   include 'header.php';
 ?>
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Reputation Management</h1>
@@ -33,17 +33,17 @@ about- -->
        <p class="text-justify"> Online reputational service is viewed as essential to secure your business against input. Unfortunate reviews and thumping as for your business will put your business in threat. It ensures that each and every negative criticism as for your association is cut off. </p>
      </div>
     </div>
-    <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+       <img class="img-responsive" src="images/Online-Reputation-Management.png" alt="">
     </div>
   </div>
-  <hr style="height:20px;width:100%;display:block;clear:both;border:0 none;">
-  <div class="row">
+  <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+  <div class="row pt-70">
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/How-Much-A-Bad-Reputation-Costs-A-Company-Infographic-GP.jpg" alt="">
     </div>
 
-    <div class="col-lg-6 col-md-6 col-sm-6">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">Reputation is everything</h1>
        
@@ -52,8 +52,8 @@ about- -->
     </div>
   </div>
 
-  <hr style="height:20px;width:100%;display:block;clear:both;border:0 none;">
-  <div class="row">
+  <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+  <div class="row pt-70">
     <div class="col-lg-6 col-md-6 col-sm-6">
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">Reputation Consultants</h1>
@@ -61,8 +61,8 @@ about- -->
        <p class="text-justify"> In case you have an issue with respect to reputation services, by then our consultants can help in giving the contraptions that can settle your issues from web look instruments. If you are adequately lucky not to have a brand issue, by then we'll familiarize you with reputation watching programming that will keep track you about your picture. </p>
      </div>
     </div>
-    <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+       <img class="img-responsive" src="images/Security-consultant.jpg" alt="">
     </div>
   </div>
 </div>
@@ -75,37 +75,38 @@ key-features -->
      <div class="container"> 
       <div class="row">
         <div class="col-lg-12 col-md-12">
-         <div class="custom-content-2 pb-50 text-center">
-          <h1 class="mb-15 text-blue">Our Process</h1>
-         </div>
+         <div class="section-title-2 text-center">
+          <h1 class="text-blue">OUR PROCESS</h1>
+          <div class="title-line"></div>
+        </div>
         </div>
       </div>
 
       <div class="row">
         <div class="col-lg-3 col-md-3 col-sm-6">
           <div class="feature-10 text-center mb-30">
-            <span aria-hidden="true" class="icon-layers"></span>
+            <img src="images/icon/loupe.png">
             <h4 class="text-back pt-40 pb-10 l-height-31"><b>POWERFUL SEARCH TECHNIQUES </b></h4>
             <p>Examining and trademark any specify of your organization, name or brand. </p>
           </div>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-6">
           <div class="feature-10 text-center mb-30">
-            <span aria-hidden="true" class="icon-picture"></span>
+            <img src="images/icon/garbage.png">
             <h4 class="text-back pt-40 pb-10 l-height-31"><b>REMOVAL OF UNDESIRABLE INFORMATION</b></h4>
             <p>We have discovered the best approach to expel the negative input from the best indexed lists in Google, MSN, and Yahoo.</p>
           </div>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-6">
           <div class="feature-10 text-center mb-30">
-            <span aria-hidden="true" class="icon-heart"></span>
+            <img src="images/icon/sort.png">
             <h4 class="text-back pt-40 pb-10 l-height-31"><b>REPLACEMENT WITH POSITIVE INFORMATION</b></h4>
             <p>We help in actualizing the positive audits featured and tidy up negative ones. </p>
           </div>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-6">
           <div class="feature-10 text-center mb-30">
-            <span aria-hidden="true" class="icon-heart"></span>
+            <img src="images/icon/responsive (3).png">
             <h4 class="text-back pt-40 pb-10 l-height-31"><b>CONTINUOUS MONITORING ACTIVITIES</b></h4>
             <p>We'll keep a watch on what is being said in regards to your organization as new posts will appear whenever.</p>
           </div>
@@ -140,7 +141,7 @@ key-features -->
        </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
-       <img class="img-responsive  mt-20" src="images/device/device-9.png" alt="">
+       <img class="img-responsive" src="images/shutterstock_343843880_rendered.jpg" alt="">
     </div>
   </div>
   <!--<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;margin: 60px 0">

@@ -5,7 +5,7 @@
 
 
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Change Website Host</h1>
@@ -31,7 +31,7 @@ about- -->
   <div class="row">
     
     <div class="col-lg-12 col-md-12">
-       <img class="img-responsive" src="images/bg/11.jpg" alt="">
+       <img class="img-responsive" src="images/hsa1_1200_500.jpg" alt="">
     </div>
 
     <div class="col-lg-12 col-md-12">

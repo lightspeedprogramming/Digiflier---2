@@ -6,7 +6,7 @@
 <!--=================================
  inner-intro-->
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Website Migration</h1>
@@ -33,7 +33,7 @@ about- -->
  <div class="container">
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2 ">
       <h1 class="mb-15 text-blue">Website Migration</h1>
        
        <p class="text-justify"> Google's documentation on location developments doesn't cover them all around and limits the built up truth that subsequently frequently they end in urgent surge hour gridlock and salary hardship, which may last from a short time to various months, depending on the degree PC program situating signs are impacted, further as at any rate long it should take the affected business to uncover a succeeding recovery set up. </p>
@@ -43,8 +43,8 @@ about- -->
        </p>
      </div>
     </div>
-    <div class="col-lg-6 col-md-6  col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6  col-sm-6 sm-device-padding">
+       <img class="img-responsive" src="images/website-migration-tool.png" alt="">
     </div>
   </div>
 
@@ -53,10 +53,10 @@ about- -->
 
   <div class="row">
      <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/improve-speed.png" alt="">
      </div>
 
-    <div class="col-lg-6 col-md-6 col-sm-6">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
      <div class="custom-content-2 pt-70">
       <h1 class="mb-15 text-blue">WEBSITE MIGRATION PROCESS</h1>
        

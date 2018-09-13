@@ -3,7 +3,7 @@
   include 'header.php';
 ?>
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Programming</h1>
@@ -28,8 +28,8 @@ about- -->
  <div class="container">
   <div class="row">
     
-    <div class="col-lg-12 col-md-12">
-       <img class="img-responsive" src="images/bg/11.jpg" alt="">
+    <div class="col-lg-12 col-md-12 text-center">
+       <img class="img-responsive" src="images/coding-marketers.jpg" alt="">
     </div>
 
     <div class="col-lg-12 col-md-12">

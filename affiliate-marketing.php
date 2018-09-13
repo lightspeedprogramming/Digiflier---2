@@ -4,7 +4,7 @@
 ?>
 
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Affiliate Marketing Services</h1>
@@ -28,26 +28,26 @@ about- -->
  <div class="container">
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2">
       <h1 class="mb-15 text-blue">Affiliate Marketing Services</h1>
        
        <p class="text-justify"> It is the system for winning a commission by propelling elective people's thing. You can discover a thing you wish, publicize it to others, and win a bit of the advantage for each arrangement that you basically amass. It could be a monetarily shrewd infers that of mixing set up displaying frameworks with advancement for business improvement. </p>
      </div>
     </div>
-    <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+       <img class="img-responsive" src="images/main-qimg-10fbbe4482b3e45209d815573b85aa80-c.jpg" alt="">
     </div>
   </div>
-  <hr style="height:20px;width:100%;display:block;clear:both;border:0 none;">
+  <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
 
-  <div class="row">
+  <div class="row pt-70">
     
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/Affiliate-marketing.jpg" alt="">
     </div>
 
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2 ">
       <h1 class="mb-15 text-blue">HOW DOES AFFILIATE MARKETING WORK?</h1>
        
        <p class="text-justify"> Affiliate marketing is generally designed out as a referral program that offers commissions people who with advance for a possible purchaser or results in your site. Typically point to as allow publicizing branch web program, it's one among the main cost-profitable and productive suggests that to drive online salary. Relate branch publicizing is on a very basic level a business office salaried supported their execution. Influencing accomplice to relate offering undertaking can enable you to point your thought on different parts of your business. </p>
@@ -55,12 +55,12 @@ about- -->
     </div>
   </div>
 
-  <hr style="height:20px;width:100%;display:block;clear:both;border:0 none;">
+  <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
 
-  <div class="row">
+  <div class="row pt-70">
     
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2 ">
       <h1 class="mb-15 text-blue">WHAT WE DO</h1>
      
 
@@ -81,7 +81,7 @@ about- -->
     </div>
 
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/howwedoit.png" alt="">
     </div>
 
 

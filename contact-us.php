@@ -4,7 +4,7 @@
 ?>
 
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-3-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Contact Us</h1>

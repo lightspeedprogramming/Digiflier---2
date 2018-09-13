@@ -4,7 +4,7 @@
 ?>
 
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Local Business Marketing</h1>
@@ -26,14 +26,14 @@ about- -->
  
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2">
       <h2 class="mb-15 text-blue">Local Business Marketing</h2>
        
        <p class="text-justify"> Local business marketing could be a primary piece of a productive web based offering technology. For the business with various regions or the organization searching for an extensive proportion of nearby customer's then standard approach to manage portable application advancement won't be adequate and truth be told, pitching to a concentrated individually specific obvious course of action of ways. We continually offering stipends associations to help their checking thoroughly have association with their region, increase client commitment and secure higher change rates. </p>
      </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/Local-Business-Marketing.jpg" alt="">
     </div>
   </div> 
 </div>
@@ -57,35 +57,35 @@ about- -->
           <div class="row justify-content-center no-gutters">
               <div class="col-lg-2 col-md-6 col-sm-6 col-12">
                 <div class="feature-10 text-center mb-30">
-                  <span aria-hidden="true" class="icon-layers"></span>
+                  <img src="images/icon/web-optimization.png">
                   <h6 class="text-back pt-20 pb-10"><strong>WEBSITE<br><br>OPTIMIZATION</strong></h6>
                   
                 </div>
               </div>
               <div class="col-lg-2 col-md-6 col-sm-6 col-12">
                 <div class="feature-10 text-center mb-30">
-                  <span aria-hidden="true" class="icon-picture"></span>
+                  <img src="images/icon/contract.png">
                   <h6 class="text-back pt-20 pb-10"><strong>BUSINESS <br><br>LISTINGS</strong></h6>
                   
                 </div>
               </div>
               <div class="col-lg-2 col-md-6 col-sm-6 col-12">
                 <div class="feature-10 text-center mb-30">
-                  <span aria-hidden="true" class="icon-heart text-blue"></span>
+                  <img src="images/icon/smartphone-call.png">
                   <h6 class="text-back pt-20 pb-10"><strong>CITATION<br><br>BUILDING</strong></h6>
                   
                 </div>
               </div>
               <div class="col-lg-2 col-md-6 col-sm-6 col-12">
                 <div class="feature-10 text-center">
-                  <span aria-hidden="true" class="icon-mouse"></span>
+                  <img src="images/icon/review.png">
                   <h6 class="text-back pt-20 pb-10"><strong>REVIEWS & <br><br>RATINGS</strong></h6>
                   
                 </div>
               </div> 
-              <div class="col-lg-2 col-md-6 col-sm-12 col-12">
+              <div class="col-lg-2 col-md-12 col-sm-12 col-12">
                 <div class="feature-10 text-center">
-                  <span aria-hidden="true" class="icon-flag"></span>
+                  <img src="images/icon/pay-per-click (2).png">
                   <h6 class="text-back pt-20 pb-10"><strong>PPC & <br><br>CALL TRACKING</strong></h6>
                   
                 </div>
@@ -114,10 +114,10 @@ about- -->
     </div>
     
   </div>
-
-  <div class="row">
+  <hr style="height:20px;width:100%;display:block;clear:both;border:0 none;">
+  <div class="row pt-50">
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2 ">
       <h3 class="mb-15 text-blue">LOCAL SEARCH ENGINE OPTIMIZATION</h3>
        
        <p class="text-justify">The basic advances we take once driving a client's web advertising procedure are to execute an area SEO fight. We guarantee that a client's website is correct and totally recorded by the superior web look instruments that confirm rankings, which incorporate exhibiting a XML sitemap to stages like Google Webmaster. </p>
@@ -126,19 +126,19 @@ about- -->
      </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/local-seo.jpg" alt="">
     </div>
   </div>
-  <hr style="height:20px;width:100%;display:block;clear:both;border:0 none;">
+  <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
 
-  <div class="row">
+  <div class="row pt-50">
     
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/Were-on-the-map1.png" alt="">
     </div>
 
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2">
       <h3 class="mb-15 text-blue">LOCAL BUSINESS DIRECTORY LISTINGS</h3>
        
        <p class="text-justify">XYZ always makes client postings in contrasted online expert references to help an association's close-by online closeness. Our essential adage is to outline each client's association a huge amount of recognizable and accessible and, paying little mind to the lower in nature of the physical phone catalog, a web proficient reference is correct now the best strategy for achieving each one of those objectives. </p>
@@ -146,19 +146,19 @@ about- -->
     </div>
   </div>
 
-  <hr style="height:20px;width:100%;display:block;clear:both;border:0 none;">
+  <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
 
-  <div class="row">
+  <div class="row pt-70">
     
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2 ">
       <h3 class="mb-15 text-blue">LOCAL PPC</h3>
       <p class="text-justify"> Local Pay per Click is the best way to deal with get plan for your adjacent business and change over them into constant customers. PPC Ads are simply appeared to people the people who are peering inside a compelled area. We let you with high centered on development to your site that results in the advancement of your business. It's feasible, less over the top and offers positive results.</p>
      </div>
     </div>
 
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/shutterstock_444704188.jpg" alt="">
     </div>
 
 

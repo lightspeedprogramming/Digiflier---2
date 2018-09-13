@@ -3,7 +3,7 @@
   include 'header.php';
 ?>
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Online Presence Analysis</h1>
@@ -20,12 +20,12 @@
 <!--=================================
 about- -->
 
-<section class="about white-bg page-section-ptb-less">
+<section class="about white-bg page-section-ptb">
  <div class="container">
  
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2">
       <h2 class="mb-15 text-blue">Online Presence Analysis</h2>
        
        <p class="text-justify"> Online Presence Analysis builds up that how your business is performing over the web. We'll examine your site style, helpfulness, and substance. We'll analyze your optimal catchphrase and zones in association with your rivals concerning your restriction.</p>
@@ -35,8 +35,8 @@ about- -->
        </p>
      </div>
     </div>
-    <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+       <img class="img-responsive" src="images/presence online large.gif" alt="">
     </div>
   </div> 
 </div>
@@ -52,11 +52,11 @@ about- -->
   <div class="row">
     
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/key-factors.jpg" alt="">
     </div>
 
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2 ">
       <h3 class="mb-15 text-blue">KEY PART OF ONLINE MARKETING STRATEGY</h3>
        
        <p class="text-justify">Any business, little or far reaching, ought to have online nearness widening as a bit of their online marketing business. Through a working on the web closeness, you'll increase detectable quality your picture's photo. This allows you to achieve desire on potential guests who still ask concerning your thing and organizations. </p>
@@ -74,10 +74,10 @@ about- -->
   </div>
   <hr style="height:20px;width:100%;display:block;clear:both;border:0 none;">
 
-  <div class="row">
+  <div class="row pt-70">
 
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2">
       <h3 class="mb-15 text-blue">WHAT DOES AN ONLINE PRESENCE ANALYSIS INCLUDE?</h3>
        
        <ul class="who-we-are-about mt-20 mb-20">
@@ -95,21 +95,21 @@ about- -->
      </div>
     </div>
 
-    <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+       <img class="img-responsive" src="images/online-presence-analysis.png" alt="">
     </div>
 
   </div>
 
-  <hr style="height:20px;width:100%;display:block;clear:both;border:0 none;">
+  <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
 
-  <div class="row">
+  <div class="row pt-70">
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/ser-p-l1-300x218.png" alt="">
     </div>
 
-    <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+     <div class="custom-content-2 ">
       <h3 class="mb-15 text-blue">YOUR ONLINE PRESENCE EVALUATION CONSISTS OF</h3>
       
       <ul class="who-we-are-about mt-20 mb-20">

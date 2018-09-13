@@ -258,7 +258,7 @@ Design and Developed by: potenzaglobalsolutions.com
 /*special-feature*/
 .special-feature .feature { margin-bottom: 30px; }
 /*awesome-features*/
-.awesome-features .feature-mob { display: none; }
+/*.awesome-features .feature-mob { display: none; }*/
 /*.about*/
 .about img.right-block { display: none; }
 /*who-we-are-right*/
@@ -710,7 +710,7 @@ a.button.button i { font-size: 16px; padding: 11px; }
 .header-5 .mega-menu .menu-links > li > a { padding: 10px 15px;}
 .about .feature-11 .feature-11-info h4::before { left: 45%; }
 .custom-portfolio .portfolio-text-box { background: #f6f7f9; padding: 60px 25px; }
-.awesome-features { display: none; }
+/*.awesome-features { display: none; }*/
 .contact .feature-8 { margin: 20px 0; }
 .contact .feature-8-info { display: block; text-align: center; }
 .contact-5 h2 { margin-top: 50px; }
@@ -856,8 +856,19 @@ a.button.button i { font-size: 16px; padding: 11px; }
 
 }
 
-@media( max-width:600px) {
-h3 { font-size: 22px; }
+@media( min-width: 768px) {
+.awesome-features .center-align h3 
+	{ 
+		 text-align: center;
+	}
+
+@media( min-width: 1024px) {
+.awesome-features .center-align h3 
+	{ 
+		 text-align: left;
+	}
+
+
 .section-title-2 p { font-size: 16px; }
 .section-title-2 { margin-bottom: 40px; } 
 .search-open input { width: 95%; }
@@ -866,7 +877,7 @@ h3 { font-size: 22px; }
  /*portfolio*/
 .snap-scrolling-example .portfolio .portfolio-item { width: 350px; }
 /*custom content*/
-.about .custom-content-2 h1 { font-size: 24px;  overflow: hidden; }
+/*.about .custom-content-2 h1 { font-size: 24px;  overflow: hidden; }*/
 .about .custom-content-2 strong { font-size: 15px; }
 /*counter*/
 .main-counter .counter-info span.counter { font-size: 40px; }
@@ -977,7 +988,7 @@ h3 { font-size: 22px; }
 .masonry.full-screen .masonry-item { width: 100%; }
 .packetry .item { width: 100%; }
 /*service*/
-.service-3 { margin: 0 auto;  width: 70%; } 
+.service-3 { margin: 0 auto;  width: 100%; } 
 .login-2-social ul li { margin-bottom: 10px; }
 .login-3 .login-with h3 { font-size: 17px; }
 

@@ -3,7 +3,7 @@
   include 'header.php';
 ?>
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Content Marketing Services</h1>
@@ -22,7 +22,7 @@
  <div class="container">
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2">
       
        
        <p class="text-justify"> Content marketing is an essential exhibiting approach focused on making and appropriating huge, and unsurprising substance to pull in and hold a clearly portrayed gathering of spectators and, finally, to drive gainful customer movement.Content publicizing is valuable for your fundamental concern and your customers specifically, there are three key reasons and points of interest for endeavors that usage </p>
@@ -37,21 +37,21 @@
 
      </div>
     </div>
-    <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+       <img class="img-responsive" src="images/Content-Marketing-1.jpg" alt="">
     </div>
   </div>
 
   <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
 
-  <div class="row">
+  <div class="row pt-70">
     
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/content-marketing-1 (1).jpg" alt="">
     </div>
 
-    <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+     <div class="custom-content-2 ">
       <h2 class="mb-15 text-blue">NEED OF CONTENT MARKETING </h2>
        
        <p class="text-justify"> Customers are self-encouraged and can fulfill their trek for answers and allow you to guide them to answers for their business issues. Our social occasions at XYZ are capable in helping affiliations that pick how to make a group of people from visitors to customers. </p>
@@ -60,9 +60,11 @@
 
   </div>
 
-  <div class="row">
+  <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+
+  <div class="row pt-70">
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2 ">
       <h1 class="mb-15 text-blue">What We Offer:</h1>
         
         <p class="text-justify"> XYZ helps our clients in building a reasonable, creative, and functional substance advancing strategy. We give a system directing organization that urges associations to make the basic steps towards a dynamic substance.</p>
@@ -80,7 +82,7 @@
     </div>
 
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/content-marketing-2016.jpg" alt="">
     </div>
   </div>
 
@@ -103,9 +105,9 @@ about- -->
     </div>
     <div class="row">
       <div class="col-lg-3 col-md-3 col-sm-6">
-         <div class="feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-paper-clip" aria-hidden="true"></span>
+              <img src="images/icon/blog.png">
              </div>
             <div class="feature-11-info">
               <h4 class="mb-20 pb-20">CONTENT STRATEGY</h4>
@@ -114,9 +116,9 @@ about- -->
          </div>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-6">
-         <div class="feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-rocket" aria-hidden="true"></span>
+              <img src="images/icon/resume.png">
              </div>
             <div class="feature-11-info">
               <h4 class="mb-20 pb-20">COMPOSING & EDITING </h4>
@@ -125,9 +127,9 @@ about- -->
          </div>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-6">
-         <div class="feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-picture" aria-hidden="true"></span>
+              <img src="images/icon/moving-truck.png">
              </div>
             <div class="feature-11-info">
               <h4 class="mb-20 pb-20">CONTENT DISTRIBUTION</h4>
@@ -136,9 +138,9 @@ about- -->
          </div>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-6 clearfix">
-         <div class="feature-11 text-center">
+         <div class="feature-11-my text-center">
             <div class="feature-11-icon mb-30">
-              <span class="icon-heart" aria-hidden="true"></span>
+              <img src="images/icon/management.png">
              </div>
             <div class="feature-11-info">
               <h4 class="mb-20 pb-20">CONTENT MAINTENANCE</h4>
@@ -257,7 +259,7 @@ about- -->
  <!--=================================
 happy clients -->
  
-<section class="bg-6-my counter-main white-bg page-section-ptb">
+<section class="bg-6-my counter-main  page-section-ptb">
  <div class="container">
   <div class="row">
      <div class="col-lg-3 col-md-3 col-sm-6 text-center">

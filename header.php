@@ -74,7 +74,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  
 <!--=================================
  header -->
- <div class="row" style="height: 26px;">
+ <!-- <div class="row" style="height: 26px;">
    <div class="col-md-12">
      <div class="fixed-top" style="text-align:center;background:#288FEB;width:100%; position:fixed;max-height: 26px;">
           <div class="container">
@@ -82,7 +82,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </div>
       </div>
    </div>
- </div>
+ </div> -->
  <header id="header" class="my-header-6">
   <div class="menu">  
   <!-- menu start -->
@@ -90,6 +90,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- menu list items container -->
     <section class="menu-list-items">
      <div class="container-fluid"> 
+
+      <!-- <div class="row" style="height: 26px;">
+   <div class="col-md-12">
+     <div class="fixed-top" style="text-align:center;background:#288FEB;width:100%; position:fixed;max-height: 26px;margin-left: -5%;">
+          <div class="container">
+          <p style="text-align:center; font-size:18px!important"><a style="color:#fff" href="tel:xxx-xxx-xxxx"><i class="fa fa-phone" style="color:white;"></i> x (xxx) xxx-xxx</a></p>
+          </div>
+      </div>
+   </div>
+ </div>
+       -->
       <div class="row"> 
        <div class="col-lg-12 col-md-12"> 
         <!-- menu logo -->

@@ -6,7 +6,7 @@
 <!--=================================
  inner-intro-->
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Email Marketing Servers</h1>
@@ -33,7 +33,7 @@ about- -->
  <div class="container">
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2">
       <h1 class="mb-15 text-blue">EMAIL MARKETING SERVERS</h1>
        
        <p class="text-justify"> The essential point is that any general free SMTP servers put a extreme point to the amount of recipients that you can manage for each mailing, to keep spammers from using them. An email displaying server is inside and out not the same as the run of the mill dynamic mail servers identified with free email providers i.e. Gmail, Yahoo. As a matter of fact, only a specialist sending administrations like turboSMTP can bolster high volume email marketing servers ensuring the best movement rate for all messages. </p>
@@ -52,8 +52,8 @@ about- -->
 
      </div>
     </div>
-    <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+       <img class="img-responsive" src="images/email_server.jpg" alt="">
     </div>
   </div>
 
@@ -62,11 +62,11 @@ about- -->
 
   <div class="row">
      <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/servers_generic.jpg" alt="">
      </div>
 
-    <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+     <div class="custom-content-2 ">
       <h1 class="mb-15 text-blue">EMAIL SERVER SETTINGS</h1>
        
        <p class="text-justify"> At the point when open your email account settings in your email programming, utilize these settings don't stress, we'll give you particular cases for the greater part of the non-nerds who aren't prepared to design their email account utilizing just the server settings below.</p>

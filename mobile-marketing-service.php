@@ -3,7 +3,7 @@
   include 'header.php';
 ?>
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Mobile Marketing Services</h1>
@@ -19,18 +19,18 @@
 
 <!--=================================
 About -->
-<section class="about white-bg pt-10 pb-10">
+<section class="about white-bg page-section-ptb">
  <div class="container">
   <div class="row">
     <div class="col-lg-6 col-md-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2 ">
       <h1 class="mb-15 text-blue">Mobile Marketing</h1>
        
        <p class="text-justify"> Mobile marketing is the latest advancement that energizes you pulls in a lot of new customers, which pay extra money. We will assist you with dispatching a latest mobile marketing push to associate and pass on.  </p>
      </div>
     </div>
-    <div class="col-lg-6 col-md-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 sm-device-padding">
+       <img class="img-responsive" src="images/mobile-marketing-offers.jpg" alt="">
     </div>
   </div>
  </div>
@@ -59,9 +59,9 @@ About -->
     </div>
     <div class="row">
       <div class="col-lg-4 col-md-6 col-sm-4">
-         <div class="my-feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-paper-clip" aria-hidden="true"></span>
+              <img src="images/icon/web-design.png">
              </div>
             <div class="feature-11-info">
               <h4 class="mb-20 pb-20">MOBILE APP DEVELOPMENT </h4>
@@ -70,9 +70,9 @@ About -->
          </div>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-4">
-         <div class="my-feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-rocket" aria-hidden="true"></span>
+              <img src="images/icon/coding.png">
              </div>
             <div class="feature-11-info">
               <h4 class="mb-20 pb-20">MOBILE WEBSITES SERVICES </h4>
@@ -82,9 +82,9 @@ About -->
       </div>
 
       <div class="col-lg-4 col-md-6 col-sm-4">
-         <div class="my-feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-rocket" aria-hidden="true"></span>
+              <img src="images/icon/email (2).png">
              </div>
             <div class="feature-11-info">
               <h4 class="mb-20 pb-20">SMS MARKETING</h4>
@@ -108,26 +108,26 @@ About -->
 
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-30">
+     <div class="custom-content-2 ">
       <h1 class="mb-15 text-blue">What We Do </h1>
        
        <p class="text-justify"> XZY could be a trusty mobile marketing allow to a couple of the world's driving brands. Our clients discuss our indispensable organizations that extend the workplace of our mobile development, tendency organization, and well off examination arrange. XYZ sends our capacities across finished different channels, for instance, SMS, MMS, QR codes, and email to make best client experiences over the whole lifecycle.  </p>
      </div>
     </div>
-    <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+       <img class="img-responsive" src="images/marketing_mobilny_939x489-939x440.jpg" alt="">
     </div>
   </div>
 
   <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
 
-  <div class="row">
+  <div class="row pt-70">
     
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/mobile-marketing-service.png" alt="">
     </div>
 
-    <div class="col-lg-6 col-md-6 col-sm-6">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
      <div class="custom-content-2 pt-30">
       <h1 class="mb-15 text-blue">OUR MOBILE MARKETING SERVICES</h1>
        

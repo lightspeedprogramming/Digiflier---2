@@ -3,7 +3,7 @@
   include 'header.php';
 ?>
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-2-my">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Conversion Rate Optimization</h1>
@@ -27,24 +27,24 @@ about- -->
  <div class="container">
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2">
       <h1 class="mb-15 text-blue">Conversion Rate Optimization</h1>
        
        <p class="text-justify"> Conversion rate enhancement is that strategy for boosting the quantity of group of people to a website that convert into clients. It is rapidly picking up in quality because of its seen as the best approach to expand benefits from deals while not raising your publicizing spends. CRO is the technique for advancing your supported hunt promotions, presentation pages, and generally web composition to raise your advertising rate. </p>
      </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/infographic-The-Perfect-Execution-to-Conversion-Rate-Optimization.jpg" alt="">
     </div>
   </div>
-  <hr style="height:20px;width:100%;display:block;clear:both;border:0 none;">
-  <div class="row">
+  <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+  <div class="row pt-70">
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/1_CdBElpcnduQ0Sc34PFuGaQ.jpeg" alt="">
     </div>
 
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2 ">
       <h1 class="mb-15 text-blue">WHAT IS A CONVERSION?</h1>
        
        <p class="text-justify"> A conversion is that the particular activity you might want your net guest to require on your site or point of arrival, for example,  </p> 

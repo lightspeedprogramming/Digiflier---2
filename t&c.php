@@ -7,7 +7,7 @@
 <!--=================================
  inner-intro-->
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Terms & Conditions</h1>
@@ -44,7 +44,7 @@
 
       <h4 class="mt-30 text-blue">RESTRICTIONS AND RESPONSIBILITIES</h4>
       <p>This is a contract for Services. You are not given a license to any software by this Agreement. You should not, directly or indirectly: reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code, object code, or underlying structure, ideas, or algorithms of, or found at or through the Services or any software, documentation, or data related to the Services ("Software"); remove any proprietary notices or labels from the Services or any Software, modify, translate, or create derivative works based on the Services or any Software; or copy, distribute, pledge, assign, or otherwise transfer or encumber rights to the Services or any Software.</br>
-                            You will accept and preserve the Email Privacy Policy and the Anti-Spam Policy, which can be changed by Softwares Talk from time to time.</br>
+                            You will accept and preserve the Email Privacy Policy and the Anti-Spam Policy, which can be changed by xyz from time to time.</br>
                             You are not given permission to use any of the Marks in any advertising, publicity or any other commercial manner without the written permission of xyz website.</p>
 
 

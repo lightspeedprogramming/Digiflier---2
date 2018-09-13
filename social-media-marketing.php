@@ -6,7 +6,7 @@
 <!--=================================
  inner-intro-->
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Social Media Marketing</h1>
@@ -33,7 +33,7 @@ about- -->
  <div class="container">
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2 ">
       <h1 class="mb-15 text-blue">Social Media Marketing</h1>
        
        <p class="text-justify"> Social media itself is a catch-all term for districts that may give completely fantastic social exercises. Facebook strikingly is an unmitigated individual to individual correspondence site that thinks about sharing updates, photos, joining events and an arrangement of various activities. </p>
@@ -48,7 +48,7 @@ about- -->
      </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/social-media-1.png" alt="">
     </div>
   </div>
 
@@ -62,8 +62,9 @@ key-features -->
       
       <div class="row">
         <div class="col-lg-12 col-md-12">
-         <div class="custom-content-2 pb-50 text-center">
+         <div class="section-title-2 pb-50 text-center">
           <h1 class="mb-15 text-blue">Our Services</h1>
+          <div class="title-line"></div>
          </div>
         </div>
       </div>
@@ -71,21 +72,22 @@ key-features -->
       <div class="row">
         <div class="col-lg-4 col-md-4 col-sm-4">
           <div class="feature-10 text-center mb-30">
-            <span aria-hidden="true" class="icon-layers"></span>
+            <img src="images/icon/computer.png">
+            <!--<span aria-hidden="true" class="icon-layers"></span>-->
             <h4 class="text-back pt-40 pb-10"><b>SOCIAL MEDIA STRATEGY DEVELOPMENT</b></h4>
             <p>We give an extent of high-regard online social media consultancy benefits through which we help you with concluding accurate results from their online social media works out. </p>
           </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-4">
           <div class="feature-10 text-center mb-30">
-            <span aria-hidden="true" class="icon-picture"></span>
+            <img src="images/icon/advertising.png">
             <h4 class="text-back pt-40 pb-10"><b>SOCIAL MEDIA ADVERTISING MANAGEMENT</b></h4>
             <p>Our social media advertising organizations are exhibited to brighten improvement. By advertising through web-based systems administration, 100% of our clients have gotten awesome results. </p>
           </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-4">
           <div class="feature-10 text-center mb-30">
-            <span aria-hidden="true" class="icon-heart"></span>
+            <img src="images/icon/advertising-1.png">
             <h4 class="text-back pt-40 pb-10"><b>SOCIAL MEDIA CONTENT CREATION</b></h4>
             <p>We give an extent of social media creating and showing organizations on help you direct or by suggestion publicize your commitments through online life. </p>
           </div>
@@ -141,8 +143,8 @@ Work Process  -->
            <div class="feature6 text-center">
             <strong>1</strong> 
             <div class="feature6-item-top">
-               <span class="icon-note" aria-hidden="true"></span>
-               <h3 class="text-blue">STRATEGY</h3>
+               <img src="images/icon/responsive.png">
+               <h3 class="text-blue mt-20">STRATEGY</h3>
               </div>
               <h3 class="mt-30 text-red"><b>DEVELOPMENT</b></h3>
            </div>
@@ -151,8 +153,8 @@ Work Process  -->
            <div class="feature6 text-center">
             <strong>2</strong> 
             <div class="feature6-item-top">
-               <span class="icon-pencil" aria-hidden="true"></span>
-               <h3 class="text-blue">ADVERTISING</h3>
+               <img src="images/icon/megaphone.png">
+               <h3 class="text-blue mt-20">ADVERTISING</h3>
               </div>
               <h3 class="mt-30 text-red"><b>MANAGEMENT</b></h3>
            </div>
@@ -161,8 +163,8 @@ Work Process  -->
            <div class="feature6 text-center">
             <strong>3</strong> 
             <div class="feature6-item-top">
-               <span class="icon-settings" aria-hidden="true"></span>
-               <h3 class="text-blue">COMMUNITY </h3>
+               <img src="images/icon/social-care.png">
+               <h3 class="text-blue mt-20">COMMUNITY </h3>
               </div>
               <h3 class="mt-30 text-red"><b>MANAGEMENT</b></h3>
            </div>
@@ -171,8 +173,8 @@ Work Process  -->
            <div class="feature6 text-center">
             <strong>4</strong> 
             <div class="feature6-item-top">
-               <span class="icon-rocket" aria-hidden="true"></span>
-               <h3 class="text-blue">MEASUREMENT</h3>
+               <img src="images/icon/geometry.png">
+               <h3 class="text-blue mt-20">MEASUREMENT</h3>
               </div>
               <h3 class="mt-30 text-red"><b>REPORTING</b></h3>
            </div>

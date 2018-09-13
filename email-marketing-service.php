@@ -3,7 +3,7 @@
   include 'header.php';
 ?>
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Email Marketing Services</h1>
@@ -19,7 +19,7 @@
 
 <!--=================================
 About -->
-<section class="about white-bg pt-10 pb-10">
+<section class="about white-bg page-section-ptb">
  <div class="container">
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-6">
@@ -29,8 +29,8 @@ About -->
        <p class="text-justify"> It is a technique of promoting online business message to a social event of individuals using email. In its broadest sense, each email sent to a bright client could be considered email advancing. It empowers email to send headways, ask for business and is relied upon to deliver uncompromising quality and trust. </p>
      </div>
     </div>
-    <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+       <img class="img-responsive" src="images/email_content_marketing.jpg" alt="">
     </div>
   </div>
  </div>
@@ -54,9 +54,9 @@ About -->
     </div>
     <div class="row">
       <div class="col-lg-4 col-md-6 col-sm-6">
-         <div class="my-feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-paper-clip" aria-hidden="true"></span>
+              <img src="images/icon/responsive (2).png">
              </div>
             <div class="feature-11-info">
               <h4 class="mb-20 pb-20">Responsive Email Design</h4>
@@ -65,9 +65,9 @@ About -->
          </div>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-6">
-         <div class="my-feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-rocket" aria-hidden="true"></span>
+              <img src="images/icon/copywriting.png">
              </div>
             <div class="feature-11-info">
               <h4 class="mb-20 pb-20">Email Copywriting</h4>
@@ -77,9 +77,9 @@ About -->
       </div>
 
       <div class="col-lg-4 col-md-6 col-sm-6">
-         <div class="my-feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-rocket" aria-hidden="true"></span>
+              <img src="images/icon/calendar.png">
              </div>
             <div class="feature-11-info">
               <h4 class="mb-20 pb-20">Fully Managed Email Marketing</h4>
@@ -88,9 +88,9 @@ About -->
          </div>
       </div>   
       <div class="col-lg-4 col-md-6 col-sm-6">
-         <div class="my-feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-paper-clip" aria-hidden="true"></span>
+              <img src="images/icon/email.png">
              </div>
             <div class="feature-11-info">
               <h4 class="mb-20 pb-20">Automated Email Marketing</h4>
@@ -100,9 +100,9 @@ About -->
       </div>
 
       <div class="col-lg-4 col-md-6 col-sm-6">
-         <div class="my-feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-picture" aria-hidden="true"></span>
+              <img src="images/icon/seo (2).png">
              </div>
             <div class="feature-11-info">
               <h4 class="mb-20 pb-20">Campaign Production & Deployment</h4>
@@ -112,9 +112,9 @@ About -->
       </div>
       
       <div class="col-lg-4 col-md-6 col-sm-6">
-         <div class="my-feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-picture" aria-hidden="true"></span>
+              <img src="images/icon/mailing.png">
              </div>
             <div class="feature-11-info">
               <h4 class="mb-20 pb-20">Email List Cleaning</h4>
@@ -132,7 +132,7 @@ About -->
 
 <!--=======================
   email marketing features -->
-<section class="about white-bg pt-30">
+<section class="about white-bg page-section-ptb">
  <div class="container">
 
   <div class="row">
@@ -146,26 +146,26 @@ About -->
 
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-6">
-     <div class="custom-content-2 pt-30">
+     <div class="custom-content-2 ">
       <h1 class="mb-15 text-blue">Make an Email Newsletter </h1>
        
        <p class="text-justify"> Design your email marketing projects with our natural instruments. We give you the certification that your site will look charming in each inbox of the device. We let you with a ridiculous level of comfort and integrity while building and sending email development. </p>
      </div>
     </div>
-    <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+       <img class="img-responsive" src="images/email_640.jpg" alt="">
     </div>
   </div>
 
   <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
 
-  <div class="row">
+  <div class="row pt-70">
     
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/4-factors-that-will-make-your-email-marketing-campaign-successful.jpg" alt="">
     </div>
 
-    <div class="col-lg-6 col-md-6 col-sm-6">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
      <div class="custom-content-2 pt-30">
       <h1 class="mb-15 text-blue">Send Your Campaign and Ensure Delivery</h1>
        
@@ -174,8 +174,8 @@ About -->
     </div>
 
   </div>
-
-  <div class="row">
+<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+  <div class="row pt-70">
     <div class="col-lg-6 col-md-6 col-sm-6">
      <div class="custom-content-2 pt-30">
       <h1 class="mb-15 text-blue">A/B Split Test</h1>
@@ -184,17 +184,18 @@ About -->
      </div>     
     </div>
 
-    <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+       <img class="img-responsive" src="images/image19.jpg" alt="">
     </div>
   </div>
-
-  <div class="row">
+<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+  <div class="row pt-70">
+  
     <div class="col-lg-6 col-md-6 col-sm-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/blogs-marketing-campaign-monitoring-fb.png" alt="">
     </div>
 
-    <div class="col-lg-6 col-md-6 col-sm-6">
+    <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
      <div class="custom-content-2 pt-30">
       <h1 class="mb-15 text-blue">Track Campaigns Monitor Reports</h1>
         
@@ -203,7 +204,6 @@ About -->
         
      </div>     
     </div>
-  </div>
 
  </div>
 </section>
@@ -346,22 +346,22 @@ counter -->
  <div class="container">
   <div class="row">
      <div class="col-lg-3 col-md-3 col-sm-6 text-center">
-       <span class="icon-cup text-white" aria-hidden="true"></span>
-        <b class="timer" data-to="400" data-speed="10000"></b> 
+       <img src="images/icon/happy.png">
+       <b class="timer" data-to="400" data-speed="10000"></b> 
         <h5 class="text-white">HAPPY CLIENTS</h5>
      </div>
      <div class="col-lg-3 col-md-3 col-sm-6 text-center">
-     <span class="icon-question text-white" aria-hidden="true"></span>
+     <img src="images/icon/startup.png">
         <b class="timer" data-to="6" data-speed="10000"></b>
         <h5 class="text-white">SINCE WE LAUNCHED</h5>
      </div>
      <div class="col-lg-3 col-md-3 col-sm-6 text-center">
-    <span class="icon-check text-white" aria-hidden="true"></span>
+      <img src="images/icon/black-back-closed-envelope-shape.png">
         <b class="timer" data-to="15" data-speed="10000"></b>
         <h5 class="text-white">EMAILS SENT/MONTH</h5>
      </div>
       <div class="col-lg-3 col-md-3 col-sm-6 text-center">
-     <span class="icon-emoticon-smile text-white" aria-hidden="true"></span>
+          <img src="images/icon/website-design-symbol.png">
         <b class="timer" data-to="80" data-speed="10000"></b>
         <h5 class="text-white">DESIGNED TEMPLATES</h5>
      </div>

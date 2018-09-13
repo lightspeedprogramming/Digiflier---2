@@ -6,7 +6,7 @@
 <!--=================================
  inner-intro-->
 
-<section class="inner-intro bg-2 ">
+<section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">E-Commerce Marketing</h1>
@@ -33,7 +33,7 @@ about- -->
  <div class="container">
   <div class="row">
     <div class="col-lg-6 col-md-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2 ">
       <h1 class="mb-15 text-blue">E-Commerce Marketing</h1>
        
        <p class="text-justify"> E-Commerce marketing is the exhibition of controlling on the online customers to an electronic business website and welcoming them to purchase the things or organizations on the web. </p>
@@ -50,8 +50,8 @@ about- -->
 
      </div>
     </div>
-    <div class="col-lg-6 col-md-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 sm-device-padding">
+       <img class="img-responsive" src="images/ecommerce-strategies.jpg" alt="">
     </div>
   </div>
 
@@ -75,13 +75,13 @@ about- -->
 <!-- =========================================== -->
      <div class="row">
       <div class="col-lg-4 col-md-4 col-sm-6">
-         <div class="feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-paper-clip" aria-hidden="true"></span>
+              <img src="images/icon/seo.png">
              </div>
             <div class="feature-11-info">
               <h4 class="pb-20">SEARCH ENGINE OPTIMIZATION</h4>
-              <p>Search Engine Optimization, additionally called SEO, is the most principal parts of online business marketing. It depends upon remarkable assuming that break down the occasions of particular keywords on your website. Since clients explore the Internet through web records like Google, these outcomes acknowledge a wide part in the accomplishment of your website. A decent SEO battle can position your web business site to move to the most lifted reason for the Google rankings.</p>
+              <p>Search Engine Optimization, additionally called SEO, is the most principal parts of online business marketing. It depends upon remarkable assuming that break down the occasions of particular keywords on your website. Since clients explore the Internet through web records like Google, these outcomes acknowledge a wide part in the accomplishment of your website. </p>
 
               <a href="seo.php" class="button small mt-20"><span>Read More</span><i class="fa fa-hand-o-right"></i></a>
 
@@ -89,22 +89,22 @@ about- -->
          </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6">
-         <div class="feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-rocket" aria-hidden="true"></span>
+              <img src="images/icon/pay-per-click.png">
              </div>
             <div class="feature-11-info">
               <h4 class="pb-20">PAY PER CLICK MANAGEMENT</h4>
-              <p>Pay-per-click publicizing works almost to SEO since it depends upon catchphrases. Notwithstanding, be that as it may, site change works regularly (recommending that a displaying firm doesn't need to pay for it), PPC results are the outcomes that appear in yellow boxes on Google. Lifting attempts pay to be tended to by particular watchwords and owe cash each time a client taps on one of these 'reinforced' affiliations. PPC and SEO battles reliably work incredibly well together, by covering a gathering of normal and paid catchphrases. (See moreover Pay-per-Click Marketing)</p>
+              <p>Pay-per-click publicizing works almost to SEO since it depends upon catchphrases. Notwithstanding, be that as it may, site change works regularly (recommending that a displaying firm doesn't need to pay for it), PPC results are the outcomes that appear in yellow boxes on Google. Lifting attempts pay to be tended to by particular watchwords and owe cash each time </p>
 
               <a href="pay-per-click-service.php" class="button small mt-20"><span>Read More</span><i class="fa fa-hand-o-right"></i></a>
             </div>  
          </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-6">
-         <div class="feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-picture" aria-hidden="true"></span>
+               <img src="images/icon/facebook.png">
              </div>
             <div class="feature-11-info">
               <h4 class="pb-20">SOCIAL MEDIA OPTIMIZATION</h4>
@@ -130,7 +130,7 @@ about- -->
  <div class="container">
   <div class="row">
     <div class="col-lg-6 col-md-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2 ">
       <h1 class="mb-15 text-blue">Search engine optimization</h1>
        
        <p class="text-justify"> Search Engine Optimization, additionally called SEO, is the most principal parts of online business marketing. It depends upon remarkable assuming that break down the occasions of particular keywords on your website. Since clients explore the Internet through web records like Google, these outcomes acknowledge a wide part in the accomplishment of your website. A decent SEO battle can position your web business site to move to the most lifted reason for the Google rankings.</p>
@@ -139,8 +139,8 @@ about- -->
      <a href="seo.php" class="button small mt-20"><span>Read More</span><i class="fa fa-hand-o-right"></i></a>
 
     </div>
-    <div class="col-lg-6 col-md-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 sm-device-padding">
+       <img class="img-responsive" src="images/blog_seo_machine_banner-1170x630.jpg" alt="">
     </div>
   </div>
 
@@ -148,13 +148,13 @@ about- -->
 
   <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
 
-  <div class="row">
+  <div class="row pt-70">
      <div class="col-lg-6 col-md-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/Screen-Shot-2017-04-25-at-4.02.17-PM.png" alt="">
      </div>
 
-    <div class="col-lg-6 col-md-6">
-     <div class="custom-content-2 pt-70">
+    <div class="col-lg-6 col-md-6 sm-device-padding">
+     <div class="custom-content-2">
       <h1 class="mb-15 text-blue">Pay-Per-Click Service</h1>
        
        <p class="text-justify"> Pay-per-click publicizing works almost to SEO since it depends upon catchphrases. Notwithstanding, be that as it may, site change works regularly (recommending that a displaying firm doesn't need to pay for it), PPC results are the outcomes that appear in yellow boxes on Google. Lifting attempts pay to be tended to by particular watchwords and owe cash each time a client taps on one of these 'reinforced' affiliations. PPC and SEO battles reliably work incredibly well together, by covering a gathering of normal and paid catchphrases. (See moreover Pay-per-Click Marketing) </p>
@@ -168,9 +168,9 @@ about- -->
 
   <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
 
-  <div class="row">
+  <div class="row pt-70">
     <div class="col-lg-6 col-md-6">
-     <div class="custom-content-2 pt-70">
+     <div class="custom-content-2">
       <h1 class="mb-15 text-blue">Social media marketing</h1>
        
        <p class="text-justify"> Social Media marketing can be essential to online marketing areas. By making an appropriate Facebook business page and potential clients to 'like' your page with tip-top offers and discounts, you won't just augmentation huge verbal progressing through the system, at any rate will set up yourself as a solid, tried and true Internet business. </p>
@@ -179,8 +179,8 @@ about- -->
      <a href="social-media-marketing.php" class="button small mt-20"><span>Read More</span><i class="fa fa-hand-o-right"></i></a>
 
     </div>
-    <div class="col-lg-6 col-md-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+    <div class="col-lg-6 col-md-6 sm-device-padding">
+       <img class="img-responsive" src="images/Social-Media-Marketing.jpg" alt="">
     </div>
   </div>
 
@@ -188,13 +188,13 @@ about- -->
 
   <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
 
-  <div class="row">
+  <div class="row pt-70">
      <div class="col-lg-6 col-md-6">
-       <img class="img-responsive" src="images/bg/14.png" alt="">
+       <img class="img-responsive" src="images/Facebook-Advertising.png" alt="">
      </div>
 
-    <div class="col-lg-6 col-md-6">
-     <div class="custom-content-2 pt-70">
+    <div class="col-lg-6 col-md-6 sm-device-padding">
+     <div class="custom-content-2">
       <h1 class="mb-15 text-blue">Display advertising</h1>
        
        <p class="text-justify"> Display advertising can be terrifying to more modest Internet retailers, at any rate, it has been believed to be to an awesome degree positive. By purchasing minimal flag headways on related web journals, message sheets, and particular goals, you can advertise your business before individuals who wouldn't have felt that it was something one of a kind.</p>
