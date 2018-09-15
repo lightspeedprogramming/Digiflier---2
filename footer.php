@@ -11,7 +11,7 @@
         <ul class="addresss-info"> 
           <li><i class="fa fa-map-marker"></i> <p>xxxxxxxxxxx<p> </li>
           <li><i class="fa fa-phone"></i><a href="tel: +x-xxx-xxx-xxxx">+x-xxx-xxx-xxxx</a></li>
-          <li><i class="fa fa-envelope-o"></i>contact@xyz.com</li>
+          <li><i class="fa fa-envelope"></i>contact@xyz.com</li>
         </ul>
 
       </div>
@@ -69,26 +69,26 @@
   <div class="footer-widget-my-links mt-60">
    <div class="container"> 
     <div class="row">
-      <div class="col-lg-6 col-md-6 col-sm-12">
+      <div class="col-lg-6 col-md-6 col-sm-12 text-center">
         <p class="text-white mt-15"> &copy;Copyright <a href="index.php"> XYZ</a> <span id="copyright"> <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script></span>  All Rights Reserved </p>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12">
         <div class="row">
-          <div class="col-md-4 col-sm-12">
+          <div class="col-md-4 col-sm-4">
             <div class="footer-widget-social-my-links ">
                <ul class=""> 
                   <li><a href="refund.php">Refund Policy</a></li>
                </ul>
             </div>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 col-sm-4">
             <div class="footer-widget-social-my-links">
                <ul class=""> 
                   <li><a href="privacy.php">Privacy Policy</a></li>
                </ul>
             </div>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-4 col-sm-4">
             <div class="footer-widget-social-my-links">
                <ul class=""> 
                   <li><a href="t&c.php">Terms &amp; Conditions</a></li>
@@ -225,7 +225,7 @@
 <!--=================================
  style-customizer --> 
 
-<div id="back-to-top"><a class="top arrow" href="#top"><i class="fa fa-long-arrow-up"></i></a></div>
+<div id="back-to-top"><a class="top arrow" href="#top"><i class="fas fa-arrow-circle-up"></i></a></div>
 
 <!--=================================
  jquery -->

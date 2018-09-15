@@ -41,9 +41,9 @@ about- -->
        <h3 class="mb-15 text-blue">E-Commerce Marketing can join hones like: </h3> 
 
        <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fa fa-check-square-o"></i> Website design change to assist a site with situating higher in typical web search postings  </li>
-                <li><i class="fa fa-check-square-o"></i> Association with better-known districts through referral displaying or advertising</li>
-                <li><i class="fa fa-check-square-o"></i> Maintenance of current clients through email publicizing </li>
+                <li><i class="far fa-check-square"></i> Website design change to assist a site with situating higher in typical web search postings  </li>
+                <li><i class="far fa-check-square"></i> Association with better-known districts through referral displaying or advertising</li>
+                <li><i class="far fa-check-square"></i> Maintenance of current clients through email publicizing </li>
         </ul>
 
         <p class="text-justify"> While there are different similarity between advancing an E-commerce website and online marketing a physical store, E-exchange joins some exceptional difficulties and openings. At online, customers don't feel put resources into a shopping wind the manner by which they would in the event that they'd gotten in their auto to visit an online marketing, since visiting an online business webpage requires no more exertion than a mouse click.  </p>

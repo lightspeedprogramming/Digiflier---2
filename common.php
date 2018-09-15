@@ -26,36 +26,36 @@
                      <div class="owl-carousel-9">
                       <div class="item">
                        <div class="testimonial-avatar">
-                         <img src="images/team/01.jpg" alt="">
+                         <img src="images/Faces.jpg" alt="">
                        </div>  
-                       <div class="testimonial-info clearfix">
+                       <div class="testimonial-info-my clearfix text-center">
                         <p>XYZ allows for fast development, we provide quick response services. This allowed us to add new features and highly recommend technologies and quickly iterate based on customer feedback.</p>
-                        <strong class="mt-20">Emily Bernard</strong>
+                        <strong class="mt-20">Jacob Essen</strong>
                       </div>
                      </div>
                      <div class="item">
                        <div class="testimonial-avatar">
-                         <img src="images/team/02.jpg" alt="">
+                         <img src="images/team-1.jpg" alt="">
                        </div>  
-                       <div class="testimonial-info clearfix">
+                       <div class="testimonial-info-my clearfix text-center">
                         <p>Great work and customer-focused services. We are amazed by the performance of mobile app that XYZ has provided. They took care of the finest little details and delivered high-quality, business-oriented mobile application for our business.</p>
-                        <strong class="mt-20">Harrold Cooper </strong>
+                        <strong class="mt-20">Gim Gordon</strong>
                       </div>
                      </div>
                      <div class="item">
                        <div class="testimonial-avatar">
-                         <img src="images/team/03.jpg" alt="">
+                         <img src="images/team-2.jpg" alt="">
                        </div>  
-                       <div class="testimonial-info clearfix">
+                       <div class="testimonial-info-my clearfix text-center">
                         <p>We designed and developed various mobile app development platforms and quickly response by XYZ as the best mobile application for our needs. With XYZ, we were able to get our apps to market quickly and easily train new developers on the platform as we grow.</p>
-                        <strong class="mt-20">Bella Swan</strong>
+                        <strong class="mt-20">Camilla Cabello</strong>
                       </div>
                      </div>
                      <div class="item">
                        <div class="testimonial-avatar">
-                         <img src="images/team/03.jpg" alt="">
+                         <img src="images/team-3.jpg" alt="">
                        </div>  
-                       <div class="testimonial-info clearfix">
+                       <div class="testimonial-info-my clearfix text-center">
                         <p>We deploy only one code for developing the mobile application of what platform is used for windows, blackberry and Android. With XYZ, we can update and improve our mobile apps easily with a single team. </p>
                         <strong class="mt-20">Monica Gellar</strong>
                       </div>

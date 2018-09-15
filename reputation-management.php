@@ -131,10 +131,10 @@ key-features -->
            <div class="who-we-are-right">
               
               <ul class="who-we-are-about mt-20 mb-20">
-                <li style="color: #fff"><i class="fa fa-check-square-o"></i>Clearing negative web news stories  </li>
-                <li style="color: #fff"><i class="fa fa-check-square-o"></i> Clearing assessments and awesome overviews</li>
-                <li style="color: #fff"><i class="fa fa-check-square-o"></i> Removing Rip-off Reports</li>
-                <li style="color: #fff"><i class="fa fa-check-square-o"></i> Clearing cheat destinations</li>
+                <li style="color: #fff"><i class="far fa-check-square"></i>Clearing negative web news stories  </li>
+                <li style="color: #fff"><i class="far fa-check-square"></i> Clearing assessments and awesome overviews</li>
+                <li style="color: #fff"><i class="far fa-check-square"></i> Removing Rip-off Reports</li>
+                <li style="color: #fff"><i class="far fa-check-square"></i> Clearing cheat destinations</li>
               </ul> 
               
             </div>

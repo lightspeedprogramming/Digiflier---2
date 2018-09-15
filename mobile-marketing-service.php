@@ -132,12 +132,12 @@ About -->
       <h1 class="mb-15 text-blue">OUR MOBILE MARKETING SERVICES</h1>
        
       <ul class="who-we-are-about mt-20 mb-20">
-        <li><i class="fa fa-check-square-o"></i>Mobile Websites</li>
-        <li><i class="fa fa-check-square-o"></i>SMS Marketing</li>
-        <li><i class="fa fa-check-square-o"></i> Mobile Commerce</li>
-        <li><i class="fa fa-check-square-o"></i> 2D Barcodes/QR Codes </li>
-        <li><i class="fa fa-check-square-o"></i> Mobile App Development </li>
-        <li><i class="fa fa-check-square-o"></i> Mobile Marketing show</li>
+        <li><i class="far fa-check-square"></i>Mobile Websites</li>
+        <li><i class="far fa-check-square"></i>SMS Marketing</li>
+        <li><i class="far fa-check-square"></i> Mobile Commerce</li>
+        <li><i class="far fa-check-square"></i> 2D Barcodes/QR Codes </li>
+        <li><i class="far fa-check-square"></i> Mobile App Development </li>
+        <li><i class="far fa-check-square"></i> Mobile Marketing show</li>
       </ul>
 
      </div>     

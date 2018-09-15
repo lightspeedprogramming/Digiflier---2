@@ -5,9 +5,7 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5 Template" />
-<meta name="description" content="The Corps — Multi-Purpose HTML Template" />
-<meta name="author" content="potenzaglobalsolutions.com" />
+
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 <title><?php echo $title; ?></title>
 
@@ -40,6 +38,8 @@
 
 <!-- custom style -->
 <link href="css/custom.css" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
 
 <!-- Google Tag Manager -->
@@ -83,41 +83,41 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
    </div>
  </div> -->
- <header id="header" class="my-header-6">
+ <header id="header" class="header-6">
   <div class="menu">  
   <!-- menu start -->
    <nav id="menu-1" class="mega-menu">
     <!-- menu list items container -->
-    <section class="menu-list-items">
+    <section class="menu-list-items" style="position: fixed;padding-bottom: 10px">
      <div class="container-fluid"> 
 
-      <!-- <div class="row" style="height: 26px;">
-   <div class="col-md-12">
-     <div class="fixed-top" style="text-align:center;background:#288FEB;width:100%; position:fixed;max-height: 26px;margin-left: -5%;">
-          <div class="container">
-          <p style="text-align:center; font-size:18px!important"><a style="color:#fff" href="tel:xxx-xxx-xxxx"><i class="fa fa-phone" style="color:white;"></i> x (xxx) xxx-xxx</a></p>
-          </div>
+      <div class="row" style="height: 26px;">
+         <div class="col-md-12">
+           <div class="fixed-top" style="text-align:center;background:#288FEB;width:100%; position:fixed;max-height: 26px;margin-left: -5%;">
+                <div class="container">
+                <p style="text-align:center; font-size:18px!important"><a style="color:#fff" href="tel:xxx-xxx-xxxx"><i class="fa fa-phone" style="color:white;"></i> x (xxx) xxx-xxx</a></p>
+                </div>
+            </div>
+         </div>
       </div>
-   </div>
- </div>
-       -->
+
       <div class="row"> 
        <div class="col-lg-12 col-md-12"> 
         <!-- menu logo -->
         <ul class="menu-logo" style="padding-top:10px;">
             <li>
-                <a href="home-1-default.html">Xyz Softwares</a>
+                <a href="index.php">Xyz Softwares</a>
             </li>
         </ul>
         <!-- menu links -->
         <ul class="menu-links">
             <!-- active class -->
-            <li class="active"><a href="javascript:void(0)"> Home <i class="fa fa-angle-down fa-indicator"></i></a>
-                <div class="drop-down grid-col-5 offset-4">
+            <li class="active"><a href="index.php"> Home </a>
+                <!-- <div class="drop-down grid-col-5 offset-4"> -->
                 <!--grid row-->
-                 <div class="grid-row">
+                 <!-- <div class="grid-row"> -->
                    <!--grid column 3-->
-                    <div class="grid-col-4">
+                    <!-- <div class="grid-col-4">
                      <ul>
                         <li><a href="price.php">Pricing</a></li>
                         <li><a href="home-1-default.html">Home 1 - Default <span class="label label-danger ml-10">Hot</span></a></li>
@@ -146,16 +146,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </ul>
                     </div>
                    </div>
-                  </div>
+                  </div> -->
               </li>
-            <li><a href="javascript:void(0)">Pages <i class="fa fa-angle-down fa-indicator"></i></a>
+              <li><a href="about-us.php">About</a>
+
+            <li><a href="javascript:void(0)">Services <i class="fa fa-angle-down fa-indicator"></i></a>
                 <!-- drop down full width -->
                 <div class="drop-down menu-bg grid-col-12">
                     <!--grid row-->
-                    <div class="grid-row">
+                    <div class="row">
                         <!--grid column 3-->
-                        <div class="grid-col-3">
-                            <ul>
+                        <div class="col-md-2 col-12">
+                            <!-- <ul>
                               <li><a href="about-1.html">About 1</a></li>
                               <li><a href="about.php">About 2</a></li>
                               <li><a href="about-3.html">About 3</a></li>
@@ -165,25 +167,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               <li><a href="service-3.html">service 3 </a></li>
                               <li><a href="team-1.html">team 1 </a></li>
                               <li><a href="team-2.html">team 2 </a></li>
-                            </ul>
+                            </ul> -->
+
+                            <div class="row">
+                              <div class="col-md-12 text-center">
+                                <a href="local-business-marketing.php">
+                                  <img src="images/menu-image.png" alt="local-business" style="text-align: center">
+                                </a>
+                              </div>
+                            </div>
+                            <h5>Local Business<br> Marketing</h5>
+                            <a href="local-business-marketing.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
+
                         </div>
                         <!--grid column 3-->
-                        <div class="grid-col-3">
-                            <ul>
-                              <li><a href="team-single.html">team single </a></li>
-                              <li><a href="contact-1.html">contact 1 </a></li>
-                              <li><a href="contact-2.html">contact 2 </a></li>
-                              <li><a href="contact-3.html">contact 3 </a></li>
-                              <li><a href="faqs-1.html">faqs 1 </a></li>
-                              <li><a href="faqs-2.html">faqs 2 </a></li>
-                              <li><a href="our-clients-1.html">our clients 1 </a></li>
-                              <li><a href="our-clients-2.html">our clients 2 </a></li>
-                              <li><a href="careers.html">careers </a></li>
-                            </ul>
+                        <div class="col-md-2 col-12">
+                            <a href="affiliate-marketing.php">
+                              <img src="images/service4.png" alt="affiliate-marketing">
+                            </a>
+                            <h5>Affiliate Marketing Services</h5>
+                            <a href="affiliate-marketing.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
                         </div>
                         <!--grid column 3-->
-                        <div class="grid-col-3">
-                            <ul>
+                        <div class="col-md-2 col-sm-6 col-12">
+                            <!-- <ul>
                               <li><a href="maintenance-1.html">maintenance 1 </a></li>
                               <li><a href="maintenance-2.html">maintenance 2 </a></li>
                               <li><a href="login-1.html">login 1 </a></li>
@@ -193,11 +200,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               <li><a href="error-404-1.html">error 404 1 </a></li>
                               <li><a href="error-404-2.html">error 404 2 </a></li>
                               <li><a href="coming-soon-1.html">coming soon 1 </a></li>
-                            </ul>
+                            </ul> -->
+                            <div class="service-content">
+                              <a href="online-presence.php">
+                                  <img src="images/website-design-audit.png" alt="local-business">
+                              </a>
+                              <h5>Online Presence Analysis</h5>
+                              <a href="online-presence.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
+                            </div>
                         </div>
                         <!--grid column 3-->
-                        <div class="grid-col-3">
-                            <ul>
+                        <div class="col-md-2 col-sm-6 col-12">
+                            <!-- <ul>
                               <li><a href="coming-soon-2.html">coming soon 2 </a></li>
                               <li><a href="page-left-sidebar.html">page left sidebar </a></li>
                               <li><a href="page-right-sidebar.html">page right sidebar </a></li>
@@ -205,195 +219,157 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               <li><a href="sitemap.html">sitemap </a></li>
                               <li><a href="terms-and-conditions.html">terms and conditions </a></li>
                               <li><a href="privacy-policy.html">privacy policy </a></li>
-                            </ul>
+                            </ul> -->
+
+                            <a href="mobile-marketing-service.php">
+                              <img src="images/Mobile-Marketing-icon.png" alt="local-business" style="text-align: center;">
+                            </a>
+                            <h5>Mobile Marketing Services</h5>
+                            <a href="mobile-marketing-service.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
                         </div>
-                        
+
+                        <div class="col-md-2 col-sm-6 col-12">
+                            <!-- <ul>
+                              <li><a href="about-1.html">About 1</a></li>
+                              <li><a href="about.php">About 2</a></li>
+                              <li><a href="about-3.html">About 3</a></li>
+                              <li><a href="about-me.html">About me</a></li>
+                              <li><a href="service-1.html">service 1 </a></li>
+                              <li><a href="service-2.html">service 2 </a></li>
+                              <li><a href="service-3.html">service 3 </a></li>
+                              <li><a href="team-1.html">team 1 </a></li>
+                              <li><a href="team-2.html">team 2 </a></li>
+                            </ul> -->
+
+                            <a href="seo.php">
+                              <img src="images/icon/seo-tag (1).png" alt="local-business">
+                            </a>
+                            <h5>Search Engine Optimization</h5>
+                            <a href="seo.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
+
+                        </div>
+                        <!--grid column 3-->
+                        <div class="col-md-2 col-sm-6 col-12">
+                            <a href="e-commerce-marketing.php">
+                              <img src="images/877331_online_512x512.png" alt="local-business">
+                            </a>
+                            <h5>E-Commerce Marketing</h5>
+                            <a href="e-commerce-marketing.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
+                        </div>
+                        <!--grid column 3-->
+                        <div class="col-md-2 col-sm-6 col-12">
+                            <!-- <ul>
+                              <li><a href="maintenance-1.html">maintenance 1 </a></li>
+                              <li><a href="maintenance-2.html">maintenance 2 </a></li>
+                              <li><a href="login-1.html">login 1 </a></li>
+                              <li><a href="login-2.html">login 2 </a></li>
+                              <li><a href="register-1.html">register 1 </a></li>
+                              <li><a href="register-2.html">register 2 </a></li>
+                              <li><a href="error-404-1.html">error 404 1 </a></li>
+                              <li><a href="error-404-2.html">error 404 2 </a></li>
+                              <li><a href="coming-soon-1.html">coming soon 1 </a></li>
+                            </ul> -->
+                            <a href="pay-per-click-service.php">
+                              <img src="images/pay-per-click.png" alt="local-business">
+                            </a>
+                            <h5>Pay Per Click <br>Service</h5>
+                            <a href="pay-per-click-service.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
+                        </div>   
+
+                        <div class="col-md-2 col-sm-6 col-12">
+                            <!-- <ul>
+                              <li><a href="about-1.html">About 1</a></li>
+                              <li><a href="about.php">About 2</a></li>
+                              <li><a href="about-3.html">About 3</a></li>
+                              <li><a href="about-me.html">About me</a></li>
+                              <li><a href="service-1.html">service 1 </a></li>
+                              <li><a href="service-2.html">service 2 </a></li>
+                              <li><a href="service-3.html">service 3 </a></li>
+                              <li><a href="team-1.html">team 1 </a></li>
+                              <li><a href="team-2.html">team 2 </a></li>
+                            </ul> -->
+
+                            <a href="conversion-rate-optimization.php">
+                              <img src="images/Conversion-Rate-Optimization-2.png" alt="local-business">
+                            </a>
+                            <h5>Conversion Rate Optimization</h5>
+                            <a href="conversion-rate-optimization.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
+
+                        </div>
+                        <!--grid column 3-->
+                        <div class="col-md-2 col-sm-6 col-12">
+                            <a href="content-marketing-service.php">
+                              <img src="images/icon-03-1.png" alt="local-business">
+                            </a>
+                            <h5>Content Marketing Service</h5>
+                            <a href="content-marketing-service.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
+                        </div>
+                        <!--grid column 3-->
+                        <div class="col-md-2 col-sm-6 col-12">
+                            <!-- <ul>
+                              <li><a href="maintenance-1.html">maintenance 1 </a></li>
+                              <li><a href="maintenance-2.html">maintenance 2 </a></li>
+                              <li><a href="login-1.html">login 1 </a></li>
+                              <li><a href="login-2.html">login 2 </a></li>
+                              <li><a href="register-1.html">register 1 </a></li>
+                              <li><a href="register-2.html">register 2 </a></li>
+                              <li><a href="error-404-1.html">error 404 1 </a></li>
+                              <li><a href="error-404-2.html">error 404 2 </a></li>
+                              <li><a href="coming-soon-1.html">coming soon 1 </a></li>
+                            </ul> -->
+                            <a href="reputation-management.php">
+                              <img src="images/online-reputation.png" alt="local-business">
+                            </a>
+                            <h5>Reputation Management</h5>
+                            <a href="reputation-management.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
+                        </div>
+                        <!--grid column 3-->
+                        <div class="col-md-2 col-sm-6 col-12">
+                            <!-- <ul>
+                              <li><a href="coming-soon-2.html">coming soon 2 </a></li>
+                              <li><a href="page-left-sidebar.html">page left sidebar </a></li>
+                              <li><a href="page-right-sidebar.html">page right sidebar </a></li>
+                              <li><a href="page-two-sidebar.html">page two sidebar </a></li>
+                              <li><a href="sitemap.html">sitemap </a></li>
+                              <li><a href="terms-and-conditions.html">terms and conditions </a></li>
+                              <li><a href="privacy-policy.html">privacy policy </a></li>
+                            </ul> -->
+
+                            <a href="email-marketing-service.php">
+                              <img src="images/email.png" alt="local-business">
+                            </a>
+                            <h5>Email Marketing Service</h5>
+                            <a href="email-marketing-service.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
+                        </div>
+
+                        <div class="col-md-2 col-sm-6 col-12">
+                            <!-- <ul>
+                              <li><a href="about-1.html">About 1</a></li>
+                              <li><a href="about.php">About 2</a></li>
+                              <li><a href="about-3.html">About 3</a></li>
+                              <li><a href="about-me.html">About me</a></li>
+                              <li><a href="service-1.html">service 1 </a></li>
+                              <li><a href="service-2.html">service 2 </a></li>
+                              <li><a href="service-3.html">service 3 </a></li>
+                              <li><a href="team-1.html">team 1 </a></li>
+                              <li><a href="team-2.html">team 2 </a></li>
+                            </ul> -->
+
+                            <a href="social-media-marketing.php">
+                              <img src="images/social-media.png" alt="local-business">
+                            </a>
+                            <h5>Social Media Marketing</h5>
+                            <a href="social-media-marketing.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
+
+                        </div>
+
                     </div>
                 </div>
             </li>
-            <li><a href="price.php">Price <i class="fa fa-angle-down fa-indicator"></i></a>
-                <!-- drop down multilevel  -->
-                <ul class="drop-down-multilevel">
-                    <li><a href="javascript:void(0)">blog classic <i class="fa fa-angle-right fa-indicator"></i> </a>
-
-                        <!-- drop down second level -->
-                        <ul class="drop-down-multilevel">
-                           <li><a href="blog-classic-left-sidebar.html">left sidebar</a></li>
-                           <li><a href="blog-classic-right-sidebar.html">right sidebar</a></li>
-                           <li><a href="blog-classic-fullwidth.html">fullwidth</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="javascript:void(0)">grid <i class="fa fa-angle-right fa-indicator"></i> </a>
-                        <!-- drop down second level -->
-                        <ul class="drop-down-multilevel">
-                            <li><a href="blog-grid-2-column.html"> 2 column </a> </li>
-                            <li><a href="blog-grid-3-column.html"> 3 column </a> </li>
-                            <li><a href="blog-grid-2-column-left-sidebar.html">left sidebar</a></li>
-                            <li><a href="blog-grid-2-column-right-sidebar.html">right sidebar</a></li>
-                        </ul> 
-                    </li>
-                    <li><a href="javascript:void(0)">Masonry  <i class="fa fa-angle-right fa-indicator"></i> </a>
-                      <!-- drop down second level -->
-                        <ul class="drop-down-multilevel">
-                            <li><a href="blog-masonry-2-columns.html"> 2 column </a> </li>
-                            <li><a href="blog-masonry-3-columns.html"> 3 column </a> </li>
-                            <li><a href="blog-masonry-2-columns-left-sidebar.html">left sidebar</a></li>
-                           <li><a href="blog-masonry-2-columns-right-sidebar.html">right sidebar</a></li>
-                        </ul> 
-                    </li>
-                    <li><a href="#">timeline  <i class="fa fa-angle-right fa-indicator"></i></a>
-                        <!-- drop down second level -->
-                        <ul class="drop-down-multilevel">
-                          <li><a href="blog-timeline.html">fullwidth</a></li>
-                          <li><a href="blog-timeline-left-sidebar.html">left sidebar</a></li>
-                          <li><a href="blog-timeline-right-sidebar.html">right sidebar</a></li>
-                        </ul> 
-                    </li>
-                    <li><a href="#">single post  <i class="fa fa-angle-right fa-indicator"></i></a>
-                        <!-- drop down second level -->
-                        <ul class="drop-down-multilevel">
-                            <li><a href="blog-single-image-post.html"> blog image post </a> </li>
-                            <li><a href="blog-single-video-post.html"> blog video post </a> </li>
-                            <li><a href="blog-single-youtube-post.html"> blog youtube post </a> </li>
-                            <li><a href="blog-single-vimeo-post.html"> blog vimeo post </a> </li>
-                            <li><a href="blog-single-audio-post.html"> blog audio post  </a> </li>
-                        </ul> 
-                    </li>
-                </ul>
-            </li>
-            <li><a href="javascript:void(0)">Portfolio<i class="fa fa-angle-down fa-indicator"></i></a>
-                <!-- drop down multilevel  -->
-                <ul class="drop-down-multilevel left-side">
-                    
-                    <li><a href="#">portfolio classic <i class="fa fa-angle-left fa-indicator"></i></a>
-                      <!-- drop down second level -->
-                        <ul class="drop-down-multilevel left-side">
-                            <li><a href="javascript:void(0)"> 1 column  <i class="fa fa-angle-left fa-indicator"></i></a>
-                                <!-- drop down third level -->
-                                <ul class="drop-down-multilevel left-side">
-                                    <li><a href="portfolio-classic-1-column-default.html">default</a></li>
-                                    <li><a href="portfolio-classic-1-columns-left-sidebar.html">left sidebar</a></li>
-                                    <li><a href="portfolio-classic-1-columns-right-sidebar.html">right sidebar</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="javascript:void(0)"> 2 column  <i class="fa fa-angle-left fa-indicator"></i></a>
-                                <!-- drop down third level -->
-                                <ul class="drop-down-multilevel left-side">
-                                    <li><a href="portfolio-classic-2-columns-left-sidebar.html">left sidebar</a></li>
-                                    <li><a href="portfolio-classic-2-columns-right-sidebar.html">right sidebar</a></li>
-                                    <li><a href="portfolio-classic-2-columns-fullwidth.html">fullwidth</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="javascript:void(0)"> 3 column  <i class="fa fa-angle-left fa-indicator"></i></a>
-                                <!-- drop down third level -->
-                                <ul class="drop-down-multilevel left-side">
-                                    <li><a href="portfolio-classic-3-columns-left-sidebar.html">left sidebar</a></li>
-                                    <li><a href="portfolio-classic-3-columns-right-sidebar.html">right sidebar</a></li>
-                                    <li><a href="portfolio-classic-3-columns-fullwidth.html">fullwidth</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="javascript:void(0)"> 4 column <i class="fa fa-angle-left fa-indicator"></i></a>
-                                <!-- drop down third level -->
-                                <ul class="drop-down-multilevel left-side">
-                                    <li><a href="portfolio-classic-4-columns-left-sidebar.html">left sidebar</a></li>
-                                    <li><a href="portfolio-classic-4-columns-right-sidebar.html">right sidebar</a></li>
-                                    <li><a href="portfolio-classic-4-columns-fullwidth.html">fullwidth</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li><a href="javascript:void(0)">portfolio Masonry <i class="fa fa-angle-left fa-indicator"></i></a>
-                      <!-- drop down second level -->
-                        <ul class="drop-down-multilevel left-side">
-                            <li><a href="portfolio-masonry-2-columns.html"> 2 column </a> </li>
-                            <li><a href="portfolio-masonry-3-columns.html"> 3 column </a> </li>
-                            <li><a href="portfolio-masonry-4-columns.html"> 4 column </a> </li>
-                            <li><a href="portfolio-masonry-full-screen.html"> full screen </a> </li>
-                        </ul> 
-                    </li>
-                    <li><a href="#">portfolio grid <i class="fa fa-angle-left fa-indicator"></i></a>
-                      <ul class="drop-down-multilevel left-side">
-                            <li><a href="javascript:void(0)"> grid <i class="fa fa-angle-left fa-indicator"></i></a>  
-                               <!-- drop down third level -->
-                                <ul class="drop-down-multilevel left-side">
-                                    <li><a href="portfolio-grid-2-columns.html">2 column</a></li>
-                                    <li><a href="portfolio-grid-3-columns.html">3 column</a></li>
-                                    <li><a href="portfolio-grid-4-columns.html">4 column</a></li>
-                                </ul>
-                              </li>
-                            <li><a href="javascript:void(0)"> grid full screen <i class="fa fa-angle-left fa-indicator"></i></a> 
-                               <!-- drop down third level -->
-                                <ul class="drop-down-multilevel left-side">
-                                    <li><a href="portfolio-grid-full-screen-2-columns.html">2 column</a></li>
-                                    <li><a href="portfolio-grid-full-screen-3-columns.html">3 column</a></li>
-                                    <li><a href="portfolio-grid-full-screen-4-columns.html">4 column</a></li>
-                                    <li><a href="portfolio-grid-full-screen-5-columns.html">5 column</a></li>
-                                </ul>
-                            </li>
-                       </ul>
-                    </li>
-                    <li><a href="#">portfolio Packery <i class="fa fa-angle-left fa-indicator"></i></a>
-                      <!-- drop down second level -->
-                        <ul class="drop-down-multilevel left-side">
-                            <li><a href="portfolio-packetry.html"> packetry fullwidth </a> </li>
-                            <li><a href="portfolio-packetry-fullwidth.html"> full screen </a> </li>
-                         </ul>
-                    </li>
-                    <li><a href="#">portfolio single <i class="fa fa-angle-left fa-indicator"></i></a>
-                      <!-- drop down second level -->
-                        <ul class="drop-down-multilevel left-side">
-                            <li><a href="portfolio-single-1.html"> single 01 </a> </li>
-                            <li><a href="portfolio-single-2.html"> single 02 </a> </li>
-                         </ul>
-                    </li>
-                </ul>
-            </li>
-            <li><a href="javascript:void(0)"> Shortcodes <i class="fa fa-angle-down fa-indicator"></i></a>
-              <!-- drop down full width -->
-                <div class="drop-down grid-col-12">
-                    <!--grid row-->
-                    <div class="grid-row">
-                        <!--grid column 3-->
-                        <div class="grid-col-3">
-                            <ul>
-                              <li><a href="elements-accordions.html"><i class="fa fa-list-ul"></i> accordions </a></li>
-                              <li><a href="elements-action-box.html"><i class="fa fa-rocket"></i> action box</a></li>
-                              <li><a href="elements-alerts-and-callouts.html"><i class="fa fa-info-circle"></i> alerts and callouts</a></li>
-                              <li><a href="elements-buttons.html"><i class="fa fa-external-link"></i> buttons</a></li>
-                              <li><a href="elements-carousel-slider.html"><i class="fa fa-exchange"></i> carousel slider</a></li>
-                            </ul>
-                        </div>
-                        <!--grid column 3-->
-                        <div class="grid-col-3">
-                            <ul>
-                              <li><a href="elements-columns.html"><i class="fa fa-th"></i> columns</a></li>
-                              <li><a href="elements-content-box.html"><i class="fa fa-file-text-o"></i> content box</a></li>
-                              <li><a href="elements-counter.html"><i class="fa fa-sort-numeric-asc"></i> counter</a></li>
-                              <li><a href="elements-data-table.html"><i class="fa fa-table"></i> data table</a></li>
-                              <li><a href="elements-lists-style.html"><i class="fa fa-th-list"></i> lists style</a></li>
-                            </ul>
-                        </div>
-                        <!--grid column 3-->
-                        <div class="grid-col-3">
-                            <ul>
-                              <li><a href="elements-post-style.html"> <i class="fa fa-photo"></i> post style</a></li>
-                              <li><a href="elements-pricing-tables.html"><i class="fa fa-money"></i> pricing tables</a></li>
-                              <li><a href="elements-skills.html"><i class="fa fa-tasks"></i> skills</a></li>
-                              <li><a href="elements-social-icon.html"><i class="fa fa-share-alt"></i> social icon</a></li>
-                              <li><a href="elements-social-widget-gallery.html"><i class="fa fa-bullhorn"></i> social widget gallery</a></li>
-                            </ul>
-                        </div>
-                        <!--grid column 3-->
-                        <div class="grid-col-3">
-                            <ul>
-                              <li><a href="elements-tabs.html"><i class="fa fa-star"></i> tabs</a></li>
-                              <li><a href="elements-team.html"><i class="fa fa-users"></i> team</a></li>
-                              <li><a href="elements-typography.html"><i class="fa fa-italic"></i> typography</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div> 
-            </li>
+            <li>
+              <a href="price.php">Pricing </a> </li>
+            <li><a href="contact-us.php">Contact</a></li>
+           
            
            
             <!--<li><a class="login" href="#"> Login</a>

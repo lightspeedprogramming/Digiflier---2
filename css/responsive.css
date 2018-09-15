@@ -246,7 +246,7 @@ Design and Developed by: potenzaglobalsolutions.com
 .mega-menu .menu-links { margin-top: 10px; }
 .mega-menu .menu-logo > li > a { padding: 0; }
 .mega-menu > section.menu-list-items { padding: 10px 0; }
-.mega-menu img { height: 40px; margin: 5px 0; }
+.mega-menu img { height: 130px; margin: 5px 0; }
 .mega-menu .menu-links > li.active .drop-down-multilevel a:hover { color: #323232; }
 .mega-menu .drop-down-multilevel li:hover > a i.fa { color: #323232; }
 .mega-menu .drop-down-multilevel a {  display: block; }
@@ -796,7 +796,7 @@ a.button.button i { font-size: 16px; padding: 11px; }
 /*service*/
 .like-what img { display: none; }
 .like-what-my img { display: block; }
-.service-3 { margin: 0 auto;  width: 60%; } 
+.service-3 { margin: 0 auto;  width: 100%; } 
 .service-3 img { margin: 20px 0;}
 .service-3 .features13 { padding-top: 0px; }
 .features13.left b { top: 43px; }
@@ -1189,8 +1189,15 @@ a.button.button i { font-size: 16px; padding: 11px; }
 
 }   
 
-@media (max-width: 1240px) { .boxed-layout .page-wrapper { width: inherit; } .boxed-layout.page-wrapper { width: inherit; } }
-@media (max-width: 1199px) { .boxed-layout .page-wrapper .mega-menu.desktopTopFixed .menu-list-items { width: 100%; padding: 0px; } }
+@media (max-width: 1240px) { 
+	.boxed-layout .page-wrapper { width: inherit; } 
+	.boxed-layout.page-wrapper { width: inherit; } 
+}
+@media (max-width: 1199px) { 
+	.boxed-layout .page-wrapper 
+	.mega-menu.desktopTopFixed
+	.menu-list-items { width: 100%; padding: 0px; } 
+}
 @media (max-width: 992px) { .boxed-layout .page-wrapper .mega-menu.desktopTopFixed .menu-list-items { width: 100%; } }
 @media (max-width: 1199px) { .boxed-layout.page-wrapper .mega-menu.desktopTopFixed .menu-list-items { width: 100%; } }
 @media (max-width: 992px) { .boxed-layout.page-wrapper .mega-menu.desktopTopFixed .menu-list-items { width: 100%; } }

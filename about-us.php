@@ -60,25 +60,17 @@ slider -->
     <div class="row">
        
       <div class="col-lg-6 col-md-6 col-sm-6">
-         <div class="who-we-are-left">
-          <div class="owl-carousel-2">
-          <div class="item"><img src="images/about/03.jpg" alt="">
+         <div class="item"><img src="images/about/04.jpg" alt="">
           </div>
-          <div class="item"><img src="images/about/04.jpg" alt="">
-          </div>
-          <div class="item"><img src="images/about/05.jpg" alt="">
-          </div>
-         </div>
-        </div>
       </div>
 
       <div class="col-lg-6 col-md-6 col-sm-6">
         <div class="who-we-are-right">
           
               <div class="row">
-                 <div class="col-lg-12 col-md-12">
+                 <div class="col-lg-12 col-md-12 sm-device-padding">
                     <div class="feature-4">
-                      <span class="icon-pencil" aria-hidden="true"></span>
+                      <img src="images/icon/target.png">
                         <h4>OUR VISION</h4>
                         <p class="mt-20">To interface people and organizations from around the globe into a network that would work just right along regardless of area and staff. We tend to furnish our customers with the devices they need to advertise development and structure of their business in a changing financial environment. </p>
                         
@@ -88,7 +80,7 @@ slider -->
               <div class="row">
                  <div class="col-lg-12 col-md-12">
                     <div class="feature-4">
-                        <span class="icon-game-controller" aria-hidden="true"></span>
+                        <img src="images/icon/win (1).png">
                         <h4>OUR MISSION</h4>
                         <p class="mt-20">Easiness, it's our coordinating light and the key regard we swing to while framing all that we do. We assume that the best courses of action are frequently the slightest complex - and we've made it our primary objective to give fundamental ways to deal with you to all the more probable interface with your supporters. </p>
                         
@@ -98,7 +90,7 @@ slider -->
               <div class="row">
                  <div class="col-lg-12 col-md-12">
                     <div class="feature-4">
-                        <span class="icon-rocket" aria-hidden="true"></span>
+                        <img src="images/icon/enterprise (2).png">
                         <h4>OUR TEAM</h4>
                         <p class="mt-20">Our drive has the vision to have any sort of impact by interfacing ideal people at an ideal time in the most attracting way. We acknowledge with this approach an incredible arrangement can be refined and developed for humankind in alternate points of view. </p>
                         
@@ -135,9 +127,9 @@ slider -->
 <!-- =========================================== -->
      <div class="row">
       <div class="col-lg-3 col-md-3 col-sm-6">
-         <div class="feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-paper-clip" aria-hidden="true"></span>
+              <img src="images/icon/research.png">
              </div>
             <div class="feature-11-info">
               <h4 class="pb-20">Keyword Research</h4>
@@ -146,9 +138,9 @@ slider -->
          </div>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-6">
-         <div class="feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-rocket" aria-hidden="true"></span>
+              <img src="images/icon/web-optimization.png">
              </div>
             <div class="feature-11-info">
               <h4 class="pb-20">Onsite Optimization</h4>
@@ -157,9 +149,9 @@ slider -->
          </div>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-6">
-         <div class="feature-11 text-center clearfix">
+         <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
-              <span class="icon-picture" aria-hidden="true"></span>
+              <img src="images/icon/link.png">
              </div>
             <div class="feature-11-info">
               <h4 class="pb-20">Link Building</h4>
@@ -168,9 +160,9 @@ slider -->
          </div>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-6 clearfix">
-         <div class="feature-11 text-center">
+         <div class="feature-11-my text-center">
             <div class="feature-11-icon mb-30">
-              <span class="icon-heart" aria-hidden="true"></span>
+              <img src="images/icon/report.png">
              </div>
             <div class="feature-11-info">
               <h4 class="pb-20">Reporting Analysis</h4>
@@ -200,29 +192,21 @@ slider -->
          <div class="row">
           
           <div class="col-lg-6 col-md-6 col-sm-6">
-             <div class="who-we-are-left">
-              <div class="owl-carousel-2">
-              <div class="item"><img src="images/about/03.jpg" alt="">
+             <div class="item"><img src="images/about/03.jpg" alt="">
               </div>
-              <div class="item"><img src="images/about/04.jpg" alt="">
-              </div>
-              <div class="item"><img src="images/about/05.jpg" alt="">
-              </div>
-             </div>
-            </div>
           </div>
 
-          <div class="col-lg-6 col-md-6 col-sm-6">
-            <div class="who-we-are-right">
+          <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
+            <div class="who-we-are-right" style="margin-left: 20px">
               <h3 class="text-blue mb-20">WHAT MAKES US UNIQUE</h3>
               <p>We also give social media services and in addition we offer a broad assortment of organizations, for instance, mobile application development including web application, PPC, website audits, online application, and online internet marketing also. </p>
 
               
 
               <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fa fa-check-square-o"></i> We absolutely take after Google site administrator rules. </li>
-                <li><i class="fa fa-check-square-o"></i> 50% of our clients come through referrals. </li>
-                <li><i class="fa fa-check-square-o"></i> Xyz is an IT association offering complete mobile or web application development services.</li>
+                <li><i class="fas fa-check"></i> We absolutely take after Google site administrator rules. </li>
+                <li><i class="fas fa-check"></i> 50% of our clients come through referrals. </li>
+                <li><i class="fas fa-check"></i> Xyz is an IT association offering complete mobile or web application development services.</li>
               </ul> 
             </div>
           </div>

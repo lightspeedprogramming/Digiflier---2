@@ -67,12 +67,12 @@ about- -->
        <div class="who-we-are-right">
               
               <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fa fa-check-square-o"></i>Help select the right part organizes that meet your goals </li>
-                <li><i class="fa fa-check-square-o"></i> Set up the accomplice program on the picked frameworks </li>
-                <li><i class="fa fa-check-square-o"></i> Promote your part program and study the auxiliary application and data trade new accomplices </li>
-                <li><i class="fa fa-check-square-o"></i> Monthly, week after week relate correspondence  </li>
-                <li><i class="fa fa-check-square-o"></i> Set up data manages for partners</li>
-                <li><i class="fa fa-check-square-o"></i> Periodic expounds on the execution of the partner advancing channel.</li>
+                <li><i class="far fa-check-square"></i>Help select the right part organizes that meet your goals </li>
+                <li><i class="far fa-check-square"></i> Set up the accomplice program on the picked frameworks </li>
+                <li><i class="far fa-check-square"></i> Promote your part program and study the auxiliary application and data trade new accomplices </li>
+                <li><i class="far fa-check-square"></i> Monthly, week after week relate correspondence  </li>
+                <li><i class="far fa-check-square"></i> Set up data manages for partners</li>
+                <li><i class="far fa-check-square"></i> Periodic expounds on the execution of the partner advancing channel.</li>
               </ul> 
               
             </div>

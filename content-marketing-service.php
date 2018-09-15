@@ -30,9 +30,9 @@
        <h3 class="text-justify text-blue">Content Marketing </h3>
         
         <ul class="who-we-are-about mt-20 mb-20">
-            <li><i class="fa fa-check-square-o"></i>Increased deals  </li>
-            <li><i class="fa fa-check-square-o"></i>Cost investment reserves </li>
-            <li><i class="fa fa-check-square-o"></i>Better customers who have greater unwavering quality </li>
+            <li><i class="far fa-check-square"></i><i class="far fa-check-square"></i>Increased deals  </li>
+            <li><i class="far fa-check-square"></i><i class="far fa-check-square"></i>Cost investment reserves </li>
+            <li><i class="far fa-check-square"></i><i class="far fa-check-square"></i>Better customers who have greater unwavering quality </li>
         </ul>
 
      </div>
@@ -72,10 +72,10 @@
         <h4 class="text-justify text-blue"><b>Following are the marketing programs:</b> </h4>
 
         <ul class="who-we-are-about mt-20 mb-20">
-           <li><i class="fa fa-check-square-o"></i> Content advertising method progression in perspective<br> of your business condition </li>
-           <li><i class="fa fa-check-square-o"></i> Content circumstance and flow release PR  </li>
-           <li><i class="fa fa-check-square-o"></i> Content marketing execution examination and estimation </li>
-           <li><i class="fa fa-check-square-o"></i> Content marketing development and tools proposals</li>
+           <li><i class="far fa-check-square"></i> Content advertising method progression in perspective<br> of your business condition </li>
+           <li><i class="far fa-check-square"></i> Content circumstance and flow release PR  </li>
+           <li><i class="far fa-check-square"></i> Content marketing execution examination and estimation </li>
+           <li><i class="far fa-check-square"></i> Content marketing development and tools proposals</li>
            
         </ul>
      </div>    

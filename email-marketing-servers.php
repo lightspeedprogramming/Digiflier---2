@@ -11,7 +11,7 @@
      <div class="row text-center intro-title">
             <h1 class="text-blue">Email Marketing Servers</h1>
             
-            <ul class="page-breadcrumb">
+            <ul class="page-breadcrumb"><i class="far fa-check-square"></i>
               <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
               
               <li><span>Email Marketing Servers</span> </li>
@@ -73,10 +73,10 @@ about- -->
       
 
        <ul class="who-we-are-about mt-20 mb-20">
-          <li><i class="fa fa-check-square-o"></i> Email User Name:  Your full email address</li>
-          <li><i class="fa fa-check-square-o"></i>Password:  your email password </li>
-          <li><i class="fa fa-check-square-o"></i> Incoming Mail POP</li>
-          <li><i class="fa fa-check-square-o"></i>Outgoing Mail SMTP</li>
+          <li><i class="far fa-check-square"></i> Email User Name:  Your full email address</li>
+          <li><i class="far fa-check-square"></i>Password:  your email password </li>
+          <li><i class="far fa-check-square"></i> Incoming Mail POP</li>
+          <li><i class="far fa-check-square"></i>Outgoing Mail SMTP</li>
         </ul> 
 
         <P class="text-justify">

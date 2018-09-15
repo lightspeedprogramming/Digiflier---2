@@ -102,11 +102,11 @@ about- -->
        <h3 class="mb-15 text-blue">Dependable, secure email benefit is a basic in the present business interchanges. </h3>
 
        <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fa fa-check-square-o"></i> Safe, secure email </li>
-                <li><i class="fa fa-check-square-o"></i>Remove Spam and Viruses </li>
-                <li><i class="fa fa-check-square-o"></i> Access Email From Any Browser</li>
-                <li><i class="fa fa-check-square-o"></i>Branded Emails</li>
-                <li><i class="fa fa-check-square-o"></i>Direct Marketing Emails</li>
+                <li><i class="far fa-check-square"></i> Safe, secure email </li>
+                <li><i class="far fa-check-square"></i>Remove Spam and Viruses </li>
+                <li><i class="far fa-check-square"></i> Access Email From Any Browser</li>
+                <li><i class="far fa-check-square"></i>Branded Emails</li>
+                <li><i class="far fa-check-square"></i>Direct Marketing Emails</li>
         </ul> 
 
      </div>

@@ -70,10 +70,10 @@ about- -->
               <h3 class="text-blue mb-20">Hosting options available are:</h3>
               
               <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fa fa-check-square-o"></i> Website Developers</li>
-                <li><i class="fa fa-check-square-o"></i> Shared Hosting </li>
-                <li><i class="fa fa-check-square-o"></i> Dedicated Hosting</li>
-                <li><i class="fa fa-check-square-o"></i> Arranged Hosting </li>
+                <li><i class="far fa-check-square"></i> Website Developers</li>
+                <li><i class="far fa-check-square"></i> Shared Hosting </li>
+                <li><i class="far fa-check-square"></i> Dedicated Hosting</li>
+                <li><i class="far fa-check-square"></i> Arranged Hosting </li>
               </ul> 
               
         </div>

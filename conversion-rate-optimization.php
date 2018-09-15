@@ -52,12 +52,12 @@ about- -->
        <div class="who-we-are-right">
               
               <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fa fa-check-square-o"></i> Purchasing</li>
-                <li><i class="fa fa-check-square-o"></i> Registration </li>
-                <li><i class="fa fa-check-square-o"></i> Refer a companion </li>
-                <li><i class="fa fa-check-square-o"></i> A catch or connection click  </li>
-                <li><i class="fa fa-check-square-o"></i> Downloading brochure</li>
-                <li><i class="fa fa-check-square-o"></i> Reaching a specific page</li>
+                <li><i class="far fa-check-square"></i> Purchasing</li>
+                <li><i class="far fa-check-square"></i> Registration </li>
+                <li><i class="far fa-check-square"></i> Refer a companion </li>
+                <li><i class="far fa-check-square"></i> A catch or connection click  </li>
+                <li><i class="far fa-check-square"></i> Downloading brochure</li>
+                <li><i class="far fa-check-square"></i> Reaching a specific page</li>
               </ul> 
               
         </div>

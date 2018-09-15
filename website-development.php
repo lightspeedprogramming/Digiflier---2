@@ -47,12 +47,12 @@ about- -->
        <div class="who-we-are-right">
           <h3 class="text-blue mb-20">We Provide Services: </h3>
             <ul class="who-we-are-about mt-20 mb-20">
-              <li><i class="fa fa-check-square-o"></i> Web Application Development</li>
-              <li><i class="fa fa-check-square-o"></i> PHP Development </li>
-              <li><i class="fa fa-check-square-o"></i> Custom Application Development.</li>
-              <li><i class="fa fa-check-square-o"></i> Mobile Development</li>
-              <li><i class="fa fa-check-square-o"></i> Open Sources, for example, Joomla, WordPress, and Drupal  </li>
-              <li><i class="fa fa-check-square-o"></i> E-Commerce Web Development and Shopping cart arrangement.</li>
+              <li><i class="far fa-check-square"></i> Web Application Development</li>
+              <li><i class="far fa-check-square"></i> PHP Development </li>
+              <li><i class="far fa-check-square"></i> Custom Application Development.</li>
+              <li><i class="far fa-check-square"></i> Mobile Development</li>
+              <li><i class="far fa-check-square"></i> Open Sources, for example, Joomla, WordPress, and Drupal  </li>
+              <li><i class="far fa-check-square"></i> E-Commerce Web Development and Shopping cart arrangement.</li>
             </ul> 
         </div>
      </div>

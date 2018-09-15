@@ -1,4 +1,4 @@
-<?php
+<i class="far fa-check-square"></i><?php
   $title = 'Website Migration || Xyz';
   include 'header.php';
 ?>
@@ -69,13 +69,13 @@ about- -->
               <h3 class="text-blue mb-20">WHY CHOOSE US?</h3>
               
               <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fa fa-check-square-o"></i> Make without question you have every crucial datum  </li>
-                <li><i class="fa fa-check-square-o"></i> Request set up of the encouraging record </li>
-                <li><i class="fa fa-check-square-o"></i> Simulate DNS </li>
-                <li><i class="fa fa-check-square-o"></i> Copy the site content</li>
-                <li><i class="fa fa-check-square-o"></i> Check the site on the passing space </li>
-                <li><i class="fa fa-check-square-o"></i> Configure or make email organizations </li>
-                <li><i class="fa fa-check-square-o"></i> Change or remove DNS records. </li>
+                <li><i class="far fa-check-square"></i> Make without question you have every crucial datum  </li>
+                <li><i class="far fa-check-square"></i> Request set up of the encouraging record </li>
+                <li><i class="far fa-check-square"></i> Simulate DNS </li>
+                <li><i class="far fa-check-square"></i> Copy the site content</li>
+                <li><i class="far fa-check-square"></i> Check the site on the passing space </li>
+                <li><i class="far fa-check-square"></i> Configure or make email organizations </li>
+                <li><i class="far fa-check-square"></i> Change or remove DNS records. </li>
               </ul> 
               
         </div>

@@ -81,14 +81,14 @@ about- -->
       <h3 class="mb-15 text-blue">WHAT DOES AN ONLINE PRESENCE ANALYSIS INCLUDE?</h3>
        
        <ul class="who-we-are-about mt-20 mb-20">
-        <li><i class="fa fa-check-square-o"></i> On-page and Off-page investigation </li>
-        <li><i class="fa fa-check-square-o"></i> Competition examination </li>
-        <li><i class="fa fa-check-square-o"></i> Content revealing </li>
-        <li><i class="fa fa-check-square-o"></i> Social Media nearness  </li>
-        <li><i class="fa fa-check-square-o"></i> Design and usefulness of your site </li>
-        <li><i class="fa fa-check-square-o"></i> Competitor investigation </li>
-        <li><i class="fa fa-check-square-o"></i> Web-movement investigation and expanding activity</li>
-        <li><i class="fa fa-check-square-o"></i> Ideas to acquire business</li>
+        <li><i class="far fa-check-square"></i> On-page and Off-page investigation </li>
+        <li><i class="far fa-check-square"></i> Competition examination </li>
+        <li><i class="far fa-check-square"></i> Content revealing </li>
+        <li><i class="far fa-check-square"></i> Social Media nearness  </li>
+        <li><i class="far fa-check-square"></i> Design and usefulness of your site </li>
+        <li><i class="far fa-check-square"></i> Competitor investigation </li>
+        <li><i class="far fa-check-square"></i> Web-movement investigation and expanding activity</li>
+        <li><i class="far fa-check-square"></i> Ideas to acquire business</li>
 
         </ul>
 
@@ -113,10 +113,10 @@ about- -->
       <h3 class="mb-15 text-blue">YOUR ONLINE PRESENCE EVALUATION CONSISTS OF</h3>
       
       <ul class="who-we-are-about mt-20 mb-20">
-        <li><i class="fa fa-check-square-o"></i> A video review of our restrictive </li>
-        <li><i class="fa fa-check-square-o"></i> A point by point once-over of our revelations, proposals, and resources </li>
-        <li><i class="fa fa-check-square-o"></i> A 40-minute phone meeting</li>
-        <li><i class="fa fa-check-square-o"></i> Free email follow-up to ensure results</li>
+        <li><i class="far fa-check-square"></i> A video review of our restrictive </li>
+        <li><i class="far fa-check-square"></i> A point by point once-over of our revelations, proposals, and resources </li>
+        <li><i class="far fa-check-square"></i> A 40-minute phone meeting</li>
+        <li><i class="far fa-check-square"></i> Free email follow-up to ensure results</li>
       </ul> 
 
      </div>

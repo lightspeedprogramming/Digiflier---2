@@ -42,9 +42,9 @@ about- -->
               <h5 class="text-blue mb-20"><b>XYZ offers portable application planning with rich highlights like: </b></h5>
               
               <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fa fa-check-square-o"></i> Attractive designs for applications  </li>
-                <li><i class="fa fa-check-square-o"></i> Attractive effect on application users </li>
-                <li><i class="fa fa-check-square-o"></i> Innovative UI integrity</li>
+                <li><i class="far fa-check-square"></i> Attractive designs for applications  </li>
+                <li><i class="far fa-check-square"></i> Attractive effect on application users </li>
+                <li><i class="far fa-check-square"></i> Innovative UI integrity</li>
               </ul> 
               
         </div>
@@ -71,13 +71,13 @@ about- -->
               <h3 class="text-blue mb-20">WHY CHOOSE US?</h3>
               
               <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fa fa-check-square-o"></i>Effective diligent work with proficient mastery</li>
-                <li><i class="fa fa-check-square-o"></i> Involvement in mobile UI designing for in excess of many applications </li>
-                <li><i class="fa fa-check-square-o"></i> Android understanding to seek designing process </li>
-                <li><i class="fa fa-check-square-o"></i>Topic and symbol outline different details </li>
-                <li><i class="fa fa-check-square-o"></i> Imaginative outlines.</li>
-                <li><i class="fa fa-check-square-o"></i> Perfect with all Smartphone, and tablets. </li>
-                <li><i class="fa fa-check-square-o"></i> Minimum cost with best quality work ensured.</li>
+                <li><i class="far fa-check-square"></i>Effective diligent work with proficient mastery</li>
+                <li><i class="far fa-check-square"></i> Involvement in mobile UI designing for in excess of many applications </li>
+                <li><i class="far fa-check-square"></i> Android understanding to seek designing process </li>
+                <li><i class="far fa-check-square"></i>Topic and symbol outline different details </li>
+                <li><i class="far fa-check-square"></i> Imaginative outlines.</li>
+                <li><i class="far fa-check-square"></i> Perfect with all Smartphone, and tablets. </li>
+                <li><i class="far fa-check-square"></i> Minimum cost with best quality work ensured.</li>
               </ul> 
               
             </div>

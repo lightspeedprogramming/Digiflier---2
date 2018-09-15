@@ -60,11 +60,11 @@ about- -->
       <h1 class="mb-15 text-blue">We provide following services</h1>
        
        <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fa fa-check-square-o"></i> Android App Development Services</li>
-                <li><i class="fa fa-check-square-o"></i>iPhone App Development Services</li>
-                <li><i class="fa fa-check-square-o"></i> Windows App Development Services</li>
-                <li><i class="fa fa-check-square-o"></i>Ionic App Development Services</li>
-                <li><i class="fa fa-check-square-o"></i>Hybrid App Development services</li>
+                <li><i class="far fa-check-square"></i> Android App Development Services</li>
+                <li><i class="far fa-check-square"></i>iPhone App Development Services</li>
+                <li><i class="far fa-check-square"></i> Windows App Development Services</li>
+                <li><i class="far fa-check-square"></i>Ionic App Development Services</li>
+                <li><i class="far fa-check-square"></i>Hybrid App Development services</li>
         </ul> 
 
      </div>
@@ -84,12 +84,12 @@ about- -->
               <h1 class="text-blue mb-20">WHY DO YOU CHOOSE US?</h1>
               
               <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fa fa-check-square-o"></i>Experienced members of organizations</li>
-                <li><i class="fa fa-check-square-o"></i> Complete learning of platform and mobile innovations. </li>
-                <li><i class="fa fa-check-square-o"></i> Best-quality application development process.</li>
-                <li><i class="fa fa-check-square-o"></i> Time-bound distribution and profitable services.</li>
-                <li><i class="fa fa-check-square-o"></i> Reputed and Recognized for growing best mobile applications.</li>
-                <li><i class="fa fa-check-square-o"></i> Provide dynamic services to the different platform.</li>
+                <li><i class="far fa-check-square"></i>Experienced members of organizations</li>
+                <li><i class="far fa-check-square"></i> Complete learning of platform and mobile innovations. </li>
+                <li><i class="far fa-check-square"></i> Best-quality application development process.</li>
+                <li><i class="far fa-check-square"></i> Time-bound distribution and profitable services.</li>
+                <li><i class="far fa-check-square"></i> Reputed and Recognized for growing best mobile applications.</li>
+                <li><i class="far fa-check-square"></i> Provide dynamic services to the different platform.</li>
               </ul> 
               
             </div>

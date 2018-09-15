@@ -1,4 +1,4 @@
-<?php
+<i class="far fa-check-square"></i><?php
   $title = 'Domain Registration || Xyz';
   include 'header.php';
 ?>
@@ -98,10 +98,10 @@ about- -->
               <h3 class="text-blue mb-20">You will have to submit the subsequent data to the registrar:</h3>
               
               <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fa fa-check-square-o"></i> The desired name</li>
-                <li><i class="fa fa-check-square-o"></i> The name and phone data including email address, physical address and phone number for the domain's someone.</li>
-                <li><i class="fa fa-check-square-o"></i> The desired domain registration term</li>
-                <li><i class="fa fa-check-square-o"></i> Payment data</li>
+                <li><i class="far fa-check-square"></i> The desired name</li>
+                <li><i class="far fa-check-square"></i> The name and phone data including email address, physical address and phone number for the domain's someone.</li>
+                <li><i class="far fa-check-square"></i> The desired domain registration term</li>
+                <li><i class="far fa-check-square"></i> Payment data</li>
               </ul> 
               
             </div>
