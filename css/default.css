@@ -194,6 +194,7 @@ input:focus { background: transparent; border:2px solid #00a9da; }
 textarea  { resize: vertical; background: #eceff8; border:2px solid #eceff8; padding: 10px; width: 100%; transition:all 0.5s ease-in-out; transition:all 0.5s ease-in-out; -moz-transition:all 0.5s ease-in-out; -ms-transition:all 0.5s ease-in-out; -o-transition:all 0.5s ease-in-out; -webkit-transition:all 0.5s ease-in-out; font-size: 14px; }
 textarea:focus { background: transparent; border:2px solid #00a9da; outline: none !important; }
 .form-control { background-color: transparent; border:1px solid #2f2f2f; border-radius: 0px; color: #fff; box-shadow: none; }
+.form-control-my { background-color: transparent; border:1px solid #17a2b8; border-radius: 4px; color: #323232; box-shadow: none; }
 .input-group-addon { background-color: transparent; border-color: #2f2f2f; border-radius: 0px; border-right: 0px; }
 .input-group-addon i { color: #00a9da; }
 .form-control:focus { box-shadow: none; border-color: #2f2f2f;}
@@ -213,7 +214,7 @@ textarea:focus { background: transparent; border:2px solid #00a9da; outline: non
 span.label { padding: 0.1em .5em .1em; text-transform: uppercase; }
 input:-webkit-autofill { -webkit-box-shadow: 0 0 0 1000px white inset !important; }
 .contact-3-info input:-webkit-autofill { -webkit-box-shadow: 0 0 0 1000px black inset !important; color: inherit !important }
-.contact-5 input:-webkit-autofill { -webkit-box-shadow: 0 0 0 1000px black inset !important; color: inherit !important }
+.contact-5 input:-webkit-autofill { -webkit-box-shadow: 0 0 0 1000px #fff inset !important; color: inherit !important }
 .mfp-wrap { z-index: 99999; }
 .mfp-bg { z-index: 99999; }
 .header-6 { background:rgba(255,255,255,0); }

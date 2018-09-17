@@ -52,32 +52,33 @@
          </div>
        </div>-->
 
-       <div class="col-lg-6 col-md-6 mt-70">
+       <div class="col-lg-5 col-md-5 mt-70">
 
-           <div class="contact-box mb-20 text-left clearfix text-center">
-              <!--<i class="fa fa-map-marker"></i>-->
+           <!-- <div class="contact-box-my text-left clearfix text-center">
               <div class="info ">
+                <i class="fa fa-map-marker"></i>
                 <h4><strong>Address</strong></h4>
                 <p>xxxxxxxxxxxxxxxxx </p>
               </div>
            </div>
-             <div class="contact-box mb-20 text-left clearfix text-center">
-              <!--<i class="fa fa-phone"></i>-->
-              <div class="info mt-55">
+             <div class="contact-box-my mb-20 text-left clearfix text-center">
+                <div class="info mt-30">
+                <i class="fa fa-phone"></i>
                 <h4><strong>Phone</strong></h4>
                 <p><a href="tel: +x-xxx-xxx-xxxx" style="color: #323232;">+x-xxx-xxx-xxxx</a></p>
               </div>
-           </div>
-           <div class="contact-box mb-20 text-left clearfix text-center">
+           </div> -->
+           <div class="contact-box-my text-left clearfix text-center">
               <!--<i class="fa fa-envelope-o"></i>-->
-              <div class="info mt-55">
+              <div class="info">
+                <i class="fa fa-envelope"></i>
                 <h4><strong>Email</strong></h4>
                 <p class="text-black">contact@xyz.com</p>
               </div>
            </div>
        </div>
        
-       <div class="col-lg-6 col-md-6 mt-70">
+       <div class="col-lg-7 col-md-7 mt-70">
                    
                    <!-- <div class="row">
                      <div class="col-lg-12 col-md-12">
@@ -113,7 +114,7 @@
                  </form> -->
 
                  <form id="contactform-my" role="form" method="post" action="mailsend.php">
-                  <div class="form-row contact-5">
+                  <!-- <div class="form-row contact-5">
                     <div class="form-group col-md-6 col-sm-6 contact-form">
                       
                       <input type="text" class="form-control" id="name" placeholder="Name *">
@@ -139,8 +140,29 @@
                     <div class="col-md-12 text-center">
                       <button id="submit" name="submit" type="submit" value="Send" class="button mt-15"><span> Send your message </span> <i class="fa fa-paper-plane"></i></button>
                     </div>
-                  </div>
+                  </div> -->
                   
+                  <div class="row">
+                    <div class="col-md-6 form-group">
+                      <input type="text" name="name" class="form-control form-control-my" placeholder="Name *">
+                    </div>
+                    <div class="col-md-6 form-group">
+                      <input type="text" name="number" class="form-control-my form-control" placeholder="Phone *">
+                    </div>
+
+                    <div class="col-md-12 form-group">
+                      <input type="email" name="email" class="form-control-my form-control" placeholder="Email *">
+                    </div>
+                    <div class="col-md-12 form-group">
+                      <textarea name="address" class="form-control-my form-control" placeholder="Address *" rows="7"></textarea>
+                    </div>
+                    <div class="col-md-12 form-group">
+                      <textarea name="message" class="form-control-my form-control" placeholder="Message *" rows="7"></textarea>
+                    </div>
+                    <div class="col-md-12 text-center">
+                      <button id="submit" name="submit" type="submit" value="Send" class="button mt-15"><span> Send your message </span> <i class="fa fa-paper-plane"></i></button>
+                    </div>
+                  </div>
                   
                 </form>
 

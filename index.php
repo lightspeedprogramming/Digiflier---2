@@ -8,7 +8,7 @@
 <!--=================================
  awesome-features  -->
 
- <section class="awesome-features bg-banner white-bg page-section-pt">
+ <section class="awesome-features bg-opacity-black-70 bg-banner white-bg page-section-pt">
    <div class="container" style="">
      <div class="row">
        

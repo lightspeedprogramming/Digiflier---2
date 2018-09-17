@@ -252,7 +252,7 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 
 .awesome-features .title h1 {
     /*font-size: px;*/
-    color: #323232;
+    color: #00a9da;
     margin: 10px 0px 10px;
     font-weight: 600;
     line-height: 50px;
@@ -1861,7 +1861,8 @@ input.feature-toggle:checked ~ .feature-annotations span:nth-child(5) { -webkit-
 /*************************************
     		Let’s Get in Touch
 **************************************/
-.contact-box i { background: #eceff7; width: 80px; height: 80px; text-align: center; line-height: 80px; border-radius: 5px; font-size: 34px; color: #00a9da;/* margin-bottom: 20px;*/ }
+.contact-box i { background: #eceff7; width: 80px; height: 80px; text-align: center; line-height: 80px; border-radius: 5px; font-size: 34px; color: #00a9da;margin-bottom: 20px; }
+.contact-box-my .info i {  width: 80px; height: 80px; text-align: center; line-height: 80px; border-radius: 5px; font-size: 34px; color: #00a9da; }
 /*contact form*/
 .contact-form .section-field { position: relative; width: 31.3%; margin-right: 3%; float: left; }
 .contact-form .section-field { position: relative; width: 31.3%; margin-right: 3%; float: left; }
@@ -1920,8 +1921,8 @@ input.feature-toggle:checked ~ .feature-annotations span:nth-child(5) { -webkit-
 .contact-5-my .contact-form i { z-index: 99; }
 .contact-5-my .contact-form input { background: #EEC; border:none; color: #323232; }
 .contact-5-my .contact-form textarea { background: #EEC; border:none; color: #323232; display: block; }
-.contact-5 .contact-form input:focus { background: #EEC; box-shadow: none; border:none;  }
-.contact-5 .contact-form textarea:focus { background: #EEC; box-shadow: none; border:0px solid; }
+.contact-5-my .contact-form input:focus { background: #EEC; box-shadow: none; border:none;  }
+.contact-5-my .contact-form textarea:focus { background: #EEC; box-shadow: none; border:0px solid; }
 /*************************************
     		social
 **************************************/
