@@ -11,7 +11,7 @@
         <ul class="addresss-info"> 
           <li><i class="fa fa-map-marker"></i> <p>xxxxxxxxxxx<p> </li>
           <li><i class="fa fa-phone"></i><a href="tel: +x-xxx-xxx-xxxx">+x-xxx-xxx-xxxx</a></li>
-          <li><i class="fa fa-envelope"></i>contact@xyz.com</li>
+          <li><i class="fa fa-envelope"></i><a href="mailto: contact@xyz.com">contact@xyz.com</a></li>
         </ul>
 
       </div>

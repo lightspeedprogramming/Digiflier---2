@@ -14,7 +14,7 @@
             
             <ul class="page-breadcrumb">
               <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
-              <li><a href="#">pages</a> <i class="fa fa-angle-double-right"></i></li>
+              <!-- <li><a href="#">pages</a> <i class="fa fa-angle-double-right"></i></li> -->
               <li><span>Refund Policy</span> </li>
            </ul>
      </div>

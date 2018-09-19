@@ -15,7 +15,7 @@
        <div class="col-lg-12 col-md-12 col-sm-12 text-center">
          
           <div class="title">
-            <h1 class="text-blue" style="font-weight: "> WE CREATE MOBILE APPS THAT ARE VISUALLY STUNNING</h1>
+            <h1 class="text-blue"> WE CREATE MOBILE APPS THAT ARE VISUALLY STUNNING</h1>
 
             <p>
               Our Mobile Application Development process begin with fluid customers journey in my mind
@@ -326,7 +326,7 @@
      <div class="section-title-2 text-center">
         <h1 class="text-blue">Our Simple Process</h1>
         <div class="title-line"></div>
-        <p>Al contrario del pensamiento popular, el texto de Lorem Ipsum</p>
+        <!-- <p>Al contrario del pensamiento popular, el texto de Lorem Ipsum</p> -->
        </div>
      </div>
      <div class="row">

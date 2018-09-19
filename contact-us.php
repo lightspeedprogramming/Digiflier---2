@@ -4,7 +4,7 @@
 ?>
 
 
-<section class="inner-intro bg-3-my ">
+<section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
             <h1 class="text-blue">Contact Us</h1>
@@ -73,7 +73,7 @@
               <div class="info">
                 <i class="fa fa-envelope"></i>
                 <h4><strong>Email</strong></h4>
-                <p class="text-black">contact@xyz.com</p>
+                <p class="text-black"><a href="mailto: contact@xyz.com" style="color: #323232;font-size: 20px">contact@xyz.com</a></p>
               </div>
            </div>
        </div>
