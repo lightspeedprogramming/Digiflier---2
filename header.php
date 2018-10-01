@@ -93,9 +93,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <div class="row" style="height: 26px;">
          <div class="col-md-12">
-           <div class="fixed-top" style="text-align:center;background:#288FEB;width:100%; position:fixed;max-height: 26px;margin-left: -5%;">
+           <div class="fixed-top" style="text-align:center;background:#337ab7;width:100%; position:fixed;max-height: 26px;margin-left: -5%;">
                 <!-- <div class="container"> -->
-                <p style="text-align:center; font-size:18px!important"><a style="color:#fff" href="tel:xxx-xxx-xxxx"><i class="fa fa-phone" style="color:white;"></i> x (xxx) xxx-xxx</a></p>
+                <p style="text-align:center; font-size:18px!important"><a style="color:#fff" href="mailto: contact@edigitalprocess.com"><i class="fa fa-envelope" style="color:white;"></i> contact@edigitalprocess.com</a></p>
                 <!-- </div> -->
             </div>
          </div>
@@ -106,7 +106,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- menu logo -->
         <ul class="menu-logo" style="padding-top:10px;">
             <li>
-                <a href="index.php">Xyz Softwares</a>
+                <a href="index.php">E Digital Process</a>
             </li>
         </ul>
         <!-- menu links -->
@@ -150,226 +150,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </li>
               <li><a href="about-us.php">About</a>
 
-            <li><a href="javascript:void(0)">Services <i class="fa fa-angle-down fa-indicator"></i></a>
-                <!-- drop down full width -->
-                <div class="drop-down menu-bg grid-col-12">
-                    <!--grid row-->
-                    <div class="row">
-                        <!--grid column 3-->
-                        <div class="col-md-2 col-12">
-                            <!-- <ul>
-                              <li><a href="about-1.html">About 1</a></li>
-                              <li><a href="about.php">About 2</a></li>
-                              <li><a href="about-3.html">About 3</a></li>
-                              <li><a href="about-me.html">About me</a></li>
-                              <li><a href="service-1.html">service 1 </a></li>
-                              <li><a href="service-2.html">service 2 </a></li>
-                              <li><a href="service-3.html">service 3 </a></li>
-                              <li><a href="team-1.html">team 1 </a></li>
-                              <li><a href="team-2.html">team 2 </a></li>
-                            </ul> -->
-
-                            <div class="row">
-                              <div class="col-md-12 text-center">
-                                <a href="local-business-marketing.php">
-                                  <img src="images/menu-image.png" alt="local-business" style="text-align: center">
-                                </a>
-                              </div>
-                            </div>
-                            <h5>Local Business<br> Marketing</h5>
-                            <a href="local-business-marketing.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
-
-                        </div>
-                        <!--grid column 3-->
-                        <div class="col-md-2 col-12">
-                            <a href="affiliate-marketing.php">
-                              <img src="images/service4.png" alt="affiliate-marketing">
-                            </a>
-                            <h5>Affiliate Marketing Services</h5>
-                            <a href="affiliate-marketing.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
-                        </div>
-                        <!--grid column 3-->
-                        <div class="col-md-2 col-sm-6 col-12">
-                            <!-- <ul>
-                              <li><a href="maintenance-1.html">maintenance 1 </a></li>
-                              <li><a href="maintenance-2.html">maintenance 2 </a></li>
-                              <li><a href="login-1.html">login 1 </a></li>
-                              <li><a href="login-2.html">login 2 </a></li>
-                              <li><a href="register-1.html">register 1 </a></li>
-                              <li><a href="register-2.html">register 2 </a></li>
-                              <li><a href="error-404-1.html">error 404 1 </a></li>
-                              <li><a href="error-404-2.html">error 404 2 </a></li>
-                              <li><a href="coming-soon-1.html">coming soon 1 </a></li>
-                            </ul> -->
-                            <div class="service-content">
-                              <a href="online-presence.php">
-                                  <img src="images/website-design-audit.png" alt="local-business">
-                              </a>
-                              <h5>Online Presence Analysis</h5>
-                              <a href="online-presence.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
-                            </div>
-                        </div>
-                        <!--grid column 3-->
-                        <div class="col-md-2 col-sm-6 col-12">
-                            <!-- <ul>
-                              <li><a href="coming-soon-2.html">coming soon 2 </a></li>
-                              <li><a href="page-left-sidebar.html">page left sidebar </a></li>
-                              <li><a href="page-right-sidebar.html">page right sidebar </a></li>
-                              <li><a href="page-two-sidebar.html">page two sidebar </a></li>
-                              <li><a href="sitemap.html">sitemap </a></li>
-                              <li><a href="terms-and-conditions.html">terms and conditions </a></li>
-                              <li><a href="privacy-policy.html">privacy policy </a></li>
-                            </ul> -->
-
-                            <a href="mobile-marketing-service.php">
-                              <img src="images/Mobile-Marketing-icon.png" alt="local-business" style="text-align: center;">
-                            </a>
-                            <h5>Mobile Marketing Services</h5>
-                            <a href="mobile-marketing-service.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
-                        </div>
-
-                        <div class="col-md-2 col-sm-6 col-12">
-                            <!-- <ul>
-                              <li><a href="about-1.html">About 1</a></li>
-                              <li><a href="about.php">About 2</a></li>
-                              <li><a href="about-3.html">About 3</a></li>
-                              <li><a href="about-me.html">About me</a></li>
-                              <li><a href="service-1.html">service 1 </a></li>
-                              <li><a href="service-2.html">service 2 </a></li>
-                              <li><a href="service-3.html">service 3 </a></li>
-                              <li><a href="team-1.html">team 1 </a></li>
-                              <li><a href="team-2.html">team 2 </a></li>
-                            </ul> -->
-
-                            <a href="seo.php">
-                              <img src="images/icon/seo-tag (1).png" alt="local-business">
-                            </a>
-                            <h5>Search Engine Optimization</h5>
-                            <a href="seo.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
-
-                        </div>
-                        <!--grid column 3-->
-                        <div class="col-md-2 col-sm-6 col-12">
-                            <a href="e-commerce-marketing.php">
-                              <img src="images/877331_online_512x512.png" alt="local-business">
-                            </a>
-                            <h5>E-Commerce Marketing</h5>
-                            <a href="e-commerce-marketing.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
-                        </div>
-                        <!--grid column 3-->
-                        <div class="col-md-2 col-sm-6 col-12">
-                            <!-- <ul>
-                              <li><a href="maintenance-1.html">maintenance 1 </a></li>
-                              <li><a href="maintenance-2.html">maintenance 2 </a></li>
-                              <li><a href="login-1.html">login 1 </a></li>
-                              <li><a href="login-2.html">login 2 </a></li>
-                              <li><a href="register-1.html">register 1 </a></li>
-                              <li><a href="register-2.html">register 2 </a></li>
-                              <li><a href="error-404-1.html">error 404 1 </a></li>
-                              <li><a href="error-404-2.html">error 404 2 </a></li>
-                              <li><a href="coming-soon-1.html">coming soon 1 </a></li>
-                            </ul> -->
-                            <a href="pay-per-click-service.php">
-                              <img src="images/pay-per-click.png" alt="local-business">
-                            </a>
-                            <h5>Pay Per Click <br>Service</h5>
-                            <a href="pay-per-click-service.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
-                        </div>   
-
-                        <div class="col-md-2 col-sm-6 col-12">
-                            <!-- <ul>
-                              <li><a href="about-1.html">About 1</a></li>
-                              <li><a href="about.php">About 2</a></li>
-                              <li><a href="about-3.html">About 3</a></li>
-                              <li><a href="about-me.html">About me</a></li>
-                              <li><a href="service-1.html">service 1 </a></li>
-                              <li><a href="service-2.html">service 2 </a></li>
-                              <li><a href="service-3.html">service 3 </a></li>
-                              <li><a href="team-1.html">team 1 </a></li>
-                              <li><a href="team-2.html">team 2 </a></li>
-                            </ul> -->
-
-                            <a href="conversion-rate-optimization.php">
-                              <img src="images/Conversion-Rate-Optimization-2.png" alt="local-business">
-                            </a>
-                            <h5>Conversion Rate Optimization</h5>
-                            <a href="conversion-rate-optimization.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
-
-                        </div>
-                        <!--grid column 3-->
-                        <div class="col-md-2 col-sm-6 col-12">
-                            <a href="content-marketing-service.php">
-                              <img src="images/icon-03-1.png" alt="local-business">
-                            </a>
-                            <h5>Content Marketing Service</h5>
-                            <a href="content-marketing-service.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
-                        </div>
-                        <!--grid column 3-->
-                        <div class="col-md-2 col-sm-6 col-12">
-                            <!-- <ul>
-                              <li><a href="maintenance-1.html">maintenance 1 </a></li>
-                              <li><a href="maintenance-2.html">maintenance 2 </a></li>
-                              <li><a href="login-1.html">login 1 </a></li>
-                              <li><a href="login-2.html">login 2 </a></li>
-                              <li><a href="register-1.html">register 1 </a></li>
-                              <li><a href="register-2.html">register 2 </a></li>
-                              <li><a href="error-404-1.html">error 404 1 </a></li>
-                              <li><a href="error-404-2.html">error 404 2 </a></li>
-                              <li><a href="coming-soon-1.html">coming soon 1 </a></li>
-                            </ul> -->
-                            <a href="reputation-management.php">
-                              <img src="images/online-reputation.png" alt="local-business">
-                            </a>
-                            <h5>Reputation Management</h5>
-                            <a href="reputation-management.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
-                        </div>
-                        <!--grid column 3-->
-                        <div class="col-md-2 col-sm-6 col-12">
-                            <!-- <ul>
-                              <li><a href="coming-soon-2.html">coming soon 2 </a></li>
-                              <li><a href="page-left-sidebar.html">page left sidebar </a></li>
-                              <li><a href="page-right-sidebar.html">page right sidebar </a></li>
-                              <li><a href="page-two-sidebar.html">page two sidebar </a></li>
-                              <li><a href="sitemap.html">sitemap </a></li>
-                              <li><a href="terms-and-conditions.html">terms and conditions </a></li>
-                              <li><a href="privacy-policy.html">privacy policy </a></li>
-                            </ul> -->
-
-                            <a href="email-marketing-service.php">
-                              <img src="images/email.png" alt="local-business">
-                            </a>
-                            <h5>Email Marketing Service</h5>
-                            <a href="email-marketing-service.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
-                        </div>
-
-                        <div class="col-md-2 col-sm-6 col-12">
-                            <!-- <ul>
-                              <li><a href="about-1.html">About 1</a></li>
-                              <li><a href="about.php">About 2</a></li>
-                              <li><a href="about-3.html">About 3</a></li>
-                              <li><a href="about-me.html">About me</a></li>
-                              <li><a href="service-1.html">service 1 </a></li>
-                              <li><a href="service-2.html">service 2 </a></li>
-                              <li><a href="service-3.html">service 3 </a></li>
-                              <li><a href="team-1.html">team 1 </a></li>
-                              <li><a href="team-2.html">team 2 </a></li>
-                            </ul> -->
-
-                            <a href="social-media-marketing.php">
-                              <img src="images/social-media.png" alt="local-business">
-                            </a>
-                            <h5>Social Media Marketing</h5>
-                            <a href="social-media-marketing.php" class="btn btn-sm bg-success"><span>Read More</span> </a>
-
-                        </div>
-
-                    </div>
-                </div>
+            <li><a href="services.php">Services</a>
             </li>
-            <li>
-              <a href="price.php">Pricing </a> </li>
+            
             <li><a href="contact-us.php">Contact</a></li>
-            <li style="display: none;"><a href="contact-us.php">Contact</a></li>
+            <li style="display: none;"><a href="contact-us.php">do not comment this li tag</a></li>
            
            
            

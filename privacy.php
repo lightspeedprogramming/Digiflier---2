@@ -1,5 +1,5 @@
 <?php
-  $title = "Privacy Policy || Xyz";
+  $title = "Privacy Policy || E Digital Process";
   include 'header.php';
 ?>
 
@@ -36,7 +36,7 @@
       <h4 class="mt-30 text-blue">PRIVACY POLICY</h4>
       
       <p class="mt-15">
-        Thank you for visiting xyz Softwares. This page will provide you with details about how we use the personal information collected at this site. Privacy policy must be read before using the site or submitting any personal information.</br><b>Note:</b> The privacy practices that are stated in the privacy policy are for xyz website only. No third-party website can be linked with this website.</br>Following are the privacy practices used by xyz Softwares:
+        Thank you for visiting E Digital Process. This page will provide you with details about how we use the personal information collected at this site. Privacy policy must be read before using the site or submitting any personal information.</br><b>Note:</b> The privacy practices that are stated in the privacy policy are for E Digital Process website only. No third-party website can be linked with this website.</br>Following are the privacy practices used by E Digital Process:
       </p>
 
       <h4 class="mt-30 text-blue">COLLECTION OF INFORMATION:</h4>

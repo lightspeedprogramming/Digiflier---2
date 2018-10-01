@@ -1,5 +1,5 @@
 <?php
-  $title = "Refund Policy || Xyz";
+  $title = "Refund Policy || E Digital Process";
   include 'header.php';
 ?>
 
@@ -36,14 +36,14 @@
       <h4 class="mt-30 text-blue">CANCELLATION POLICY:</h4>
       
       <p class="mt-15">
-        Thank you for visiting xyz Softwares. This page will provide you with details about how we use the personal information collected at this site. Privacy policy must be read before using the site or submitting any personal information.</br><b>Note:</b> The privacy practices that are stated in the privacy policy are for xyz website only. No third-party website can be linked with this website.</br>Following are the privacy practices used by xyz Softwares:
+        Thank you for visiting E Digital Process. This page will provide you with details about how we use the personal information collected at this site. Privacy policy must be read before using the site or submitting any personal information.</br><b>Note:</b> The privacy practices that are stated in the privacy policy are for E Digital Process website only. No third-party website can be linked with this website.</br>Following are the privacy practices used by E Digital Process:
       </p>
 
       <h4 class="mt-30 text-blue">REFUND POLICY:</h4>
       <h4 class="mt-30 text-blue">WHERE OR WHOM SHOULD YOU CONTACT REGARDING REFUND?</h4>
       <h6 class="mt-30 text-blue"><b>TO REQUEST A REFUND, CUSTOMERS CAN CONTACT US THROUGH:</b></h6>
       <ul>
-        <li><i class="fa fa-angle-right"></i> <strong> E-mail -  </strong>You can send in your request for refund through an email, addressed to us at <span class="text-success"> <strong> (contact@xyz.com)</strong></span>, mentioning your name (as it appears on your card); Email; Phone Number; Date of Charge and Amount of Charge. We will get in touch with you at the earliest and get the process completed.</li>
+        <li><i class="fa fa-angle-right"></i> <strong> E-mail -  </strong>You can send in your request for refund through an email, addressed to us at <span class="text-success"> <strong> (contact@edigitalprocess.com)</strong></span>, mentioning your name (as it appears on your card); Email; Phone Number; Date of Charge and Amount of Charge. We will get in touch with you at the earliest and get the process completed.</li>
       </ul>
 
 

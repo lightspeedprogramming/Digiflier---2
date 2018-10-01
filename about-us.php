@@ -1,6 +1,6 @@
 <?php
 
-  $title = 'About Us || Xyz';
+  $title = 'About Us || E Digital Process';
 
   include 'header.php';
 ?>
@@ -34,17 +34,32 @@ slider -->
         <div class="section-title-1 text-center">
           <h1 class="text-blue">About us</h1>
           <div class="title-line"></div>
-          <p>Who we are and what we do</p>
+          
         </div>
       </div>
     </div>
      <div class="row">
       <div class="col-lg-12 col-md-12 text-center">
-          <p class="text-justify">We are XYZ, a mobile apps and software development benefits firm situated in the global area, and we spend significant time in building end-to-end programming arrangements.We exceed expectations in conveying cloud arrangement and relocation administrations, expansive scale projects development, front line mobile applications, and designing in responsive web page and websites. </p>
+          <p class="text-justify">E Digital Process is alluded to as a standout amongst the most astonishing, astounding application development firm. We have the best and most creative plans to expand your business. E Digital Process is similarly known to be a grant-winning association which has been allowed for making the best SEO system crusades by top driving associations.</p>
 
           <P class="text-justify">
-            At XYZ, we give great mobile application development services at uncommonly sensible rates. We give capable services which are upheld by defining moment, quality and, sensational customer mind and significantly more. Our association can give some additional organizations. We make dynamic and capable locales as indicated by the necessities of our clients. Our mobile app developers and web app developers are both experienced and talented in the moved application development and moreover strategies to pass on world-class answer for our customers.
+            We wind up being the best and most innovative market developing firms that can empower you to get fulfill your dreams into reality. We let you the best and most imaginative outline, philosophy execution, augmentation, and strategies for application development and SEO crusades.
           </P>
+
+          <p>We keep up the entirety of our focus to allow you to the best service for the whole satisfaction of the client with the objective that it can empower them to grow up their business and emphatically influence your business. We totally understand every single trouble that keeps coming over our way with our unique plans.</p>
+
+          <div class="custom-content text-left mt-30">
+            
+            <ul>
+              <li><i class="fa fa-hand-o-right"></i> Best solutions for Web, Mobile, and Cloud Application for various technological platforms.</li>
+              <li><i class="fa fa-hand-o-right"></i> Experienced subject matter specialists across varied technology.</li>
+              <li><i class="fa fa-hand-o-right"></i> Space understanding crosswise over e-Publishing, web-based business, m-Commerce and print trade, HR, Test Automation, Public Transport, and eLearning.</li>
+              <li><i class="fa fa-hand-o-right"></i> Achieve more honed permeability into application discharge availability, bolster complexities and improvement forms.</li>
+              <li><i class="fa fa-hand-o-right"></i> Accomplish finish control and straightforwardness crosswise over programming advancement lifecycle.</li>
+            </ul>
+
+          </div>
+
         </div>
      </div> 
   </div>
@@ -53,66 +68,10 @@ slider -->
 <!--=================================
  About-->
 
-
- <!-- Two Column Section -->
-<section class="about page-section-ptb-less">
-  <div class="container">
-    <div class="row">
-       
-      <div class="col-lg-6 col-md-6 col-sm-6">
-         <div class="item"><img src="images/about/04.jpg" alt="">
-          </div>
-      </div>
-
-      <div class="col-lg-6 col-md-6 col-sm-6">
-        <div class="who-we-are-right">
-          
-              <div class="row">
-                 <div class="col-lg-12 col-md-12 sm-device-padding">
-                    <div class="feature-4">
-                      <img src="images/icon/target.png">
-                        <h4>OUR VISION</h4>
-                        <p class="mt-20">To interface people and organizations from around the globe into a network that would work just right along regardless of area and staff. We tend to furnish our customers with the devices they need to advertise development and structure of their business in a changing financial environment. </p>
-                        
-                    </div>
-                 </div>
-              </div>
-              <div class="row">
-                 <div class="col-lg-12 col-md-12">
-                    <div class="feature-4">
-                        <img src="images/icon/win (1).png">
-                        <h4>OUR MISSION</h4>
-                        <p class="mt-20">Easiness, it's our coordinating light and the key regard we swing to while framing all that we do. We assume that the best courses of action are frequently the slightest complex - and we've made it our primary objective to give fundamental ways to deal with you to all the more probable interface with your supporters. </p>
-                        
-                    </div>
-                 </div>
-              </div>
-              <div class="row">
-                 <div class="col-lg-12 col-md-12">
-                    <div class="feature-4">
-                        <img src="images/icon/enterprise (2).png">
-                        <h4>OUR TEAM</h4>
-                        <p class="mt-20">Our drive has the vision to have any sort of impact by interfacing ideal people at an ideal time in the most attracting way. We acknowledge with this approach an incredible arrangement can be refined and developed for humankind in alternate points of view. </p>
-                        
-                    </div>
-                 </div>
-              </div>
-            
-        </div>
-      </div> 
-      
-     </div>
-     <br/><br/>
-  </div>
-</section>
-<!--===============================
-  End Two Column Section -->
-
-
 <!--=================================
  How We Do-->
 
-<section class="service white-bg page-section-ptb">
+<!-- <section class="service white-bg page-section-ptb">
 
   <div class="container">
     <div class="row">
@@ -120,12 +79,12 @@ slider -->
         <div class="section-title-1 text-center">
           <h1 class="text-blue">How We Do</h1>
           <div class="title-line"></div>
-          <p>Before starting a mobile application developments projects, it is essential to get a handle on the framework attracted with a convincing site change fight. XYZ considers customers who require a concentrated, full-advantage way to deal with oversee web look device publicizing. </p>
+          
         </div>
       </div>
-    </div>
+    </div> -->
 <!-- =========================================== -->
-     <div class="row">
+     <!-- <div class="row">
       <div class="col-lg-3 col-md-3 col-sm-6">
          <div class="feature-11-my text-center clearfix">
             <div class="feature-11-icon mb-30">
@@ -166,56 +125,19 @@ slider -->
              </div>
             <div class="feature-11-info">
               <h4 class="pb-20">Reporting Analysis</h4>
-              <p>Our XYZ contemplate includes a few elements like a substance, interfacing structure, online web based life partners, and its trust over the web.</p>
+              <p>Our E Digital Process contemplate includes a few elements like a substance, interfacing structure, online web based life partners, and its trust over the web.</p>
             </div>  
          </div>
       </div>
     </div>
   </div>
-</section>
+</section> -->
 <!--=================================
  End How We Do-->
 
-
-<!-- Two Column Section -->
-    <section class="about page-section-ptb">
-      <div class="container">
-        <div class="row">
-           <div class="col-lg-12 col-md-12">
-            <div class="section-title-1 text-center">
-              <h1 class="text-blue">TAKE YOUR BUSINESS TO THE NEXT LEVEL</h1>
-              <div class="title-line"></div>
-              <p>XYZ can build the web searcher rank and website page movement of any association. XYZ is successfully addressing the issues of associations with complex clients in forceful enterprises. </p>
-            </div>
-          </div>
-        </div>
-         <div class="row">
-          
-          <div class="col-lg-6 col-md-6 col-sm-6">
-             <div class="item"><img src="images/about/03.jpg" alt="">
-              </div>
-          </div>
-
-          <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
-            <div class="who-we-are-right" style="margin-left: 20px">
-              <h3 class="text-blue mb-20">WHAT MAKES US UNIQUE</h3>
-              <p>We also give social media services and in addition we offer a broad assortment of organizations, for instance, mobile application development including web application, PPC, website audits, online application, and online internet marketing also. </p>
-
-              
-
-              <ul class="who-we-are-about mt-20 mb-20">
-                <li><i class="fas fa-check"></i> We absolutely take after Google site administrator rules. </li>
-                <li><i class="fas fa-check"></i> 50% of our clients come through referrals. </li>
-                <li><i class="fas fa-check"></i> Xyz is an IT association offering complete mobile or web application development services.</li>
-              </ul> 
-            </div>
-          </div>
-         </div>
-         <br/><br/>
-      </div>
-    </section>
-<!--===============================
-  End Two Column Section -->
+<?php
+  include 'common-2.php';
+?>
 
  <?php
   include 'common.php';

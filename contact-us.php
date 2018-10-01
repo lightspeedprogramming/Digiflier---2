@@ -1,5 +1,5 @@
 <?php
-  $title = 'Contact Us || Xyz';
+  $title = 'Contact Us || E Digital Process';
   include 'header.php';
 ?>
 
@@ -48,36 +48,10 @@
          </div>
          <div class="contact-add">
            <i class="fa fa-envelope-o"></i>
-           <p class="text-black">contact@xyz.com</p>
+           <p class="text-black">contact@edigitalprocess.com</p>
          </div>
        </div>-->
 
-       <div class="col-lg-5 col-md-5 mt-70">
-
-           <!-- <div class="contact-box-my text-left clearfix text-center">
-              <div class="info ">
-                <i class="fa fa-map-marker"></i>
-                <h4><strong>Address</strong></h4>
-                <p>xxxxxxxxxxxxxxxxx </p>
-              </div>
-           </div>
-             <div class="contact-box-my mb-20 text-left clearfix text-center">
-                <div class="info mt-30">
-                <i class="fa fa-phone"></i>
-                <h4><strong>Phone</strong></h4>
-                <p><a href="tel: +x-xxx-xxx-xxxx" style="color: #323232;">+x-xxx-xxx-xxxx</a></p>
-              </div>
-           </div> -->
-           <div class="contact-box-my text-left clearfix text-center">
-              <!--<i class="fa fa-envelope-o"></i>-->
-              <div class="info">
-                <i class="fa fa-envelope"></i>
-                <h4><strong>Email</strong></h4>
-                <p class="text-black"><a href="mailto: contact@xyz.com" style="color: #323232;font-size: 20px">contact@xyz.com</a></p>
-              </div>
-           </div>
-       </div>
-       
        <div class="col-lg-7 col-md-7 mt-70">
                    
                    <!-- <div class="row">
@@ -168,6 +142,35 @@
 
                 <div id="ajaxloader" style="display:none"><img class="center-block mt-30 mb-30" src="images/ajax-loader-white.gif" alt=""></div>
            </div>
+
+
+       <div class="col-lg-5 col-md-5 mt-70">
+
+           <!-- <div class="contact-box-my text-left clearfix text-center">
+              <div class="info ">
+                <i class="fa fa-map-marker"></i>
+                <h4><strong>Address</strong></h4>
+                <p>xxxxxxxxxxxxxxxxx </p>
+              </div>
+           </div>
+             <div class="contact-box-my mb-20 text-left clearfix text-center">
+                <div class="info mt-30">
+                <i class="fa fa-phone"></i>
+                <h4><strong>Phone</strong></h4>
+                <p><a href="tel: +x-xxx-xxx-xxxx" style="color: #323232;">+x-xxx-xxx-xxxx</a></p>
+              </div>
+           </div> -->
+           <div class="contact-box-my text-left clearfix text-center">
+              <!--<i class="fa fa-envelope-o"></i>-->
+              <div class="info">
+                <i class="fa fa-envelope"></i>
+                <h4><strong>Email</strong></h4>
+                <p class="text-black"><a href="mailto: contact@edigitalprocess.com" style="color: #323232;font-size: 20px">contact@edigitalprocess.com</a></p>
+              </div>
+           </div>
+       </div>
+       
+       
 
        <!--<div class="col-lg-8 col-md-8 col-sm-8">
         <h2 class="text-white">Contact Us</h2>

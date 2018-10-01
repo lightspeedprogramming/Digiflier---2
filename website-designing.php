@@ -1,5 +1,5 @@
 <?php
-  $title = 'WEB DEVELOPMENT || E Digital Process';
+  $title = 'WEB DESIGNING || E Digital Process';
   include 'header.php';
 ?>
 
@@ -9,12 +9,12 @@
 <section class="inner-intro bg-2-my ">
   <div class="container">
      <div class="row text-center intro-title">
-            <h1 class="text-blue">WEB DEVELOPMENT</h1>
+            <h1 class="text-blue">WEB DESIGNING</h1>
             
             <ul class="page-breadcrumb">
               <li><a href="index.php"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
               
-              <li><span>WEB DEVELOPMENT</span> </li>
+              <li><span>WEB DESIGNING</span> </li>
            </ul>
      </div>
   </div>
@@ -34,12 +34,12 @@ about- -->
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-6">
      <div class="custom-content-2 ">
-      <h1 class="mb-15 text-blue">WEB DEVELOPMENT</h1>
+      <h1 class="mb-15 text-blue">WEB DESIGNING</h1>
        
-       <p class="text-justify"> Content management system relies on Secrecy, faithfulness, and accuracy. To supervise the design, content and other substance, content management works as an important tool in it. It is used to design for any part of the site or target. It lets your interaction with the engineers so that they can develop a website and make it of the ultimate aspect. E Digital Process knows your requirements and gives you appropriate utilization of CMS.</p>
+       <p class="text-justify"> At E Digital Process, we are known to create anything from dynamic portals and e-commerce store to schematic circular sites to promote your brand and generate inquiries. Our team of skilled developers specialized in rapid and robust web development.</p>
 
        <P>
-        We only focus on the technology so you can focus on growing your business. Your website is the most important for your company’s marketing plan. It’s the central hub for your communication and content marketing efforts. As website development technology has advanced over the years, we now have more digital marketing tools than ever before.
+         We deliver attractive sites that are attractive to look at and perform equally well. We ensure a solid user experience that delivers substantially higher audience engagement and conversation rates. We provide them with the complete satisfaction in order to get the client’s response. Our team also keeps in mind about the product descriptions, ad copy, and revenue tracking. Responsive websites consist of all the essentials contents present into it.
        </P>
 
        
@@ -58,7 +58,7 @@ about- -->
      </div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-6 sm-device-padding">
-       <img class="img-responsive" src="img/web-dev.jpg" alt="">
+       <img class="img-responsive" src="img/website-design.jpg" alt="">
     </div>
   </div>
 

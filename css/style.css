@@ -246,19 +246,19 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 {
   .awesome-features
   {
-    height: 700px;
+    height: 490px;
   }
 }
-
+/*
 .awesome-features .title h1 {
-    /*font-size: px;*/
+    
     color: #00a9da;
-    margin: 10px 0px 10px;
+    margin: 20px ;
     font-weight: 600;
     line-height: 50px;
     text-transform: uppercase;
     padding-top: 8%;
-}
+}*/
 .awesome-features .title p {
     font-size: 21px;
     color: #fff;
@@ -1013,8 +1013,8 @@ li:last-child.highlight { margin-bottom: 0px; }
 
  .bg-1 { background: url(../images/bg/01.jpg); background-attachment: fixed; background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; }
  .bg-2 { background: url(../images/bg/02.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
-  .bg-banner { background: url(../images/banner-3.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; } 
- .bg-2-my { background: url(../images/bg/1.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
+  .bg-banner { background: url(../img/SEO_Banner.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; } 
+ .bg-2-my { background: url(../img/banner.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
  .bg-3 { background: url(../images/bg/03.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
  .bg-3-my { background: url(../images/bg/02.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
  .bg-4 { background: url(../images/bg/04.jpg); background-clip: initial; background-color: rgba(0, 0, 0, 0); background-origin: initial; background-position: center center; background-repeat: no-repeat; background-size: cover !important; position: relative; z-index: 0; background-attachment: fixed; }
@@ -1862,7 +1862,7 @@ input.feature-toggle:checked ~ .feature-annotations span:nth-child(5) { -webkit-
     		Let’s Get in Touch
 **************************************/
 .contact-box i { background: #eceff7; width: 80px; height: 80px; text-align: center; line-height: 80px; border-radius: 5px; font-size: 34px; color: #00a9da;margin-bottom: 20px; }
-.contact-box-my .info i {  width: 80px; height: 80px; text-align: center; line-height: 80px; border-radius: 5px; font-size: 34px; color: #00a9da; }
+.contact-box-my .info i {  width: 80px; height: 80px; text-align: center; line-height: 80px; border-radius: 5px; font-size: 34px; color: #a94442; }
 /*contact form*/
 .contact-form .section-field { position: relative; width: 31.3%; margin-right: 3%; float: left; }
 .contact-form .section-field { position: relative; width: 31.3%; margin-right: 3%; float: left; }
@@ -2918,7 +2918,7 @@ blockquote.entry-quote { border: none; }
 /*************************************
 	    	 Footer 
 **************************************/
-.footer { background: #191919; }
+.footer { background: #265484fc;}
 .footer-logo img { width: 65%; }
 .addresss-info li { font-size: 14px; color: #fff; margin-bottom: 10px; }
 .addresss-info i{  color: #00a9da; padding-right: 5px; float: left; display: table-cell; width: 30px; line-height: 23px; font-size: 17px; }
@@ -3244,4 +3244,120 @@ ul.footer-instagram-images li { display: inline-block; }
   {
     margin-top: 20px;
   }
+}
+
+
+
+.our-clients .owl-carousel-5 .item img {
+
+  height: 200px;
+  width: 200px;
+}
+
+.our-clients .owl-carousel-5 .item .cont-div {
+
+  display: block;
+  padding-top: 20px; 
+
+}
+
+.our-clients .owl-carousel-5 .item .cont-div h4 {
+
+  color: #000000;
+
+}
+
+
+@media (min-width: 1024px) {
+  #intro .carousel-control-prev, #intro .carousel-control-next {
+    width: 5%;
+  }
+}
+
+#intro .carousel-control-next-icon, #intro .carousel-control-prev-icon {
+  background: none;
+  font-size: 32px;
+  line-height: 1;
+}
+
+#intro .carousel-indicators li {
+  cursor: pointer;
+}
+
+#intro .btn-get-started {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 32px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin: 10px;
+  color: #fff;
+  background: #18d26e;
+}
+
+#intro .btn-get-started:hover {
+  background: #fff;
+  color: #18d26e;
+}
+
+#intro .banner .bannerSlider {
+    position: relative;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+@media (max-width: 768px)
+{
+  .awesome-features .title h1 {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: 600;
+  }
+
+  .awesome-features .title p {
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 17px;
+    margin-left: 20px;
+    font-weight: 600;
+  }
+
+  .awesome-features {
+    height: 357px;
+  }
+
+}
+
+
+
+
+@media (min-width: 1024px)
+{
+  .awesome-features .title h1 {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 25px;
+    margin-left: 20px;
+    font-weight: 600;
+    padding-top: 10%;
+  }
+
+  .awesome-features .title p {
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 19px;
+    margin-left: 20px;
+    font-weight: 600;
+  }
+
+  .awesome-features {
+    height: 485px;
+  }
+
 }
